@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unidad 1
-subtitle: Introduccion
+subtitle: Introducción a las bases de datos
 ---
 
-Hola a todos
+Durante la primera unidad del curso de Fundamentos de Bases de Datos, se desarrollaron actividades que nos ayudaron a comprender los conceptos básicos de una base de datos de forma general. A continuación se presentan estas actividades:
