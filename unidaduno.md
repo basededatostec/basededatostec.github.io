@@ -4,13 +4,13 @@ title: Unidad 1
 subtitle: Introducción a las bases de datos
 ---
 
-Durante la primera unidad del curso de Fundamentos de Bases de Datos, se desarrollaron actividades que nos ayudaron a comprender los conceptos básicos de una base de datos de forma general. A continuación se presentan estas actividades:
+Durante la primera unidad de la asignatura en curso, se desarrollaron actividades que nos ayudaron a comprender los conceptos básicos de una base de datos de forma general. A continuación se presentan estas actividades:
 
 Here's a useless table:
  
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Number | FORO: La importancia de las bases de datos | 
+| :------ |:--- |
+| Five | Six | 
+| Ten | Eleven | 
+| Seven | Eight | 
+| Two | Three | 
