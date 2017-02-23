@@ -13,6 +13,6 @@ subtitle: Introducción a las bases de datos
 
 | Actividad | PRESENTACIÓN: Las 11 bases de datos más grandes del mundo | 
 | :------ |:--- |
-| ![Foro](https://basededatostec.github.io/img/foro.png) | En esta actividad desarrollamos una presentación en Power Point de las 11 bases de datos más grandes del mundo, clic AQUÍ para ver la presentación en el blog o puedes descargarla dando clic ACÁ. | 
+| ![Foro](https://basededatostec.github.io/img/ppt.png) | En esta actividad desarrollamos una presentación en Power Point de las 11 bases de datos más grandes del mundo, clic AQUÍ para ver la presentación en el blog o puedes descargarla dando clic ACÁ. | 
 
 
