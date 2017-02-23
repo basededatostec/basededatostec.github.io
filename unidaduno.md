@@ -11,8 +11,8 @@ subtitle: Introducción a las bases de datos
 | ![Foro](https://basededatostec.github.io/img/foro.png) | La primera actividad desarrollada fue una aportación al foro acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [AQUÍ](http://markdowntutorial.com/). | 
 
 
-| Actividad | FORO: La importancia de las bases de datos | 
+| Actividad | PRESENTACIÓN: Las 11 bases de datos más grandes del mundo | 
 | :------ |:--- |
-| ![Foro](https://basededatostec.github.io/img/foro.png) | La primera actividad desarrollada fue una aportación al foro acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [AQUÍ](http://markdowntutorial.com/). | 
+| ![Foro](https://basededatostec.github.io/img/foro.png) | En esta actividad desarrollamos una presentación en Power Point de las 11 bases de datos más grandes del mundo, clic AQUÍ para ver la presentación en el blog o puedes descargarla dando clic ACÁ. | 
 
 
