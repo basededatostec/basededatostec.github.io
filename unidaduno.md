@@ -11,4 +11,6 @@ Durante la primera unidad de la asignatura en curso, se desarrollaron actividade
 | ![Foro](https://basededatostec.github.io/img/foro.png) | La primera actividad desarrollada fue una aportación al foro acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [AQUÍ](http://markdowntutorial.com/). | 
 
 kk
-
+| Actividad | FORO: La importancia de las bases de datos | 
+| :------ |:--- |
+| ![Foro](https://basededatostec.github.io/img/foro.png) | La primera actividad desarrollada fue una aportación al foro acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [AQUÍ](http://markdowntutorial.com/). | 
