@@ -9,7 +9,7 @@ subtitle: Introducción a las bases de datos
 | Actividad | FORO: La importancia de las bases de datos | 
 | :------ |:--- |
 | ![Foro](https://basededatostec.github.io/img/foros.png) | La primera actividad desarrollada fue una aportación al foro acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [AQUÍ](http://markdowntutorial.com/).|
-#
+
 | Actividad | PRESENTACIÓN: Las 11 bases de datos más grandes del mundo | 
 | :------ |:--- |
 | ![PowerPoint](https://basededatostec.github.io/img/power.png) | En esta actividad desarrollamos una presentación en Power Point de las 11 bases de datos más grandes del mundo, clic AQUÍ para ver la presentación en el blog o puedes descargarla dando clic ACÁ. | 
@@ -17,7 +17,6 @@ subtitle: Introducción a las bases de datos
 | Actividad | PODCAST: Resumen de la Unidad 1 | 
 | :------ |:--- |
 | ![PodCast](https://basededatostec.github.io/img/pod.png) | Como ultima actividad realizamos el resumen de la Unidad 1 a través de un PODCAST, puedes escucharlo en ESTE BLOG o puedes dar clic AQUÍ para escucharlo en otro reproductor. | 
-
 
 | Actividad | TEXTO: Resumen de la Unidad 1 | 
 | :------ |:--- |
