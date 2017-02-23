@@ -12,6 +12,6 @@ subtitle: Introducción a las bases de datos
 
 | Actividad | FORO: La importancia de las bases de datos | 
 | :------ |:--- |
-| Actividad | FORO: La importancia de las bases de datos | 
+
 
 </p>
