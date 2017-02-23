@@ -8,8 +8,8 @@ subtitle: Introducción a las bases de datos
 
 | Actividad | FORO: La importancia de las bases de datos | 
 | :------ |:--- |
-<p style="text-align: justify;">| ![Foro](https://basededatostec.github.io/img/foro.png) | La primera actividad desarrollada fue una aportación al foro acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [AQUÍ](http://markdowntutorial.com/). | 
-</p>
+| ![Foro](https://basededatostec.github.io/img/foro.png) | La primera actividad desarrollada fue una aportación al foro acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [AQUÍ](http://markdowntutorial.com/). | 
+
 
 | Actividad | FORO: La importancia de las bases de datos | 
 | :------ |:--- |
