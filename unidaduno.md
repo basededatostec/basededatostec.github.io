@@ -22,7 +22,6 @@ subtitle: Introducción a las bases de datos
 | [ja2-stracciatella.github.io](http://ja2-stracciatella.github.io) | Jagged Alliance 2 Stracciatella |
 | [PatientOutcomeFunding.org](http://www.patientoutcomefunding.org/) | Patient Outcome Funding |
 
-### Personal websites
 
 | Website | Who | What |
 | :------ |:--- | :--- |
