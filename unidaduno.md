@@ -6,6 +6,7 @@ subtitle: Introducción a las bases de datos
 
 <p style="text-align: justify;">Durante la primera unidad de la asignatura en curso, se desarrollaron actividades que nos ayudaron a comprender los conceptos básicos referentes a las bases de datos de forma general y específica. A continuación se presentan estas actividades:</p>
 
+| :------ |:--- |
 | | |
 | Actividad | FORO: La importancia de las bases de datos | 
 | :------ |:--- |
@@ -19,7 +20,7 @@ subtitle: Introducción a las bases de datos
 
 | Actividad | PODCAST: Resumen de la Unidad 1 | 
 | :------ |:--- |
-| ![PodCast](https://basededatostec.github.io/img/pod.png) | Como ultima actividad realizamos el resumen de la Unidad 1 a través de un PODCAST, puedes escucharlo en ESTE BLOG o puedes dar clic AQUÍ para escucharlo en otro reproductor. | 
+| ![PodCast](https://basededatostec.github.io/img/pod.png) | Como ultima actividad realizamos el resumen de la Unidad 1 a través de un PODCAST, puedes escucharlo en ESTE BLOG o puedes dar clic AQUÍ para escucharlo en un reproductor externo. | 
 | | |
 
 | Actividad | TEXTO: Resumen de la Unidad 1 | 
