@@ -20,7 +20,7 @@ subtitle: Introducción a las bases de datos
 | :------ |:--- |
 | ![Foro](https://basededatostec.github.io/img/pod.png) | Como ultima actividad realizamos el resumen de la Unidad 1 a través de un PODCAST, puedes escucharlo en ESTE BLOG o puedes dar clic AQUÍ para escucharlo en otro reproductor. | 
 
-Cabecera A | Cabecera B
--- | --
-Campo A0 | Campo B0
-Campo A1 | Campo B1
+| Cabecera A | Cabecera B |
+| ---------- | ---------- |
+| Campo A0   | Campo B0   |
+| Campo A1   | Campo B1   |
