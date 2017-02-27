@@ -4,8 +4,8 @@ title: Podcasts
 ---
 Sección de podcasts del sitio. Actualmente hay un podcast disponible.
 #### Sub-Folders: 
-
-| ### PODCAST 1  |  | 
+### PODCAST 1
+|   |  | 
 | :------- | :------: | 
 |   | Total de Archivos: 1 | 
 | ![Archivos](https://basededatostec.github.io/img/01archivos.png "Podcasts")  | Unidad 1. Introducción a las bases de datos      | 
