@@ -15,7 +15,7 @@ de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápid
 
 ### 1.2 OBJETIVOS DE LAS BASES DE DATOS
 
->Algunos de los principales objetivos de las bases de datos son:
+Algunos de los principales objetivos de las bases de datos son:
 
 __Disminuir la redundancia e inconsistencia de los datos__
 
