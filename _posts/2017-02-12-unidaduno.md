@@ -85,7 +85,7 @@ __Modelo jerárquico__
 
 <p style="text-align: justify;">En este modelo los datos se organizan en una <b>forma similar a un árbol</b>, en donde un nodo padre de información puede tener varios hijos. El nodo que no tiene padres es llamado <b>raíz</b>, y a los nodos que no tienen hijos se los conoce como <b>hojas</b>. Las bases de datos jerárquicas son especialmente útiles en el caso de aplicaciones que <b>manejan un gran volumen de información</b> y datos muy compartidos.</p>
 
-<center><img src="https://basededatostec.github.io/img/10jerarquias.png" title="Jerárquias" alt="jerarquias"></center>
+<center><img src="https://basededatostec.github.io/img/10jerarquia.png" title="Jerárquias" alt="jerarquias"></center>
 
 Actualmente el modelo más usado es el modelo relacional basado en tablas sin olvidar el Modelo Orientado a objetos.
 
