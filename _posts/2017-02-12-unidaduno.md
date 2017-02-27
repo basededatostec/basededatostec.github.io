@@ -7,13 +7,13 @@ tags: [unidad uno, resumen, introducción]
 ### 1.1 CONCEPTOS BÁSICOS
 
 <p style="text-align: justify;"><b>Base de datos</b>. Una base de datos es simplemente un gran almacén donde se guardan enormes cantidades de información organizada, 
-de esta manera cuando se quieran utilizar estos datos, se puedan encontrar rápidamente, así ahorramos espacio físico y tiempo.
+de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápidamente, así ahorramos espacio físico y tiempo.
 
 <br><br>También se puede definir como un conjunto de datos relacionados y organizados, estos datos a su vez son recolectados y utilizados por grandes empresas e constituciones.
 
-<br><br><b>Dato</b>. Un dato es información que refleja una característica de algún objeto, ya sea concreto, o imaginario, por ejemplo podemos crear una base de datos acerca de los datos de una persona, un dato posible, sería; la fecha de nacimiento.</p>
+<br><br><b>Dato</b>. Un dato es información que refleja una característica de algún objeto, ya sea concreto, o imaginario, por ejemplo podemos crear una base de datos acerca de los datos de una persona, un dato posible, sería; la fecha de nacimiento.</p><br><br>
 
-<br><br>### 1.2 OBJETIVOS DE LAS BASES DE DATOS
+### 1.2 OBJETIVOS DE LAS BASES DE DATOS
 
 <br><br>Algunos de los principales objetivos de las bases de datos son:
 
