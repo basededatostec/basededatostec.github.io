@@ -100,3 +100,13 @@ __Modelo relacional__
 __Modelo  transaccional__
 
 <p style="text-align: justify;">Son bases de datos cuyo único fin es el <b>envío</b> y <b>recepción de datos</b> a grandes velocidades, estas bases son muy poco comunes y están dirigidas por lo general al entorno de análisis de calidad, es importante entender que su fin único es <b>recolectar</b> y <b>recuperar los datos</b> a la mayor velocidad posible, por lo tanto la redundancia y duplicación de información no es un problema como con las demás bases de datos.</p>
+
+### 1.5 CLASIFICACIÓN DE LAS BASES DE DATOS
+
+<p style="text-align: justify;">Las bases de datos pueden clasificarse de varias maneras, de acuerdo al contexto que se esté manejando, la utilidad de las mismas o las necesidades que satisfagan.</p>
+
+__Según la variabilidad de los datos almacenados__
+
+<p style="text-align: justify;">Bases de datos estáticas: Éstas son bases de datos de sólo lectura, utilizadas primordialmente para almacenar datos históricos que posteriormente se pueden utilizar para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
+
+<p style="text-align: justify;">Bases de datos dinámicas: Éstas son bases de datos donde la información almacenada se modifica con el tiempo, permitiendo operaciones como actualización y adición de datos, además de las operaciones fundamentales de consulta. Un ejemplo de esto puede ser la base de datos utilizada en un sistema de información de una tienda de abarrotes, una farmacia, un videoclub, etc.</p>
