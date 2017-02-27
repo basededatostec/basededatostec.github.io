@@ -89,9 +89,14 @@ __Modelo jerárquico__
 
 __Modelo de red__
 
-<p style="text-align: justify;">Éste es un modelo ligeramente distinto del jerárquico; su diferencia fundamental es la modificación del concepto de nodo: se permite que <b>un mismo nodo tenga varios padre</b>. Ofrecía una solución eficiente al <b>problema de redundancia</b> de datos.</p>
+<p style="text-align: justify;">Éste es un modelo ligeramente distinto del jerárquico; su diferencia fundamental es la modificación del concepto de nodo: se permite que <b>un mismo nodo tenga varios padre</b>. Ofrecía una solución eficiente al <b>problema de 
+redundancia</b> de datos.</p>
 
-<center><img src="https://basededatostec.github.io/img/10jerarquia.png" title="Jerárquias" alt="jerarquias"></center>
+__Modelo relacional__
+
+<p style="text-align: justify;">Éste es el modelo utilizado en la actualidad para modelar <b>problemas reales</b> y administrar datos dinámicamente.Su idea fundamental es el uso de <b>relaciones</b>. Estas relaciones podrían considerarse en forma lógica como conjuntos de datos llamados <b>tuplas</b>.  La información puede ser recuperada o almacenada mediante <b>consultas</b> que ofrecen una amplia flexibilidad y poder para administrar la información.</p>
+
+<center><img src="https://basededatostec.github.io/img/11relacional.png" title="Relacional" alt="relacional"></center>
 
 Actualmente el modelo más usado es el modelo relacional basado en tablas sin olvidar el Modelo Orientado a objetos.
 
