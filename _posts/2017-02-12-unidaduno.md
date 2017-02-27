@@ -14,6 +14,7 @@ de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápid
 <br><br><b>Dato</b>. Un dato es información que refleja una característica de algún objeto, ya sea concreto, o imaginario, por ejemplo podemos crear una base de datos acerca de los datos de una persona, un dato posible, sería; la fecha de nacimiento.</p>
 
 ### 1.2 OBJETIVOS DE LAS BASES DE DATOS
+
 <center><img src="https://basededatostec.github.io/img/08objetivos.png" title="Objetivos" alt="objetivoss"></center>
 Algunos de los principales objetivos de las bases de datos son:
 
@@ -43,4 +44,4 @@ __Debe contar con integridad__
 
 <p style="text-align: justify;">La información contendida en el sistema debe ser coherente y consistente con las reglas semánticas propias del mundo real.</p>
 
-<center><img src="https://basededatostec.github.io/img/06unidaduno.jpg"></center>
+
