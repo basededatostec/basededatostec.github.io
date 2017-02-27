@@ -103,10 +103,10 @@ __Modelo  transaccional__
 
 ### 1.5 CLASIFICACIÓN DE LAS BASES DE DATOS
 
-<p style="text-align: justify;">Las bases de datos pueden clasificarse de varias maneras, de acuerdo al contexto que se esté manejando, la utilidad de las mismas o las necesidades que satisfagan.</p>
+<p style="text-align: justify;">Las bases de datos se clasificarse de varias maneras, de acuerdo al contexto que se esté manejando, su utilidad o las necesidades que satisfagan.</p>
 
 __Según la variabilidad de los datos almacenados__
 
-<p style="text-align: justify;">Bases de datos estáticas: Éstas son bases de datos de sólo lectura, utilizadas primordialmente para almacenar datos históricos que posteriormente se pueden utilizar para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
+<p style="text-align: justify;"><b>Bases de datos estáticas</b>: Éstas son bases de datos de sólo lectura, utilizadas primordialmente para <b>almacenar datos históricos,</b> se utilizan para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
 
-<p style="text-align: justify;">Bases de datos dinámicas: Éstas son bases de datos donde la información almacenada se modifica con el tiempo, permitiendo operaciones como actualización y adición de datos, además de las operaciones fundamentales de consulta. Un ejemplo de esto puede ser la base de datos utilizada en un sistema de información de una tienda de abarrotes, una farmacia, un videoclub, etc.</p>
+<p style="text-align: justify;"><b>Bases de datos dinámicas</b>: Éstas son bases de datos donde la información almacenada se modifica con el tiempo, permitiendo operaciones como <b>actualización</b> y <b>adición de datos</b>, además de las operaciones fundamentales de consulta.</p>
