@@ -69,20 +69,23 @@ Su uso es muy amplio y se puede tener en cualquier sistema que aloje datos.
 
 <center><img src="https://basededatostec.github.io/img/09modelos.png" title="Modelos" alt="modelos"></center>
 
-Un modelo de datos es <b>una descripción</b> de algo conocido como contenedor de datos, así como de los métodos para almacenar y recuperar información deesos contenedores. Los modelos de datos <b>no son físicos</b>: son abstracciones que permiten la implementación de un sistema eficiente de base de datos</p>
+<p style="text-align: justify;">Un modelo de datos es <b>una descripción</b> de algo conocido como contenedor de datos, así como de los métodos para almacenar y recuperar información deesos contenedores. Los modelos de datos <b>no son físicos</b>: son abstracciones que permiten la implementación de un sistema eficiente de base de datos</p>
 
 Algunos modelos con frecuencia utilizados en las bases de datos:
 
+#### Modelos de diseño
 
-Dentro de los modelos e xistentes hoy en día podemos hacer dos clasificaciones:
+__Modelo entidad-relación ER__
 
-Modelos de diseño: Predomina el modelo “Entidad/relación”.
+<p style="text-align: justify;">El modelo entidad-relación ER es un modelo de datos que permite representar cualquier abstracción, percepción y conocimiento en un sistema de información formado por un conjunto de objetos denominados entidades y relaciones, incorporando una representación visual conocida como diagrama entidad-relación. </p>
 
-Modelos de representación:
+#### Modelos de representación:
 
-Primero apareció el modelo jerárquico o de tipo árbol.
+__Modelo jerárquico__
 
-<p style="text-align: justify;">Posteriormente se evolucionó hacia el modelo de red en el que se usan registros unidos por enlaces.
+<p style="text-align: justify;">En este modelo los datos se organizan en una <b>forma similar a un árbol</b>, en donde un nodo padre de información puede tener varios hijos. El nodo que no tiene padres es llamado <b>raíz</b>, y a los nodos que no tienen hijos se los conoce como <b>hojas</b>. Las bases de datos jerárquicas son especialmente útiles en el caso de aplicaciones que <b>manejan un gran volumen de información</b> y datos muy compartidos.</p>
+
+<center><img src="https://basededatostec.github.io/img/10jerarquias.png" title="Jerárquias" alt="jerarquias"></center>
 
 Actualmente el modelo más usado es el modelo relacional basado en tablas sin olvidar el Modelo Orientado a objetos.
 
