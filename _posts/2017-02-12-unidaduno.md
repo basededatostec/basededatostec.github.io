@@ -97,7 +97,6 @@ __Modelo relacional__
 <p style="text-align: justify;">Éste es el modelo utilizado en la actualidad para modelar <b>problemas reales</b> y administrar datos dinámicamente.Su idea fundamental es el uso de <b>relaciones</b>. Estas relaciones podrían considerarse en forma lógica como conjuntos de datos llamados <b>tuplas</b>.  La información puede ser recuperada o almacenada mediante <b>consultas</b> que ofrecen una amplia flexibilidad y poder para administrar la información.</p>
 
 <center><img src="https://basededatostec.github.io/img/11relacion.png" title="Relacional" alt="relacional"></center>
-
 __Modelo  transaccional__
 
 <p style="text-align: justify;">Son bases de datos cuyo único fin es el <b>envío</b> y <b>recepción de datos</b> a grandes velocidades, estas bases son muy poco comunes y están dirigidas por lo general al entorno de análisis de calidad, es importante entender que su fin único es <b>recolectar</b> y <b>recuperar los datos</b> a la mayor velocidad posible, por lo tanto la redundancia y duplicación de información no es un problema como con las demás bases de datos.</p>
