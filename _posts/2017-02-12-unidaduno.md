@@ -43,4 +43,4 @@ __Debe contar con integridad__
 
 <p style="text-align: justify;">La información contendida en el sistema debe ser coherente y consistente con las reglas semánticas propias del mundo real.</p>
 
-<center><img src="https://basededatostec.github.io/img/06unidad1.png"></center>
+<center><img src="https://basededatostec.github.io/img/06unidaduno.png"></center>
