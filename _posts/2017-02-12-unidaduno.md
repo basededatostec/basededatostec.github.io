@@ -107,6 +107,6 @@ __Modelo  transaccional__
 
 __Según la variabilidad de los datos almacenados__
 
-<p style="text-align: justify;"><b>Bases de datos estáticas</b>: Éstas son bases de datos de sólo lectura, se utilizan primordialmente para <b>almacenar datos históricos,</b> para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
+<p style="text-align: justify;"><b>Bases de datos estáticas</b>: Bases de datos de sólo lectura, se utilizan primordialmente para <b>almacenar datos históricos,</b> para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
 
 <p style="text-align: justify;"><b>Bases de datos dinámicas</b>: Éstas son bases de datos donde la información almacenada se modifica con el tiempo, permitiendo operaciones como <b>actualización</b> y <b>adición de datos</b>, además de las operaciones fundamentales de consulta.</p>
