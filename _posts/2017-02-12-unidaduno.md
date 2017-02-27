@@ -49,19 +49,16 @@ __Debe contar con integridad__
 
 Estás son las principales áreas en donde las bases de datos pueden ser usadas.
 
-__Banca__: Información de los clientes, información de las cuentas, del registro de operaciones, de las operaciones con tajeta de crédito, transacciones, préstamos, etc.
+__Banca__: Información  ede los clientes, información de las cuentas, del registro de operaciones, de las operaciones con tajeta de crédito, transacciones, préstamos, etc.
 
 __Líneas aéreas__: Para reservar y contar con información de horarios, registro de clientes, regisro de vuelos, destinos disponibles, etc. 
 
-__Universidades__: Para poseer información de los estudiantes, matriculass en las asignaturas, carreras, para registrar y ordenar horarios, materias, profesores, etc.
+<p style="text-align: justify;"><b>Universidades</b>: Para poseer información de los estudiantes, matriculass en las asignaturas, carreras, para registrar y ordenar horarios, materias, profesores, etc.</p>
 
 <p style="text-align: justify;"><b>Transacciones de tarjeta de crédito</b>: Se registran las compras con tarjetas de crédito y la generación de los extractos mensuales.
 
-<br><br><b>Telecomunicaciones</b>: Para guardar registros de llamadas realizadas, generar facturas mensuales, mantener el saldo de las tarjetas y almacenar información sobre las redes.</p>
+<br><br><b>Producción</b>: Pra la gestión de la cadena de proveedores y para el seguimiento de la producción de articulos en las factorías, inventarios en los almacenamientos y pedidos</p>
 
-__Medicina__: Registro de enfermedades, datos biológicos, etc.
+<br><br><b>Telecomunicaciones</b>: Guardar registros de llamadas realizadas, generar facturas mensuales, mantener el saldo de las tarjetas y almacenar información sobre las redes.</p>
 
-En realidad su uso es muy amplio y se puede tener en cualquier sistema.
-
-
-
+Su uso es muy amplio y se puede tener en cualquier sistema que aloje datos para su funcionamiento.
