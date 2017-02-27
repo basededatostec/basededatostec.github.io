@@ -16,6 +16,7 @@ Sección de podcasts del sitio. Actualmente hay un podcast disponible.
 |   |  | 
 | :------- | :------: | 
 |   | Total de Archivos: 1 | 
-| <img src="https://basededatostec.github.io/img/01archivos.png" widh="107" heigth="93">   | Unidad 1. Introducción a las bases de datos      | 
+| <img src="https://basededatostec.github.io/img/01archivos.png" width="107" height="93">   | Unidad 1. Introducción a las bases de datos      | 
 |   | <audio src="https://basededatostec.github.io/img/podcast.mp3" controls="controls" type="audio/mpeg" preload="preload"></audio> | 
 
+t
