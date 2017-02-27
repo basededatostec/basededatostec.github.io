@@ -33,7 +33,7 @@ __Evitar el aislamiento de los datos__
 
 __Corregir anomalías del acceso concurrente__
 
-<p style="text-align: justify;">El sistema debe permitir que múltiples usuarios actualizen los datos de forma simultanea. Cuando esto ocurre pueden dar como resultado datos inconsistentes, por ello se recomienda, mantener una supervision al sistema muy detallada</p>
+<p style="text-align: justify;">El sistema debe permitir que múltiples usuarios actualizen los datos de forma simultanea. Cuando esto ocurre pueden dar como resultado datos inconsistentes, por ello se recomienda, mantener una supervision al sistema muy detallada.</p>
 
 __Disminuir los problemas de seguridad __
 
