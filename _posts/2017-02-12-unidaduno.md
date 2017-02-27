@@ -26,3 +26,19 @@ __Disminuir la redundancia e inconsistencia de los datos__
 __Reducir la dificultad para tener acceso a los datos__
 
 <p style="text-align: justify;">Un buen sistema de base de datos debe tener un entorno de datos que le facilite al usuario el manejo de los mismos.</p>
+
+__Evitar el aislamiento de los datos__
+
+<p style="text-align: justify;">Si el nivel de aislamiento es relativamente bajo, la capacidad de los usuarios al acceder al mismo tiempo a los datos aumenta. Por el contrario, un mayor nivel de aislamiento reduce los tipos de efectos de la concurrencia que los usuarios pueden encontrar, pero requiere más recursos del sistema y aumenta las probabilidades de que una transacción bloquee a otra.</p>
+
+__Corregir anomalías del acceso concurrente__
+
+<p style="text-align: justify;">El sistema debe permitir que múltiples usuarios actualizen los datos de forma simultanea. Cuando esto ocurre pueden dar como resultado datos inconsistentes, por ello se recomienda, mantener una supervision al sistema muy detallada</p>
+
+__Disminuir los problemas de seguridad __
+
+<p style="text-align: justify;">Los valores que se guardan en la base de datos debe satisfacer limitantes de consistencia, el sistema debe obligar el cumplimiento de estas limitantes.</p>
+
+__Debe contar con integridad__
+
+<p style="text-align: justify;">La información contendida en el sistema debe ser coherente y consistente con las reglas semánticas propias del mundo real.</p>
