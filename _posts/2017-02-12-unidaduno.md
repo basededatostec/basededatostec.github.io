@@ -35,7 +35,7 @@ __Corregir anomalías del acceso concurrente__
 
 <p style="text-align: justify;">El sistema debe permitir que múltiples usuarios actualizen los datos de forma simultanea. Cuando esto ocurre pueden dar como resultado datos inconsistentes, por ello se recomienda, mantener una supervision al sistema muy detallada.</p>
 
-__Disminuir los problemas de seguridad __
+__Disminuir los problemas de seguridad__
 
 <p style="text-align: justify;">Los valores que se guardan en la base de datos debe satisfacer limitantes de consistencia, el sistema debe obligar el cumplimiento de estas limitantes.</p>
 
