@@ -13,7 +13,7 @@ subtitle: Introducción a las bases de datos
 
 | Actividad | PRESENTACIÓN: Las 11 bases de datos más grandes del mundo | 
 | :------ |:--- |
-| ![PowerPoint](https://basededatostec.github.io/img/power.png) | En esta actividad desarrollamos una presentación en Power Point de las 11 bases de datos más grandes del mundo, clic AQUÍ para ver la presentación en el blog o puedes descargarla dando clic en este enlace. | 
+| ![PowerPoint](https://basededatostec.github.io/img/power.png) | En esta actividad desarrollamos una presentación en Power Point de las 11 bases de datos más grandes del mundo, clic [aquí](https://basededatostec.github.io/2017-02-11-presentacion/ "Presentación en PowerPoint") para ver la presentación en el blog o puedes descargarla dando clic en este [enlace](http://www.tecpachucavirtual.mx/m27/pluginfile.php/598/assignsubmission_file/submission_files/27430/11Bases_De_Datos_M%C3%A1s_Grandes_Del_Mundo.pptx?forcedownload=1 "descarga la presentación"). | 
 | | |
 
 | Actividad | PODCAST: Resumen de la Unidad 1 | 
