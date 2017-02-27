@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 
-Unidad 1. Introduccion a las Bases de Datos
+title: Unidad 1. Introduccion a las Bases de Datos
 tags: [unidad uno, resumen, introduccion]
 ---
 
