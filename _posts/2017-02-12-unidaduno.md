@@ -96,7 +96,7 @@ __Modelo relacional__
 
 <p style="text-align: justify;">Éste es el modelo utilizado en la actualidad para modelar <b>problemas reales</b> y administrar datos dinámicamente.Su idea fundamental es el uso de <b>relaciones</b>. Estas relaciones podrían considerarse en forma lógica como conjuntos de datos llamados <b>tuplas</b>.  La información puede ser recuperada o almacenada mediante <b>consultas</b> que ofrecen una amplia flexibilidad y poder para administrar la información.</p>
 
-<center><img src="https://basededatostec.github.io/img/11relacional.png" title="Relacional" alt="relacional"></center>
+<center><img src="https://basededatostec.github.io/img/11relacional.jpg" title="Relacional" alt="relacional"></center>
 
 Actualmente el modelo más usado es el modelo relacional basado en tablas sin olvidar el Modelo Orientado a objetos.
 
