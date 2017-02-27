@@ -65,6 +65,10 @@ Su uso es muy amplio y se puede tener en cualquier sistema que aloje datos.
 
 ### 1.4 MODELOS DE BASES DE DATOS 
 
+<p style="text-align: justify;">Además de la clasificación por la función de las bases de datos, éstas también se pueden clasificar de acuerdo a su modelo de administración de datos.</p>
+
+<center><img src="https://basededatostec.github.io/img/09modelos.png" title="Modelos" alt="modelos"></center>
+
 Dentro de los modelos existentes hoy en día podemos hacer dos clasificaciones:
 
 Modelos de diseño: Predomina el modelo “Entidad/relación”.
