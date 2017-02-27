@@ -15,6 +15,7 @@ de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápid
 
 ### 1.2 OBJETIVOS DE LAS BASES DE DATOS
 
+
 <center><img src="https://basededatostec.github.io/img/08objetivo.png" title="Objetivos" alt="objetivoss"></center>
 Algunos de los principales objetivos de las bases de datos son:
 
@@ -49,9 +50,9 @@ __Debe contar con integridad__
 <center><img src="https://basededatostec.github.io/img/08objetivo.png" title="Objetivos" alt="objetivoss"></center>
 Estás son las principales áreas en donde las bases de datos pueden ser usadas.
 
-__Banca__: Información de los clientes, información de las cuentas, del registro de operaciones, de las operaciones con tajeta de crédito, stransacciones, préstamos, etc.
+__Banca__: Información de los clientes, información de las cuentas, del registro de operaciones, de las operaciones con tajeta de crédito, transacciones, préstamos, etc.
 
-__Líneas aéreas__: Clientes, horarios, vuelos, destinos, etc. 
+__Líneas aéreas__: Para reservar y contar con información de horarios, registro de clientes, regisro de vuelos, destinos disponibles, etc. 
 
 __Universidades__: Estudiantes, carreras, horarios, materias, etc.
 
