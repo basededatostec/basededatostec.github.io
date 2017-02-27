@@ -15,11 +15,11 @@ de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápid
 
 ### 1.2 OBJETIVOS DE LAS BASES DE DATOS
 
-<br><br>Algunos de los principales objetivos de las bases de datos son:
+>Algunos de los principales objetivos de las bases de datos son:
 
-<br><br>__Disminuir la redundancia e inconsistencia de los datos__
+__Disminuir la redundancia e inconsistencia de los datos__
 
-<p style="text-align: justify;"><br><br>Existe la posibilidad de que al no controlar el almacenamiento se origine redundancia en la información, esto quiere decir que se duplican los datos. Entonces aumenta en buena medida el costo de almacenamiento y acceso, además de todo esto se origina inconsistencia. 
+<p style="text-align: justify;">Existe la posibilidad de que al no controlar el almacenamiento se origine redundancia en la información, esto quiere decir que se duplican los datos. Entonces aumenta en buena medida el costo de almacenamiento y acceso, además de todo esto se origina inconsistencia. 
 
 <br><br>Por lo que debe contener el máximo contenido semántico para que la información sea realmente verdadera. Debe ser comprensible e interesante, lo que supone no proporcionar a los usuarios un volumen grande de información que no pueda ser asimilada.
 
