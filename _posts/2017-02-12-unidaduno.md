@@ -29,7 +29,7 @@ __Reducir la dificultad para tener acceso a los datos__
 
 __Evitar el aislamiento de los datos__
 
-<p style="text-align: justify;">Si el nivel de aislamiento es relativamente bajo, la capacidad de los usuarios al acceder al mismo tiempo a los datos aumenta. Por el contrario, un mayor nivel de aislamiento reduce los tipos de efectos de la concurrencia que los usuarios pueden encontrar, pero requiere más recursos del sistema y aumenta las probabilidades de que una transacción bloquee a otra.</p>
+<p style="text-align: justify;">Si el nivel de aislamiento es bajo, la capacidad de los usuarios al acceder al mismo tiempo a los datos aumenta. Por el contrario, un mayor nivel de aislamiento reduce los tipos de efectos de la concurrencia que los usuarios pueden encontrar, pero requiere más recursos del sistema y se corre el riesgo de que una transacción bloquee a otra.</p>
 
 __Corregir anomalías del acceso concurrente__
 
