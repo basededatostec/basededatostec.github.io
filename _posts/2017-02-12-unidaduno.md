@@ -3,7 +3,7 @@ layout: post
 title: Unidad 1. Introducción a las Bases de Datos
 tags: [unidad uno, resumen, introducción]
 ---
-<center><img src="https://basededatostec.github.io/img/07bases.png"></center>
+<center><img src="https://basededatostec.github.io/img/07bases.png" title="Introducción" alt="bases de datos"></center>
 ### 1.1 CONCEPTOS BÁSICOS
 
 <p style="text-align: justify;"><b>Base de datos</b>. Una base de datos es un gran almacén donde se guardan enormes cantidades de información organizada, 
@@ -12,7 +12,7 @@ de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápid
 <br><br>También se puede definir como un conjunto de datos relacionados y organizados, estos datos a su vez son recolectados y utilizados por grandes empresas e constituciones.
 
 <br><br><b>Dato</b>. Un dato es información que refleja una característica de algún objeto, ya sea concreto, o imaginario, por ejemplo podemos crear una base de datos acerca de los datos de una persona, un dato posible, sería; la fecha de nacimiento.</p>
-<center><img src="https://basededatostec.github.io/img/08objetivos.png"></center>
+<center><img src="https://basededatostec.github.io/img/08objetivos.png" title="Objetivos" alt="objetivoss"></center>
 ### 1.2 OBJETIVOS DE LAS BASES DE DATOS
 
 Algunos de los principales objetivos de las bases de datos son:
