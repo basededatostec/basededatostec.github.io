@@ -18,7 +18,7 @@ subtitle: Introducción a las bases de datos
 
 | Actividad | PODCAST: Resumen de la Unidad 1 | 
 | :------ |:--- |
-| ![PodCast](https://basededatostec.github.io/img/pod.png) | Como ultima actividad realizamos el resumen de la Unidad 1 a través de un PODCAST, puedes escucharlo en ESTE BLOG o puedes dar clic AQUÍ para escucharlo en un reproductor externo. | 
+| ![PodCast](https://basededatostec.github.io/img/pod.png) | Como ultima actividad realizamos el resumen de la Unidad 1 a través de un PODCAST, puedes escucharlo en [este blog](https://basededatostec.github.io/podcast/ "escucha el podcast") o puedes dar clic AQUÍ para escucharlo en un reproductor externo. | 
 | | |
 
 | Actividad | TEXTO: Resumen de la Unidad 1 | 
