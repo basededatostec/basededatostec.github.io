@@ -6,7 +6,7 @@ tags: [unidad uno, resumen, introducción]
 
 ### 1.1 CONCEPTOS BÁSICOS
 
-<p style="text-align: justify;"><b>Base de datos</b>. Una base de datos es simplemente un gran almacén donde se guardan enormes cantidades de información organizada, 
+<p style="text-align: justify;"><b>Base de datos</b>. Una base de datos es un gran almacén donde se guardan enormes cantidades de información organizada, 
 de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápidamente, así ahorramos espacio físico y tiempo.
 
 <br><br>También se puede definir como un conjunto de datos relacionados y organizados, estos datos a su vez son recolectados y utilizados por grandes empresas e constituciones.
@@ -19,8 +19,10 @@ Algunos de los principales objetivos de las bases de datos son:
 
 __Disminuir la redundancia e inconsistencia de los datos__
 
-<p style="text-align: justify;">Existe la posibilidad de que al no controlar el almacenamiento se origine redundancia en la información, esto quiere decir que se duplican los datos. Entonces aumenta en buena medida el costo de almacenamiento y acceso, además de todo esto se origina inconsistencia. 
+<p style="text-align: justify;">Existe la posibilidad de que al no controlar el almacenamiento se origine redundancia en la información, esto quiere decir que se duplican los datos. Entonces aumenta en buena medida el costo de almacenamiento y acceso, además se origina inconsistencia. 
 
-<br><br>Por lo que debe contener el máximo contenido semántico para que la información sea realmente verdadera. Debe ser comprensible e interesante, lo que supone no proporcionar a los usuarios un volumen grande de información que no pueda ser asimilada.
+<br><br>Por lo que debe contener el máximo contenido semántico para que la información sea realmente verdadera. Debe ser comprensible e interesante, lo que supone no proporcionar a los usuarios un volumen grande de información que no pueda ser asimilada.</p>
 
-</p>
+__Reducir la dificultad para tener acceso a los datos__
+
+<p style="text-align: justify;">Un buen sistema de base de datos debe tener un entorno de datos que le facilite al usuario el manejo de los mismos.</p>
