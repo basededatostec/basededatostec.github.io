@@ -47,18 +47,17 @@ __Debe contar con integridad__
 
 ### 1.3 ÁREAS DE APLICACIÓN DE LAS BASES DE DATOS
 
-<center><img src="https://basededatostec.github.io/img/08objetivo.png" title="Objetivos" alt="objetivoss"></center>
 Estás son las principales áreas en donde las bases de datos pueden ser usadas.
 
 __Banca__: Información de los clientes, información de las cuentas, del registro de operaciones, de las operaciones con tajeta de crédito, transacciones, préstamos, etc.
 
 __Líneas aéreas__: Para reservar y contar con información de horarios, registro de clientes, regisro de vuelos, destinos disponibles, etc. 
 
-__Universidades__: Estudiantes, carreras, horarios, materias, etc.
+__Universidades__: Para poseer información de los estudiantes, matriculass en las asignaturas, carreras, para registrar y ordenar horarios, materias, profesores, etc.
 
-<p style="text-align: justify;"><b>Transacciones de tarjeta de crédito</b>: Para comprar con tarjetas de crédito y la generación de los extractos mensuales.
+<p style="text-align: justify;"><b>Transacciones de tarjeta de crédito</b>: Se registran las compras con tarjetas de crédito y la generación de los extractos mensuales.
 
-<br><br><b>Telecomunicaciones</b>: Para guardar registros de llamadas realizadas, generar facturas mensuales, mantener el saldo de las tarjetas, telefónicas de prepago y almacenar información sobre las redes.</p>
+<br><br><b>Telecomunicaciones</b>: Para guardar registros de llamadas realizadas, generar facturas mensuales, mantener el saldo de las tarjetas y almacenar información sobre las redes.</p>
 
 __Medicina__: Registro de enfermedades, datos biológicos, etc.
 
