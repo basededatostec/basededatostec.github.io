@@ -62,3 +62,23 @@ __Líneas aéreas__: Para reservar y contar con información de horarios, regist
 <br><br><b>Telecomunicaciones</b>: Guardar registros de llamadas realizadas, generar facturas mensuales, mantener el saldo de las tarjetas y almacenar información sobre las redes.</p>
 
 Su uso es muy amplio y se puede tener en cualquier sistema que aloje datos.
+
+### 1.4 MODELOS DE BASES DE DATOS 
+
+Dentro de los modelos existentes hoy en día podemos hacer dos clasificaciones:
+
+Modelos de diseño: Predomina el modelo “Entidad/relación”.
+
+Modelos de representación:
+
+Primero apareció el modelo jerárquico o de tipo árbol.
+
+<p style="text-align: justify;">Posteriormente se evolucionó hacia el modelo de red en el que se usan registros unidos por enlaces.
+
+Actualmente el modelo más usado es el modelo relacional basado en tablas sin olvidar el Modelo Orientado a objetos.
+
+Tambien podemos verlo de la siguiente forma:
+
+Los Modelos Conceptuales: Los modelos conceptuales se utilizan para representar la realidad a un alto nivel de abstracción. Mediante los modelos conceptuales se puede construir una descripción de la realidad fácil de entender.
+
+Los Modelos Lógicos: En los modelos lógicos, las descripciones de los datos tienen una correspondencia sencilla con la estructura física de la base de datos.</p>
