@@ -69,11 +69,11 @@ Su uso es muy amplio y se puede tener en cualquier sistema que aloje datos.
 
 <center><img src="https://basededatostec.github.io/img/09modelos.png" title="Modelos" alt="modelos"></center>
 
-<p style="text-align: justify;">Un modelo de datos es <b>una descripción</b> de algo conocido como contenedor de datos, así como de los métodos para almacenar y recuperar información deesos contenedores. Los modelos de datos <b>no son físicos</b>: son abstracciones que permiten la implementación de un sistema eficiente de base de datos</p>
+<p style="text-align: justify;">Un modelo de datos es <b>una descripción</b> de algo conocido como contenedor de datos, así como de los métodos para almacenar y recuperar información de esos contenedores. Los modelos de datos <b>no son físicos</b>: son abstracciones que permiten la implementación de un sistema eficiente de base de datos.</p>
 
 Algunos modelos con frecuencia utilizados en las bases de datos:
 
-#### Modelos de diseño
+#### Modelos de diseño:
 
 __Modelo entidad-relación ER__
 
@@ -87,10 +87,16 @@ __Modelo jerárquico__
 
 <center><img src="https://basededatostec.github.io/img/10jerarquia.png" title="Jerárquias" alt="jerarquias"></center>
 
+__Modelo de red__
+
+<p style="text-align: justify;">Éste es un modelo ligeramente distinto del jerárquico; su diferencia fundamental es la modificación del concepto de nodo: se permite que <b>un mismo nodo tenga varios padre</b>. Ofrecía una solución eficiente al <b>problema de redundancia</b> de datos.</p>
+
+<center><img src="https://basededatostec.github.io/img/10jerarquia.png" title="Jerárquias" alt="jerarquias"></center>
+
 Actualmente el modelo más usado es el modelo relacional basado en tablas sin olvidar el Modelo Orientado a objetos.
 
 Tambien podemos verlo de la siguiente forma:
 
 Los Modelos Conceptuales: Los modelos conceptuales se utilizan para representar la realidad a un alto nivel de abstracción. Mediante los modelos conceptuales se puede construir una descripción de la realidad fácil de entender.
 
-Los Modelos Lógicos: En los modelos lógicos, las descripciones de los datos tienen una correspondencia sencilla con la estructura física de la base de datos.</p>
+Los Modelos Lógicos: En los modelos lógicos, las descripciones de los datos tienen una correspondencia sencilla con la estructura física de la base de datos.
