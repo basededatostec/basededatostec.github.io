@@ -69,7 +69,12 @@ Su uso es muy amplio y se puede tener en cualquier sistema que aloje datos.
 
 <center><img src="https://basededatostec.github.io/img/09modelos.png" title="Modelos" alt="modelos"></center>
 
-Dentro de los modelos existentes hoy en día podemos hacer dos clasificaciones:
+Un modelo de datos es <b>una descripción</b> de algo conocido como contenedor de datos, así como de los métodos para almacenar y recuperar información deesos contenedores. Los modelos de datos <b>no son físicos</b>: son abstracciones que permiten la implementación de un sistema eficiente de base de datos</p>
+
+Algunos modelos con frecuencia utilizados en las bases de datos:
+
+
+Dentro de los modelos e xistentes hoy en día podemos hacer dos clasificaciones:
 
 Modelos de diseño: Predomina el modelo “Entidad/relación”.
 
