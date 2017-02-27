@@ -98,10 +98,6 @@ __Modelo relacional__
 
 <center><img src="https://basededatostec.github.io/img/11relacion.png" title="Relacional" alt="relacional"></center>
 
-Actualmente el modelo más usado es el modelo relacional basado en tablas sin olvidar el Modelo Orientado a objetos.
+__Modelo  transaccional__
 
-Tambien podemos verlo de la siguiente forma:
-
-Los Modelos Conceptuales: Los modelos conceptuales se utilizan para representar la realidad a un alto nivel de abstracción. Mediante los modelos conceptuales se puede construir una descripción de la realidad fácil de entender.
-
-Los Modelos Lógicos: En los modelos lógicos, las descripciones de los datos tienen una correspondencia sencilla con la estructura física de la base de datos.
+<p style="text-align: justify;">Son bases de datos cuyo único fin es el <b>envío</b> y <b>recepción de datos</b> a grandes velocidades, estas bases son muy poco comunes y están dirigidas por lo general al entorno de análisis de calidad, es importante entender que su fin único es <b>recolectar</b> y <b>recuperar los datos</b> a la mayor velocidad posible, por lo tanto la redundancia y duplicación de información no es un problema como con las demás bases de datos.</p>
