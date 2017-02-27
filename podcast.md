@@ -12,7 +12,7 @@ Sección de podcasts del sitio. Actualmente hay un podcast disponible.
 |   | Unidad 1. Introducción a las bases de datos      | 
 |  <img src="https://basededatostec.github.io/img/01archivos.png" width="85" height="85"> | <audio src="https://basededatostec.github.io/img/podcast.mp3" controls="controls" type="audio/mpeg" preload="preload"></audio> | 
 
-También pueden descargar el Podcast 1 desde este [enlace](https://basededatostec.github.io/img/podcast.mp3 "descarga el podcast")
+También puedes descargar el Podcast desde este [enlace](http://www.tecpachucavirtual.mx/m27/pluginfile.php/2686/assignsubmission_file/submission_files/27492/PODCAST.mp3?forcedownload=1 "descarga el podcast")
 
 
 
