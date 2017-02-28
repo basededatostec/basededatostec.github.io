@@ -141,32 +141,32 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 
 ### 1.7 ARQUITECTURA DEL SGBD
 
-<p style="text-align: justify;">Un Sistema de Gestión de Bases de Datos, <b>permite manipular</b> las bases de datos.  La gestión de los datos implica tanto la definición de estructuras para almacenar la información como la provisión de mecanismos para la manipulación de la información. Pproporciona la <b>fiabilidad de la información almacenada</b>, a pesar de las caídas del sistema o los intentos de acceso sin autorización. Los componentes de un SGBD son:
+<p style="text-align: justify;">Un Sistema de Gestión de Bases de Datos, <b>permite manipular</b> las bases de datos.  La gestión de los datos implica tanto la definición de estructuras para almacenar la información como la provisión de mecanismos para la manipulación de la información. Proporciona la <b>fiabilidad de la información almacenada</b>, a pesar de las caídas del sistema o los intentos de acceso sin autorización. Los componentes de un SGBD son:
 
 <br><br><b>Interfaces externos</b>
 
 <br><br>Medios para <b>comunicarse</b> con el SGDB en ambos sentidos (E/S) y explotar a todas sus funciones. Pueden afectar a la base de datos o a la operación del SGBD.
 
-<br><br><b>>Operaciones directas con la base de datos</b>
+<br><br><b>Operaciones directas con la base de datos</b>
 
-<br><br>Definición de tipos, asignación de niveles de seguridad, actualización de datos, interrogación de la base de datos...
+<br><br>Definición de tipos, asignación de niveles de seguridad, actualización de datos, interrogación de la base de datos.
 
-<br><br>Operaciones relativas a la operación del SGBD:
+<br><br><b>Operaciones relativas a la operación del SGBD</b>
 
-<br><br>Copia de seguridad y restauración, recuperación tras una caída, monitoreo de seguridad, gestión del almacenamiento, reserva de espacio, monitoreo de la configuración, monitoreo de prestaciones, o bien por programas que se comunican a través de un API.
+<br><br>Copia de <b>seguridad</b> y <b>restauración</b>, <b>recuperación</b> tras una caída, monitoreo de seguridad, gestión del almacenamiento, reserva de espacio, monitoreo de la configuración o bien por programas que se comunican a través de un API.
 
-<br><br>Intérprete o procesador del lenguaje:
+<br><br><b>Intérprete o procesador del lenguaje</b>
 
-<br><br>La mayor parte de las operaciones se efectúan mediante un lenguaje de base de datos. Existen lenguajes para definición de datos, manipulación de datos (p.e. SQL), para especificar aspectos de la seguridad y más. Las sentencias en ese lenguaje se introducen en el SGBD mediante el interfaz adecuado. Se procesan las expresiones en dicho lenguaje (ya sea compilado o interpretado) para extraer las operaciones de modo que puedan ser ejecutadas por el SGBD.
+<br><br>La mayor parte de las operaciones se efectúan mediante un <b>lenguaje de base de datos</b>. Existen lenguajes para definición de datos, manipulación de datos, para especificar aspectos de la seguridad y más. Las sentencias en ese lenguaje se introducen en el SGBD mediante el interfaz adecuado. .
 
-<br><br>Mecanismo de almacenamiento 
-<br><br>Traduce las operaciones a lenguaje de bajo nivel para acceder a los datos. En algunas arquitecturas el mecanismo de almacenamiento está integrado en el motor de la base de datos.
+<br><br><b>Mecanismo de almacenamiento</b>
+<br><br>Traduce las operaciones a lenguaje de <b>bajo nivel</b>. En algunas arquitecturas el mecanismo de almacenamiento está integrado en el motor de la base de datos.
 
-<br><br>Motor de transacciones
-<br><br>Para conseguir corrección y fiabilidad la mayoría de las operaciones internas del SGBD se realizan encapsuladas dentro de transacciones. Las transacciones pueden ser especificadas externamente al SGBD para encapsular un grupo de operaciones. El motor de transacciones sigue la ejecución de las transacciones y gestiona su ejecución de acuerdo con las reglas que tiene establecidas (p.e. control de concurrencia y su ejecución o cancelación).
+<br><br><b>Motor de transacciones</b>
+<br><br>Se realizan encapsuladas dentro de transacciones. Las transacciones pueden ser especificadas externamente al SGBD para encapsular un grupo de operaciones. El motor de transacciones sigue la ejecución de las transacciones y gestiona su ejecución.
 
-<br><br>Gestión y operación de SGBD
-<br><br>Comprende muchos otros componentes que tratan de aspectos de gestión y operativos del SGBD como monitoreo de prestaciones, gestión del almacenamiento, mapas de almacenamiento.</p>
+<br><br><b>Gestión y operación de SGBD</b>
+<br><br>Comprende muchos otros componentes que tratan de aspectos de<b> gestión</b> y <b>operativos</b> del SGBD como gestión del almacenamiento, mapas de almacenamiento, etc.</p>
 
 
 
