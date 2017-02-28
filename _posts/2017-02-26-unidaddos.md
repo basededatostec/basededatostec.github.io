@@ -51,12 +51,12 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>PARTICIPACIÓN</b>
 
-<br><br>La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad, éstas son:
+<p style="text-align: justify;">La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad, éstas son:
 
-<br><br>Mínimo cero, máximo uno [0,1]
-<br>Mínimo uno, máximo uno [1,1]
-<br>Mínimo cero, máximo n (muchos) [0,n]
-<br>Mínimo uno, máximo n (muchos) [1,n]
+<br><br>(0,1)  --------------------------&gt; Mínimo cero, máximo uno
+<br>(1,1)  --------------------------&gt; Mínimo uno, máximo uno
+<br>(0,n) --------------------------&gt;  Mínimo cero, máximo n (muchos)
+<br>(1,n) --------------------------&gt;  Mínimo uno, máximo n (muchos)
 
 <br><br><b>CARDINALIDAD</b>
 
