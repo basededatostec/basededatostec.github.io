@@ -18,21 +18,21 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>El modelado consiste en<b> representar el problema realizando múltiples abstracciones</b> para entender toda la información de un problema, y de esta manera, generar un mapa donde estén identificados todos los objetos de la base de datos.
 
-<br><br><b><u>El modelado de una base de datos considera lo siguiente:</u></b>
+<br><br><b>El modelado de una base de datos considera lo siguiente:</b>
 
-<br><br><b>1.-</b> La persona que modeliza la base de datos en la mayoría de las ocasiones no es experta en el dominio del problema a modelar, por lo que es indispensable contar con el apoyo de una persona experta en área del problema a resolver.
+<br><br><b>1.</b> La persona que modeliza la base de datos en la mayoría de las ocasiones no es experta en el dominio del problema a modelar, por lo que es indispensable contar con el apoyo de una persona experta en área del problema a resolver.
 
-<br><br><b>2.-</b> Se debe modelar siguiendo estándares para que el producto se entienda y sea comprensible por la comunidad informática. Esto implica el uso de herramientas de software del mercado para realizar diseños.
+<br><br><b>2.</b> Se debe modelar siguiendo estándares para que el producto se entienda y sea comprensible por la comunidad informática. Esto implica el uso de herramientas de software del mercado para realizar diseños.
 
-<br><br><b>3.-</b> La base de datos estará gestionada por un SGBD, de esta manera no se tratará igual la implantación de la base de datos en un sistema MySQL que en Oracle.
+<br><br><b>3.</b> La base de datos estará gestionada por un SGBD, de esta manera no se tratará igual la implantación de la base de datos en un sistema MySQL que en Oracle.
 
-<br><br><u><b>Pasos para lograr la interacción y la calidad del modelado:</b></u>
+<br><br><b>Pasos para lograr la interacción y la calidad del modelado:</b>
 
-<br><br><b>1.- </b>Se negocia con el usuario final el modelo conceptual, para después tramsformar el modelo conceptual al modelo lógico, por último transformar el modelo lógico al físico.</p>
+<br><br>Se negocia con el usuario final el modelo conceptual, para después transformar el modelo conceptual a modelo lógico y este modelo lógico a físico.</p>
 
--### 2.2 MODELO ENTIDAD-RELACIÓN
+### 2.2 MODELO ENTIDAD-RELACIÓN
 
-<p style="text-align: justify;">El modelo conceptual es representado a través del modelo entidad/relación, el cual coloca el resultado del análisis del problema real mediante uno o varios diagramas, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
+<p style="text-align: justify;">El modelo conceptual es representado a través del <b>modelo entidad-relación</b>, el cual coloca el resultado del análisis del problema real mediante uno o varios <b>diagramas</b>, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
 
 <br><br><b>ENTIDAD</b>
 <b>
@@ -40,9 +40,9 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>Existen 2 tipos que son: <b>entidad fuerte</b> y <b>entidad débil</b>, éstas últimas son representadas por un recuadro doble y su existencia depende de una entidad fuerte. Una ocurrencia de una entidad se refiere a una instancia o unidad dentro de la entidad.
 
-<br><br><b>Relación</b>
+<br><br><b>RELACIÓN</b>
 
-<br><br>Es la asociación entre dos o más entidades, las relaciones se identifican con un <b>nombre el cual expresa la finalidad de la relación</b>, no se deben usar nombres que signifiquen muchas cosas. Las relaciones son representadas mediante <b>rombos</b> y el nombre debe colocarse dentro del símbolo.
+<br><br>Es la asociación entre dos o más entidades, las relaciones se identifican con un <b>nombre el cual expresa la finalidad de la relación</b>, no se deben usar nombres que signifiquen muchas cosas. Las relaciones son representadas mediante <b>rombos</b> y el nombre debe colocarse dentro del símbolo sin excepción.
 
 <br><br>El nombre de una relación generalmente debe ser un <b>verbo</b>, ya que las relaciones describen acciones entre dos o más entidades. Las relaciones están clasificadas según su <b>grado</b>, éste se refiere al número de entidades que participan en la relación. Se recomienda que todas las relaciones sean binarias.
 
