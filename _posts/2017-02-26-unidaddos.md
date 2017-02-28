@@ -44,14 +44,14 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>Es la asociación entre dos o más entidades, las relaciones se identifican con un <b>nombre el cual expresa la finalidad de la relación</b>, no se deben usar nombres que signifiquen muchas cosas. Las relaciones son representadas mediante <b>rombos</b> y el nombre debe colocarse dentro del símbolo sin excepción.
 
-<br><br>El nombre de una relación generalmente debe ser un <b>verbo</b>, ya que las relaciones describen acciones entre dos o más entidades. Las relaciones están clasificadas según su <b>grado</b>, éste se refiere al número de entidades que participan en la relación. Se recomienda que todas las relaciones sean binarias.
+<br><br>El nombre de una relación generalmente debe ser un <b>verbo</b>, ya que las relaciones describen acciones entre dos o más entidades. Las relaciones están clasificadas según su <b>grado</b>, éste se refiere al número de entidades que participan en la relación. Se recomienda que todas las relaciones sean binarias.</p>
 
 <br><br>
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/22relacion.png" title="modelado"></center>
 
 <br><br><b>PARTICIPACIÓN</b>
 
-La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad, éstas son:
+<p style="text-align: justify;">La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad, éstas son:
 
 <br><br>(0,1)  --------------------------&gt; Mínimo cero, máximo uno
 <br>(1,1)  --------------------------&gt; Mínimo uno, máximo uno
@@ -60,13 +60,13 @@ La participación de una ocurrencia de una entidad, indica, mediante una <b>pare
 
 <br><br><b>CARDINALIDAD</b>
 
-<br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toma el número máximo de participaciones de cada una de ellas, como en la siguiente figura.
+<br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toma el número máximo de participaciones de cada una de ellas, como en la siguiente figura.</p>
 
 <br><br><center><img alt="modelado" src="https://basededatostec.github.io/img/23cardinalidad.png" title="modelado"></center>
 
 <br><br><b>ATRÍBUTOS</b>
 
-<br><br>Los atributos de una entidad son las <b>características</b> o <b>propiedades </b>que la definen como entidad. Se representan mediante elipses que se conectan a la entidad.
+<br><br><p style="text-align: justify;">Los atributos de una entidad son las <b>características</b> o <b>propiedades </b>que la definen como entidad. Se representan mediante elipses que se conectan a la entidad.
 
 <br><br><b>ATRÍBUTO CLAVE</b>
 
@@ -74,27 +74,27 @@ La participación de una ocurrencia de una entidad, indica, mediante una <b>pare
 
 <br><br><b>ATRÍBUTO DE RELACIÓN</b>
 
-<br><br>Propio de una <b>relación</b> y que no puede ser cedido a las entidades.
+<br><br>Propio de una <b>relación</b> y que no puede ser cedido a las entidades.</p>
 
 <br><br>
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/24atributo.png" title="modelado"></center>
 
 <br><br><b>TIPOS DE ATRÍBUTOS</b>
 
-<br><br><b>Atributos simples</b>: Son aquellos que no están divididos en sub partes.
+<br><br><p style="text-align: justify;"><b>Atributos simples</b>: Son aquellos que no están divididos en sub partes.
 <br><br><b>Atributo compuesto</b>: Cuando está formado por más de un atributo.
 <br><br><b>Atributos monovalorados</b>: Son los que tienen un solo valor
 <br><br><b>Atributos multivalorado</b>: Son atributos que pueden representar varios valores simultáneamente para una misma ocurrencia de una entidad.
 <br><br><b>Atributos almacenado</b>: Son los atributos cuyo valor guardan una cantidad que se utiliza para realizar cálculos con otros atributos en otras entidades o en la misma entidad.
 <br><br><b>Atributo derivado</b>: Son aquellos cuyo valor se puede derivar del valor de otros atributos.
-<br><br><b>Atributos con valor nulo</b>: Toma un valor nulo cuando una entidad no tiene un valor.
+<br><br><b>Atributos con valor nulo</b>: Toma un valor nulo cuando una entidad no tiene un valor.</p>
 
 <br><br>
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/25dominio.png" title="modelado"></center>
 
 <br><br><b>DOMINIOS</b>
 
-<br><br>El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.
+<br><br><p style="text-align: justify;">El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.</p>
 
 ### 2.3 DISEÑO CON DIAGRAMAS E-R
 
