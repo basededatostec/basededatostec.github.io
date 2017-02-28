@@ -6,7 +6,7 @@ tags: [unidad dos, resumen, modelo E-R]
 ---
 ### 2.1 EL PROCESO DE DISEÑO
 
-<div style="text-align: justify;">El diseño de una base de datos consiste en extraer todos los elementos relevantes de un problema, por ejemplo, saber que<b> datos estàn implicados en el proceso de facturación de una empresa</b> que vende refacciones automotrices, los datos necesarios para el proceso de inscripción de alumnos, etc.
+<p style="text-align: justify;">El diseño de una base de datos consiste en extraer todos los elementos relevantes de un problema, por ejemplo, saber que<b> datos estàn implicados en el proceso de facturación de una empresa</b> que vende refacciones automotrices, los datos necesarios para el proceso de inscripción de alumnos, etc.
 
 <br><br>Para la extracción de los datos se debe realizar un análisis minucioso del dominio del problema, y saber, de esta forma, que datos son los puramente necesarios o esenciales para almacenar en la base de datos y eliminar o simplemente no considerar aquellos datos o información que no sea de utilidad.
 
@@ -32,11 +32,11 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>2.-</b> Transformación del modelo conceptual al modelo lógico.
 
-<br><br><b>3.-</b> Transformación del modelo lógico al físico.</div>
+<br><br><b>3.-</b> Transformación del modelo lógico al físico.</p>
 
 -### 2.2 MODELO ENTIDAD-RELACIÓN
 
-<div style="text-align: justify;">El modelo conceptual es representado a través del modelo entidad/relación, el cual coloca el resultado del análisis del problema real mediante uno o varios diagramas, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
+<p style="text-align: justify;">El modelo conceptual es representado a través del modelo entidad/relación, el cual coloca el resultado del análisis del problema real mediante uno o varios diagramas, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
 
 <br><br><b>ENTIDAD</b>
 <b>
@@ -44,66 +44,66 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>Existen 2 tipos que son: <b>entidad fuerte</b> y <b>entidad débil</b>, éstas últimas son representadas por un recuadro doble y su existencia depende de una entidad fuerte. Una ocurrencia de una entidad se refiere a una instancia o unidad dentro de la entidad.
 
-<b>Relación</b>
+<br><br><b>Relación</b>
 
-Es la asociación entre dos o más entidades, las relaciones se identifican con un <b>nombre el cual expresa la finalidad de la relación</b>, no se deben usar nombres que signifiquen muchas cosas. Las relaciones son representadas mediante <b>rombos</b> y el nombre debe colocarse dentro del símbolo.
+<br><br>Es la asociación entre dos o más entidades, las relaciones se identifican con un <b>nombre el cual expresa la finalidad de la relación</b>, no se deben usar nombres que signifiquen muchas cosas. Las relaciones son representadas mediante <b>rombos</b> y el nombre debe colocarse dentro del símbolo.
 
-El nombre de una relación generalmente debe ser un <b>verbo</b>, ya que las relaciones describen acciones entre dos o más entidades. Las relaciones están clasificadas según su <b>grado</b>, éste se refiere al número de entidades que participan en la relación. Se recomienda que todas las relaciones sean binarias.
+<br><br>El nombre de una relación generalmente debe ser un <b>verbo</b>, ya que las relaciones describen acciones entre dos o más entidades. Las relaciones están clasificadas según su <b>grado</b>, éste se refiere al número de entidades que participan en la relación. Se recomienda que todas las relaciones sean binarias.
 
-<center>
+<br><br><center>
 <img alt="modelado" border="0" src="https://2.bp.blogspot.com/-Oc41uA7CHDA/V-IBppkFbSI/AAAAAAAABJA/fkVsgwqF67AFieqmqboesDqjo-n0KHFMACLcB/s1600/01modelado.png" title="modelado" /></center>
 
-<b>Participación</b>
+<br><br><b>Participación</b>
 
-La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad.
+<br><br>La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad.
 
-Las posibles participaciones son:
+<br><br>Las posibles participaciones son:
 <div class="separator" style="clear: both; text-align: center;">
 
 </div>
-(0,1)  --------------------------&gt; Mínimo cero, máximo uno
-(1,1)  --------------------------&gt; Mínimo uno, máximo uno
-(0,n) --------------------------&gt;  Mínimo cero, máximo n (muchos)
-(1,n) --------------------------&gt;  Mínimo uno, máximo n (muchos)
+<br><br>(0,1)  --------------------------&gt; Mínimo cero, máximo uno
+<br><br>(1,1)  --------------------------&gt; Mínimo uno, máximo uno
+<br><br>(0,n) --------------------------&gt;  Mínimo cero, máximo n (muchos)
+<br><br>(1,n) --------------------------&gt;  Mínimo uno, máximo n (muchos)
 
-<b>Cardinalidad</b>
+<br><br><b>Cardinalidad</b>
 
-La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toman el número máximo de participaciones de cada una de ellas entidades en la relación.
+<br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toman el número máximo de participaciones de cada una de ellas entidades en la relación.
 
-<center>
+<br><br><center>
 <img border="0" src="https://4.bp.blogspot.com/-yZQ8faK2GAQ/V-IDGKPZDvI/AAAAAAAABJQ/AUwMD6nHxNoQ_HpA3MFqZ7a8cga40BZPwCLcB/s1600/02modelado.png" /></center>
 
-<b>Atributos</b>
+<br><br><b>Atributos</b>
 
-Los atributos de una entidad son las <b>características</b> o <b>propiedades </b>que la definen como entidad. Se representan mediante elipses que se conectan a la entidad.
+<br><br>Los atributos de una entidad son las <b>características</b> o <b>propiedades </b>que la definen como entidad. Se representan mediante elipses que se conectan a la entidad.
 
-<b>Atributo clave</b>
+<br><br><b>Atributo clave</b>
 
-Designa a un <b>campo que no puede repetirse</b> dentro de la entidad. Además es posible tener un atributo clave constituido por mas de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
+<br><br>Designa a un <b>campo que no puede repetirse</b> dentro de la entidad. Además es posible tener un atributo clave constituido por mas de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
 
-<b>Atributo de relación</b>
+<br><br><b>Atributo de relación</b>
 
-Propio de una <b>relación</b> y que no puede ser cedido a las entidades que intervienen en la relación.
+<br><br>Propio de una <b>relación</b> y que no puede ser cedido a las entidades que intervienen en la relación.
 
-<div style="text-align: center;">
+<br><br><div style="text-align: center;">
 <img border="0" src="https://3.bp.blogspot.com/-whacAxNjoFQ/V-IDt3pzjRI/AAAAAAAABJY/D819j19u_YEzHjG8EA5MjKRa7OiLA7DRwCLcB/s1600/03modelado.png" /></div>
 
-<b>Tipos de atributos</b>
+<br><br><b>Tipos de atributos</b>
 
-<b>Atributos</b> <b>simples</b>: Son aquellos que no están divididos en sub partes
-<b>Atributo compuesto:</b> Cuando está formado por más de un atributo.
-<b>Atributos monovalorados</b>: Son los que tienen un solo valor
-<b>Atributos multivalorado</b>s: Son atributos que pueden representar varios valores simultáneamente para una misma ocurrencia de una entidad.
-<b>Atributos almacenado</b>s: Son los atributos cuyo valor guardan una cantidad que se utiliza para realizar cálculos con otros atributos en otras entidades o en la misma entidad.
-<b>Atributo derivado</b>: Son aquellos cuyo valor se puede derivar del valor de otros atributos o entidades.
-<b>Atributos con valor nulo</b>: Toma un valor nulo cuando una entidad no tiene un valor para un atributo.
+<br><br><b>Atributos</b> <b>simples</b>: Son aquellos que no están divididos en sub partes
+<br><br><b>Atributo compuesto:</b> Cuando está formado por más de un atributo.
+<br><br><b>Atributos monovalorados</b>: Son los que tienen un solo valor
+<br><br><b>Atributos multivalorado</b>s: Son atributos que pueden representar varios valores simultáneamente para una misma ocurrencia de una entidad.
+<br><br><b>Atributos almacenado</b>s: Son los atributos cuyo valor guardan una cantidad que se utiliza para realizar cálculos con otros atributos en otras entidades o en la misma entidad.
+<br><br><b>Atributo derivado</b>: Son aquellos cuyo valor se puede derivar del valor de otros atributos o entidades.
+<br><br><b>Atributos con valor nulo</b>: Toma un valor nulo cuando una entidad no tiene un valor para un atributo.
 
-<div class="separator" style="clear: both; text-align: center;">
+<br><br><div class="separator" style="clear: both; text-align: center;">
 <img border="0" src="https://4.bp.blogspot.com/-KSA-klCxe0Y/V-dtwo1K2XI/AAAAAAAABKk/PvrLm31uavc8D_peiWo22ZoS6QiS4Xx6QCLcB/s1600/Selection_092.png" /></div>
 
-​<b>Dominios</b>
+<br><br>​<b>Dominios</b>
 
-El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo.
+<br><br>El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo.</p>
 
 
 <h3>
