@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unidad 2. 
+title: Unidad dos 
 subtitle: Diseño de Bases de Datos con el modelo E-R
-tags: [unidad uno, resumen, introducción]
+tags: [unidad dos, resumen, modelo E-R]
 ---
