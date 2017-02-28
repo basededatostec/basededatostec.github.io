@@ -117,17 +117,17 @@ tags: [unidad dos, resumen, modelo E-R]
 
 ### 2.4 MODELO E-R EXTENDIDO
 
-<p style="text-align: justify;">El Modelo Entidad-Relación Extendido incluye todos los conceptos del <b>Entidad-Relación</b> e incorpora los <b>conceptos de Subclase</b> y <b>superclase</b> con los conceptos asociados de <b>Especialización</b> y <b>Generalización</b>.
+<p style="text-align: justify;">El Modelo Entidad-Relación Extendido incluye todos los conceptos del <b>Entidad-Relación</b> e incorpora los <b>conceptos de Subclase</b> y <b>Superclase</b> con los conceptos asociados de <b>Especialización</b> y <b>Generalización respectivamente</b>.
 
 <br><br><b>ESPECIALIZACIÓN:</b>
 
-<br><br>El proceso por el que se definen las <b>diferentes subclases</b> de una <b>superclase</b> se conoce como especialización. El conjunto de subclases se define <b>basándonos en características</b> diferenciadoras de las ocurrencias de entidad de la superclase. Por ejemplo, el conjunto se subclases {SECRETARIA, INGENIERO, TECNICO} es una especialización de la <b>superclase EMPLEADO</b> mediante la distinción del tipo de trabajo en cada ocurrencia de entidad. Podemos tener varias especializaciones de una misma entidad basándonos en distintos criterios. Por ejemplo, otra especialización de <b>EMPLEADO</b> podría dar lugar a las subclases <b>ASALARIADO</b> y <b>SUBCONTRATADO</b>, dependiendo del tipo de contrato.</p>
+<br><br>El proceso por el que se definen las <b>diferentes subclases</b> de una <b>superclase</b> se conoce como especialización. El conjunto de subclases se define <b>basándonos en características</b> diferenciadoras de las ocurrencias de entidad de la superclase. Por ejemplo, el conjunto se subclases {SECRETARIA, INGENIERO, TECNICO} es una especialización de la <b>superclase EMPLEADO</b> mediante la distinción del tipo de trabajo en cada ocurrencia de entidad. Podemos tener varias especializaciones de una misma entidad. Por ejemplo, otra especialización de <b>EMPLEADO</b> podría dar lugar a las subclases <b>ASALARIADO</b> y <b>SUBCONTRATADO</b>, dependiendo del tipo de contrato.</p>
 
 <center><img src="https://basededatostec.github.io/img/26extendido.png"></center>
 
 <b>GENERALIZACIÓN:</b>
 
-<p style="text-align: justify;">Es el <b>proceso inverso</b> al de la especialización. Se aplican ambos procesos para construir el esquema E-R extendido. Agrupar entidades con atributos comunes en una entidad superior de nivel más alto.
+<p style="text-align: justify;">Es el <b>proceso inverso</b> al de la especialización. Se aplican ambos procesos para construir el esquema E-R extendido. Se basa simplemente en agrupar entidades con atributos comunes en una entidad superior de nivel más alto.
 
 <br><br>Es decir "La generalización es el resultado de <b>tomar la unión de dos o más conjuntos</b> disjuntos de entidades para producir un conjunto de entidades de <b>nivel más alto</b>".
 
@@ -137,15 +137,13 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>AGREGACIÓN</b>
 
-<br><br>La agregación es una abstracción a través de la cual las<b> relaciones se tratan como entidades </b>de nivel más alto. Así, para este ejemplo, se considera el conjunto de relacionestrabaja-en como un conjunto de entidades de nivel más alto denominado trabaja-en.
+<br><br>La agregación es una abstracción a través de la cual las<b> relaciones se tratan como entidades </b>de nivel más alto. Así, se considera el conjunto de relacionestrabaja-en como un conjunto de entidades de nivel más alto denominado trabaja-en.
 
-<br><br>Tal conjunto de entidades se trata de la misma forma que cualquier otro conjunto de entidades. Se puede crear una <b>relación binaria</b> dirige entre trabaja-en y director para representar quién dirige las tareas.</p>
+<br><br>Tal conjunto de entidades se trata de la misma forma que cualquier otro conjunto de entidades. Se puede crear una <b>relación binaria</b> dirige entre trabaja-en y director para representar quién dirige las tareas, como se muestra a coninuación.</p>
 
-<center><img src="https://basededatostec.github.io/img/27modelado.jpg"></center>
+<center><img src="https://basededatostec.github.io/img/27modelo.jpg"></center>
 
-
-<h3>
-<b>2.5 LA NOTACIÓN E-R CON UML</b></h3>
+### 2.5 LA NOTACIÓN E-R CON UML
 
 Los diagramas entidad-relación <b>ayudan a modelar el componente de representación</b> de datos de un sistema software. La representación de datos, sólo forma parte de un diseño completo de un sistema.
 
