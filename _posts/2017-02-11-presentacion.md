@@ -8,7 +8,7 @@ tags: [presentación, 11 bases de datos]
 
 | Actividadad | Presentación en PowerPoint | 
 | :------- | :------ | 
-|  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Las 11 bases de datos más grandes del mundo       | 
+|  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Aquí te mostramos nuestra presentación acerca de las 11 bases de datos más grandes del mundo, realizada en PowerPoint para la clase Fundamentos de Bases de Datos.      | 
 
 <iframe allowfullscreen="true" frameborder="0" height="549" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/15WagtczC14IOPkioTNkyOkheQZn594iH5l4a93r1_Ec/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="760"></iframe>
 
