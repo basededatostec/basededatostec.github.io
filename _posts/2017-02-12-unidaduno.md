@@ -119,5 +119,10 @@ __Según el contenido__
 
 <p style="text-align: justify;"><b>Bases de datos de información química o biológica</b>. Son bases de datos que almacenan diferentes tipos de información proveniente de la <b>química</b>, las <b> de la vida</b> o <b>médicas</b>, almacenan secuencias de nucleótidos o proteínas.</p>
 
+<p style="text-align: justify;"><b>Bases de datos de rutas metabólicas</b>. Bases de datos de estructura, comprende los registros
+de datos experimentales sobre estructuras 3D de biomoléculas.</p>
+
+
+
 
 
