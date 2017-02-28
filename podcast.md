@@ -14,5 +14,8 @@ Sección de podcasts del sitio. Actualmente hay un podcast disponible.
 
 También puedes descargar el Podcast desde este [enlace](http://www.tecpachucavirtual.mx/m27/pluginfile.php/2686/assignsubmission_file/submission_files/27492/PODCAST.mp3?forcedownload=1 "descarga el podcast")
 
-
-
+|  Acerca de: | 
+| :------ | 
+| Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
+| Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
+| <a href="https://basededatostec.github.io/unidaduno/">Actividades Unidad 1</a> |
