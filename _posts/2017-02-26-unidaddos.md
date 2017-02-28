@@ -98,7 +98,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 ### 2.3 DISEÑO CON DIAGRAMAS E-R
 
-<p style="text-align: justify;">El modelo de datos E-R da una flexibilidad sustancial en el diseño de un <b>esquema de bases de datos para modelar una empresa dada</b>. Un diseñador de bases de datos puede seleccionar entre el amplio rango de alternativas. Entre las decisiones que se toman están las siguientes:
+<p style="text-align: justify;">El modelo de datos E-R da una flexibilidad sustancial en el diseño de un <b>esquema de bases de datos para modelar una empresa dada</b>. Un diseñador de bases de datos puede seleccionar entre el amplio rango de alternativas, éstas son:
 
 <br><br>Si se usa un atributo o un conjunto de entidades para representa un <b>objeto</b>.
 
@@ -106,11 +106,11 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>Si se usa una relación ternaria o un par de <b>relaciones binaras</b>.
 
-<br><br>Si se usa un conjunto de entidades <b>fuertes</b> o <b>débiles</b>; un conjunto de entidades fuertes y sus conjuntos de entidades débiles dependientes se pueden considerar como un objeto en la base de datos, debido a que la existencia de las entidades débiles depende de la entidad fuerte.
+<br><br>Un conjunto de <b>entidades fuertes</b> y sus conjuntos de <b>entidades débiles</b> dependientes se pueden considerar como un objeto en la base de datos, debido a que la existencia de las entidades débiles depende de la entidad fuerte.
 
-<br><br>Un modelo de datos de<b> alto nivel</b> sirve al diseñador de la base de datos para proporcionar un marco conceptual en el que especificar de forma sistemática los requisitos de datos de los usuarios de la base de datos que existen, y cómo se estructurará la base de datos para completar estos requisitos. La fase inicial del diseño de bases de datos, por tanto, es caracterizar completamente las necesidades de datos esperadas por los usuarios de la base de datos. El resultado de esta fase es una especificación de <b>requisitos del usuario</b>. Esta estructura general se puede expresar gráficamente mediante un diagrama E-R.
+<br><br>Un modelo de datos de<b> alto nivel</b> sirve para proporcionar un marco conceptual en el que especificar de forma sistemática los requisitos de datos de los usuarios de la base de datos que existen, y cómo se estructurará la base de datos para completar estos requisitos. La fase inicial del diseño de bases de datos, por tanto, es caracterizar completamente las necesidades de datos esperadas por los usuarios de la base de datos. El resultado de esta fase es una especificación de <b>requisitos del usuario</b>. Esta estructura general se puede expresar gráficamente mediante un diagrama E-R.
 
-<br><br>A continuación, el diseñador elige un <b>modelo de datos</b> y, aplicando los conceptos del modelo de datos elegido, traduce estos requisitos a un esquema conceptual de la base de datos. El esquema desarrollado en esta fase de diseño conceptual proporciona una <b>visión detallada del desarrollo</b>.
+<br><br>A continuación, el diseñador elige un <b>modelo de datos</b> y, aplicando los conceptos del modelo de datos elegido, traduce estos requisitos a un esquema conceptual. El esquema desarrollado en esta fase de diseño conceptual proporciona una <b>visión detallada del desarrollo</b>.
 
 <br><br>El diseñador <b>revisa el esquema</b> para confirmar que todos los requisitos de datos se satisfacen realmente y no hay conflictos entre sí. También se examina el diseño para <b>eliminar características redundantes</b>. Lo importante en este punto es describir los datos y las relaciones, más que especificar detalles del almacenamiento físico.
 
