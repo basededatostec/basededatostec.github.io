@@ -70,14 +70,14 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>ATRÍBUTO CLAVE</b>
 
-<br><br>Designa a un <b>campo que no puede repetirse</b> dentro de la entidad. Además es posible tener un atributo clave constituido por mas de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
+<br><br><p style="text-align: justify;">Designa a un <b>campo que no puede repetirse</b> dentro de la entidad. Además es posible tener un atributo clave constituido por mas de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
 
 <br><br><b>Atributo de relación</b>
 
 <br><br>Propio de una <b>relación</b> y que no puede ser cedido a las entidades que intervienen en la relación.
 
-<br><br><div style="text-align: center;">
-<img border="0" src="https://3.bp.blogspot.com/-whacAxNjoFQ/V-IDt3pzjRI/AAAAAAAABJY/D819j19u_YEzHjG8EA5MjKRa7OiLA7DRwCLcB/s1600/03modelado.png" /></div>
+<br><br>
+<img border="0" src="https://3.bp.blogspot.com/-whacAxNjoFQ/V-IDt3pzjRI/AAAAAAAABJY/D819j19u_YEzHjG8EA5MjKRa7OiLA7DRwCLcB/s1600/03modelado.png" />
 
 <br><br><b>Tipos de atributos</b>
 
