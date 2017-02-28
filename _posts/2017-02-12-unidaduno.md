@@ -65,8 +65,6 @@ Su uso es muy amplio y se puede tener en cualquier sistema que aloje datos.
 <center><img src="https://basededatostec.github.io/img/15modelos.png" title="Modelos" alt="modelos"></center>
 <p style="text-align: justify;">Además de la clasificación por la función de las bases de datos, éstas también se pueden clasificar de acuerdo a su modelo de administración de datos.</p>
 
-<center><img src="https://basededatostec.github.io/img/09modelos.png" title="Modelos" alt="modelos"></center>
-
 <p style="text-align: justify;">Un modelo de datos es <b>una descripción</b> de algo conocido como contenedor de datos, así como de los métodos para almacenar y recuperar información de esos contenedores. Los modelos de datos <b>no son físicos</b>: son abstracciones que permiten la implementación de un sistema eficiente de base de datos.</p>
 
 Algunos modelos con frecuencia utilizados en las bases de datos:
@@ -76,6 +74,8 @@ Algunos modelos con frecuencia utilizados en las bases de datos:
 __Modelo entidad-relación ER__
 
 <p style="text-align: justify;">El modelo entidad-relación ER es un modelo de datos que permite representar cualquier abstracción, percepción y conocimiento en un sistema de información formado por un conjunto de objetos denominados entidades y relaciones, incorporando una representación visual conocida como diagrama entidad-relación. </p>
+
+<center><img src="https://basededatostec.github.io/img/16entidad.png" title="ER" alt="ER"></center>
 
 #### Modelos de representación:
 
