@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Unidad 1. Introducción a las Bases de Datos
+title: Unidad uno
+subitle: Introducción a las Bases de Datos
 tags: [unidad uno, resumen, introducción]
 ---
 <center><img src="https://basededatostec.github.io/img/20introduccion.png" title="Introducción" alt="bases de datos"></center>
