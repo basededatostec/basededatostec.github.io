@@ -8,39 +8,35 @@ tags: [unidad dos, resumen, modelo E-R]
 <h3>
 <b>2.1 EL PROCESO DE DISEÑO</b></h3>
 
-El diseño de una base de datos consiste en extraer todos los elementos relevantes de un problema, por ejemplo, saber que<b> datos estàn implicados en el proceso de facturación de una empresa</b> que vende refacciones automotrices, los datos necesarios para el proceso de inscripción de alumnos, etc.
+<br><br>El diseño de una base de datos consiste en extraer todos los elementos relevantes de un problema, por ejemplo, saber que<b> datos estàn implicados en el proceso de facturación de una empresa</b> que vende refacciones automotrices, los datos necesarios para el proceso de inscripción de alumnos, etc.
 
-Para la extracción de los datos se debe realizar un análisis minucioso del dominio del problema, y saber, de esta forma, que datos son los puramente necesarios o esenciales para almacenar en la base de datos y eliminar o simplemente no considerar aquellos datos o información que no sea de utilidad.
+<br><br>Para la extracción de los datos se debe realizar un análisis minucioso del dominio del problema, y saber, de esta forma, que datos son los puramente necesarios o esenciales para almacenar en la base de datos y eliminar o simplemente no considerar aquellos datos o información que no sea de utilidad.
 
-Una vez extraidos los datos se da inicio al <b>MODELADO</b>, es decir, la construcción, mediante alguna herramienta de diseño de base de datos, un esquema o gráfico que represente o <b>exprese con PRECISIÓN TODOS los datos</b> que el problema requiere almacenar.
+<br><br>Una vez extraidos los datos se da inicio al <b>MODELADO</b>, es decir, la construcción, mediante alguna herramienta de diseño de base de datos, un esquema o gráfico que represente o <b>exprese con PRECISIÓN TODOS los datos</b> que el problema requiere almacenar.
 
-Normalmente la recopilación de la información del problema se obtiene mediante reuniones con quienes será los usuarios del sistema, a través de <b>entrevistas</b>, <b>platicas formales</b> e <b>informales</b>, cuestionarios, observación entre otros. Ahora bien, el problema no se resuelve con solo poner a disposición del usuario final la base de datos, sino que va a requerir un conjunto de programas o software que automaticen el acceso a los datos y su gestión.
+<br><br>Normalmente la recopilación de la información del problema se obtiene mediante reuniones con quienes será los usuarios del sistema, a través de <b>entrevistas</b>, <b>platicas formales</b> e <b>informales</b>, cuestionarios, observación entre otros. Ahora bien, el problema no se resuelve con solo poner a disposición del usuario final la base de datos, sino que va a requerir un conjunto de programas o software que automaticen el acceso a los datos y su gestión.
 
-Derivado de las diversas reuniones con los usuarios finales se extrae el documento de <b>Especificaciones de Requisitos Software </b>o <b>E.R.S.</b> y partir de éstos se obtiene la información necesaria para la modelización de los datos.
+<br><br>Derivado de las diversas reuniones con los usuarios finales se extrae el documento de <b>Especificaciones de Requisitos Software </b>o <b>E.R.S.</b> y partir de éstos se obtiene la información necesaria para la modelización de los datos.
 
-El modelado consiste en<b> representar el problema realizando múltiples abstracciones</b> para entender toda la información de un problema, y de esta manera, generar un mapa donde estén identificados todos los objetos de la base de datos.
+<br><br>El modelado consiste en<b> representar el problema realizando múltiples abstracciones</b> para entender toda la información de un problema, y de esta manera, generar un mapa donde estén identificados todos los objetos de la base de datos.
 
-<b><u>El modelado de una base de datos considera lo siguiente:</u></b>
+<br><br><b><u>El modelado de una base de datos considera lo siguiente:</u></b>
 
-<b>1.-</b> La persona que modeliza la base de datos en la mayoría de las ocasiones no es experta en el dominio del problema a modelar, por lo que es indispensable contar con el apoyo de una persona experta en área del problema a resolver.
+<br><br><b>1.-</b> La persona que modeliza la base de datos en la mayoría de las ocasiones no es experta en el dominio del problema a modelar, por lo que es indispensable contar con el apoyo de una persona experta en área del problema a resolver.
 
-<b>2.-</b> Se debe modelar siguiendo estándares para que el producto se entienda y sea comprensible por la comunidad informática. Esto implica el uso de herramientas de software del mercado para realizar diseños.
+<br><br><b>2.-</b> Se debe modelar siguiendo estándares para que el producto se entienda y sea comprensible por la comunidad informática. Esto implica el uso de herramientas de software del mercado para realizar diseños.
 
-<b>3.-</b> La base de datos estará gestionada por un SGBD que tendrá características técnicas, de esta manera, no se tratará igual la implantación de la base de datos en un sistema MySQL que en Oracle.
+<br><br><b>3.-</b> La base de datos estará gestionada por un SGBD que tendrá características técnicas, de esta manera, no se tratará igual la implantación de la base de datos en un sistema MySQL que en Oracle.
 
+<br><br><u><b>Pasos para lograr la interacción y la calidad del modelado:</b></u>
 
-<u><b>Pasos para lograr la interacción y la calidad del modelado:</b></u>
+<br><br><b>1.- </b>Se negocia con el usuario final el modelo conceptual.
 
-<b>1.- </b>Se negocia con el usuario final el modelo conceptual.
+<br><br><b>2.-</b> Transformación del modelo conceptual al modelo lógico.
 
-<b>2.-</b> Transformación del modelo conceptual al modelo lógico.
+<br><br><b>3.-</b> Transformación del modelo lógico al físico.
 
-<b>3.-</b> Transformación del modelo lógico al físico.
-
-
-<h3>
-
-<b>2.2 MODELO ENTIDAD-RELACIÓN</b></h3>
+<h3><b>2.2 MODELO ENTIDAD-RELACIÓN</b></h3>
 
 El modelo conceptual es representado a través del modelo entidad/relación, el cual coloca el resultado del análisis del problema real mediante uno o varios diagramas, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
 
