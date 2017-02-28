@@ -124,14 +124,15 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 
 ### 1.6 ARQUITECTURA DE BASE DE DATOS
 
-<p style="text-align: justify;">Las bases de datos respetan la arquitectura de tres niveles definida para cualquier tipo de base de datos. En esta arquitectura la base de datos se divide en niveles establecidos, estos son; interno, conceptual y externo.
+<p style="text-align: justify;">Las bases de datos respetan la arquitectura de <b>tres niveles</b> definida para cualquier tipo de base de datos. En esta arquitectura la base de datos se divide en niveles establecidos, estos son; interno, conceptual y externo.
 
-<br><br><b>Nivel externo</b>. Es el nivel de mayor abstracción. A este nivel corresponden las <b>diferentes vistas parciales</b> que tienen de la base de datos los diferentes usuarios. En cierto modo, es la parte del modelo conceptual a la que tienen acceso.
+<br><br><b>Nivel externo</b>. Es el nivel de mayor abstracción. A este nivel corresponden las diferentes <b>vistas parciales</b> que tienen de la base de datos los diferentes usuarios. En cierto modo, es la parte del modelo conceptual a la que tienen acceso.
 
 <br><br><b>Nivel conceptual</b>. Es el nivel medio de abstracción. Se trata de la representación de los datos realizada por la organización, que recoge las vistas parciales de los <b>requerimientos</b> de los diferentes usuarios y las aplicaciones posibles. Se configura como visión organizativa total, e incluye la definición de datos y las relaciones entre ellos.
 
 <br><br><b>Nivel interno</b>. Es el nivel más bajo de abstracción, y define cómo se almacenan los datos en el <b>soporte físico</b>, así como los métodos de acceso.</p>
 
+<center><img src="https://basededatostec.github.io/img/12niveles.png" title="Introducción" alt="bases de datos"></center>
 
 
 
