@@ -46,7 +46,6 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>El nombre de una relación generalmente debe ser un <b>verbo</b>, ya que las relaciones describen acciones entre dos o más entidades. Las relaciones están clasificadas según su <b>grado</b>, éste se refiere al número de entidades que participan en la relación. Se recomienda que todas las relaciones sean binarias.</p>
 
-<br><br>
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/22relacion.png" title="modelado"></center>
 
 <br><br><b>PARTICIPACIÓN</b>
@@ -62,21 +61,20 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toma el número máximo de participaciones de cada una de ellas, como en la siguiente figura.</p>
 
-<br><br><center><img alt="modelado" src="https://basededatostec.github.io/img/23cardinalidad.png" title="modelado"></center>
+<center><img alt="modelado" src="https://basededatostec.github.io/img/23cardinalidad.png" title="modelado"></center>
 
-<br><br><b>ATRÍBUTOS</b>
+<b>ATRÍBUTOS</b>
 
 <br><br><p style="text-align: justify;">Los atributos de una entidad son las <b>características</b> o <b>propiedades </b>que la definen como entidad. Se representan mediante elipses que se conectan a la entidad.
 
 <br><br><b>ATRÍBUTO CLAVE</b>
 
-<p style="text-align: justify;">Designa a un <b>campo que no puede repetirse</b>. Además es posible tener un atributo clave constituido por más de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.</p>
+Designa a un <b>campo que no puede repetirse</b>. Además es posible tener un atributo clave constituido por más de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.</p>
 
 <br><br><b>ATRÍBUTO DE RELACIÓN</b>
 
 <br><br>Propio de una <b>relación</b> y que no puede ser cedido a las entidades.</p>
 
-<br><br>
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/24atributo.png" title="modelado"></center>
 
 <br><br><b>TIPOS DE ATRÍBUTOS</b>
