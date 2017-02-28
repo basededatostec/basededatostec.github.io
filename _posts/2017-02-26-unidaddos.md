@@ -77,22 +77,22 @@ tags: [unidad dos, resumen, modelo E-R]
 <br><br>Propio de una <b>relación</b> y que no puede ser cedido a las entidades.
 
 <br><br>
-<img border="0" src="https://3.bp.blogspot.com/-whacAxNjoFQ/V-IDt3pzjRI/AAAAAAAABJY/D819j19u_YEzHjG8EA5MjKRa7OiLA7DRwCLcB/s1600/03modelado.png" />
+<center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/24atributo.png" title="modelado"></center>
 
-<br><br><b>Tipos de atributos</b>
+<br><br><b>TIPOS DE ATRÍBUTOS</b>
 
-<br><br><b>Atributos</b> <b>simples</b>: Son aquellos que no están divididos en sub partes
-<br><br><b>Atributo compuesto:</b> Cuando está formado por más de un atributo.
-<br><br><b>Atributos monovalorados</b>: Son los que tienen un solo valor
-<br><br><b>Atributos multivalorado</b>s: Son atributos que pueden representar varios valores simultáneamente para una misma ocurrencia de una entidad.
-<br><br><b>Atributos almacenado</b>s: Son los atributos cuyo valor guardan una cantidad que se utiliza para realizar cálculos con otros atributos en otras entidades o en la misma entidad.
-<br><br><b>Atributo derivado</b>: Son aquellos cuyo valor se puede derivar del valor de otros atributos o entidades.
-<br><br><b>Atributos con valor nulo</b>: Toma un valor nulo cuando una entidad no tiene un valor para un atributo.
+<br><br>Atributos simples Son aquellos que no están divididos en sub partes
+<br><br>Atributo compuesto: Cuando está formado por más de un atributo.
+<br><br>Atributos monovalorados: Son los que tienen un solo valor
+<br><br>Atributos multivalorado: Son atributos que pueden representar varios valores simultáneamente para una misma ocurrencia de una entidad.
+<BR><br>Atributos almacenado: Son los atributos cuyo valor guardan una cantidad que se utiliza para realizar cálculos con otros atributos en otras entidades o en la misma entidad.
+<br><br>Atributo derivado: Son aquellos cuyo valor se puede derivar del valor de otros atributos o entidades.
+<br><br>Atributos con valor nulo: Toma un valor nulo cuando una entidad no tiene un valor para un atributo.
 
-<br><br><div class="separator" style="clear: both; text-align: center;">
-<img border="0" src="https://4.bp.blogspot.com/-KSA-klCxe0Y/V-dtwo1K2XI/AAAAAAAABKk/PvrLm31uavc8D_peiWo22ZoS6QiS4Xx6QCLcB/s1600/Selection_092.png" /></div>
+<br><br>
+<center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/25dominio.png" title="modelado"></center>
 
-<br><br>​<b>Dominios</b>
+<br><br>​<b>DOMINIOS</b>
 
 <br><br>El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo.</p>
 
