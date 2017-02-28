@@ -47,7 +47,7 @@ tags: [unidad dos, resumen, modelo E-R]
 <br><br>El nombre de una relación generalmente debe ser un <b>verbo</b>, ya que las relaciones describen acciones entre dos o más entidades. Las relaciones están clasificadas según su <b>grado</b>, éste se refiere al número de entidades que participan en la relación. Se recomienda que todas las relaciones sean binarias.
 
 <br><br>
-<center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/22relacion.png" title="modelado" /></center>
+<center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/22relacion.png" title="modelado"></center>
 
 <br><br><b>PARTICIPACIÓN</b>
 
@@ -62,7 +62,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toma el número máximo de participaciones de cada una de ellas, como en la siguiente figura.
 
-<br><br><center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/23cardinalidad.png" title="modelado" /></center>
+<br><br><center><img alt="modelado" src="https://basededatostec.github.io/img/23cardinalidad.png" title="modelado"></center>
 
 <br><br><b>ATRÍBUTOS</b>
 
