@@ -70,7 +70,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>ATRÍBUTO CLAVE</b>
 
-<p style="text-align: justify;">Designa a un <b>campo que no puede repetirse</b>. Además es posible tener un atributo clave constituido por más de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
+<p style="text-align: justify;">Designa a un <b>campo que no puede repetirse</b>. Además es posible tener un atributo clave constituido por más de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.</p>
 
 <br><br><b>ATRÍBUTO DE RELACIÓN</b>
 
@@ -94,7 +94,8 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>DOMINIOS</b>
 
-<br><br>El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.</p>
+<br><br>El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.
+
 
 ### 2.3 DISEÑO CON DIAGRAMAS E-R
 
@@ -116,7 +117,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>Un esquema conceptual completamente desarrollado indicará también los<b> requisitos funcionales</b> de la empresa. En una especificación de requisitos funcionales los usuarios describen los tipos de operaciones que se realizarán sobre los datos.
 
-<br><br>El proceso de trasladar un modelo abstracto de datos a la implementación de la base de datos consta de dos fases de diseño finales. En la fase de <b>diseño lógico</b>, el diseñador traduce el esquema conceptual de alto nivel al modelo de datos de la implementación del sistema de base de datos que se usará. El diseñador usa el esquema resultante específico a la base de datos en la siguiente fase de diseño físico, en la que se especifican las <b>características físicas</b> de la base de datos.</p>
+<br><br>El proceso de trasladar un modelo abstracto de datos a la implementación de la base de datos consta de dos fases de diseño finales. En la fase de <b>diseño lógico</b>, el diseñador traduce el esquema conceptual de alto nivel al modelo de datos de la implementación del sistema de base de datos que se usará. El diseñador usa el esquema resultante, en la que se especifican las <b>características físicas</b> de la base de datos.</p>
 
 <h3>
 <b>
@@ -125,7 +126,7 @@ tags: [unidad dos, resumen, modelo E-R]
 <b>2.4 MODELO E-R EXTENDIDO</b></h3>
 
 El Modelo Entidad-Relación Extendido incluye todos los conceptos del <b>Entidad-Relación</b> e incorpora los <b>conceptos de Subclase</b> y <b>superclase</b> con los conceptos asociados de <b>Especialización</b> y <b>Generalización</b>.
-​
+
 <b>ESPECIALIZACIÓN:</b>
 
 El proceso por el que se definen las <b>diferentes subclases</b> de una <b>superclase</b> se conoce como especialización. El conjunto de subclases se define <b>basándonos en características</b> diferenciadoras de las ocurrencias de entidad de la superclase. Por ejemplo, el conjunto se subclases {SECRETARIA, INGENIERO, TECNICO} es una especialización de la <b>superclase EMPLEADO</b> mediante la distinción del tipo de trabajo en cada ocurrencia de entidad. Podemos tener varias especializaciones de una misma entidad basándonos en distintos criterios. Por ejemplo, otra especialización de <b>EMPLEADO</b> podría dar lugar a las subclases <b>ASALARIADO</b> y <b>SUBCONTRATADO</b>, dependiendo del tipo de contrato.
