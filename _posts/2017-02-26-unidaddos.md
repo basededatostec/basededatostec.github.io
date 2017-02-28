@@ -166,3 +166,9 @@ tags: [unidad dos, resumen, modelo E-R]
 <center><img src="https://basededatostec.github.io/img/28modelo.png" alt="uml" title="UML"></center>
 
 Fuentes de Información: <a href="http://tavoberry.com/MER/diagramas_er.html" target="_blank">Modelo entidad relación</a>
+
+|  Acerca de: | 
+| :------ | 
+| Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
+| Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
+| <a href="https://basededatostec.github.io/unidaddos/">Actividades Unidad 2</a> |
