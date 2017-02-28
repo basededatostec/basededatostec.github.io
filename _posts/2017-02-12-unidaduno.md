@@ -138,7 +138,8 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 
 <br><br>Por <b>independencia lógica</b> se entiende que los cambios en el esquema lógico no deben afectar a los esquemas externos que no utilicen los datos modificados. Por <b>independencia física</b> se entiende que el esquema lógico no se vea afectado por cambios realizados en el esquema interno, correspondientes a modos de acceso, etc. </p>
 
-### 1.7 ARQUITECTURA DEL SGBD
+### 1.7 ARQUITECTURA DEL SGBD<br><br>
+<center><img src="https://basededatostec.github.io/img/19sgbd.png" title="Objetivos" alt="objetivos"></center>
 
 <p style="text-align: justify;">Un Sistema de Gestión de Bases de Datos, <b>permite manipular</b> las bases de datos.  La gestión de los datos implica tanto la definición de estructuras para almacenar la información como la provisión de mecanismos para la manipulación de la información. Proporciona la <b>fiabilidad de la información almacenada</b>, a pesar de las caídas del sistema o los intentos de acceso sin autorización. Los componentes de un SGBD son:
 
