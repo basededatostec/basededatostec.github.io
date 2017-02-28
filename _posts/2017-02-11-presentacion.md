@@ -15,7 +15,7 @@ La presentación es la siguiente:
 
 <iframe allowfullscreen="true" frameborder="0" height="549" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/1RahvsZLbRu3a6AErjbU185vLX1Q4rpPaOfLDt2vhbJU/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="760"></iframe>
 
-Descarga esta presentación dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&amp;confirm=no_antivirus&amp;id=0B0tLjk4fF3eYb2ROQThVd1E0Z0k "clic para descargar la presentación") 
+Descarga esta presentación dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&amp;confirm=no_antivirus&amp;id=1RahvsZLbRu3a6AErjbU185vLX1Q4rpPaOfLDt2vhbJU "clic para descargar la presentación") 
 
 |  Acerca de: | 
 | :------ | 
