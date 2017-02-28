@@ -148,7 +148,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <p style="text-align: justify;">Los diagramas entidad-relación <b>ayudan a modelar el componente de representación</b> de datos de un sistema software. La representación de datos, sólo forma parte de un diseño completo de un sistema complejo de notaciones.
 
-<br><br>Otros componentes son modelos de interacción del usuario con el sistema, especificación de módulos funcionales del sistema y su interacción, etc. El lenguaje de modelado unificado, propuesto para la creación de especificaciones de varios componentes de un sistema software. Algunas de las partes principales de UML son:
+<br><br>Otros componentes son modelos de interacción del usuario con el sistema, especificación de módulos funcionales del sistema y su interacción, etc. El lenguaje de modelado unificado, propuesto para la creación de especificaciones de componentes de un sistema software. Algunas de las partes principales de UML son:
 
 <br><br><b>Diagrama de clase</b>. Un diagrama de clase es similar a un diagrama E-R.
 <br><b>Diagrama de caso de uso</b>. Los diagramas de caso de uso muestran la interacción entre los usuarios y el sistema, en particular los pasos de las tareas que realiza el usuario.
