@@ -8,11 +8,11 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <p style="text-align: justify;">El diseño de una base de datos consiste en extraer todos los elementos relevantes de un problema, por ejemplo, saber que<b> datos estàn implicados en el proceso de facturación de una empresa</b> que vende refacciones automotrices, los datos necesarios para el proceso de inscripción de alumnos, etc.
 
-<br><br>Para la extracción de los datos se debe realizar un análisis minucioso del dominio del problema, y saber, de esta forma, que datos son los puramente necesarios o esenciales para almacenar en la base de datos y eliminar o simplemente no considerar aquellos datos o información que no sea de utilidad.
+<br><br>Para la extracción de los datos se debe realizar un análisis minucioso del dominio del problema, y saber, de esta forma, que <b>datos</b> son los <b>puramente necesarios</b> o esenciales para almacenar en la base de datos y eliminar o simplemente no considerar aquellos datos o información que no sea de utilidad.
 
-<br><br>Una vez extraidos los datos se da inicio al <b>MODELADO</b>, es decir, la construcción, mediante alguna herramienta de diseño de base de datos, un esquema o gráfico que represente o <b>exprese con PRECISIÓN TODOS los datos</b> que el problema requiere almacenar.
+<br><br>Una vez extraidos los datos se da inicio al <b>MODELADO</b>, es decir, la construcción, mediante alguna herramienta de diseño de base de datos, un esquema o gráfico que represente con<b>PRECISIÓN TODOS los datos</b> que el problema requiere almacenar.
 
-<br><br>Normalmente la recopilación de la información del problema se obtiene mediante reuniones con quienes será los usuarios del sistema, a través de <b>entrevistas</b>, <b>platicas formales</b> e <b>informales</b>, cuestionarios, observación entre otros. Ahora bien, el problema no se resuelve con solo poner a disposición del usuario final la base de datos, sino que va a requerir un conjunto de programas o software que automaticen el acceso a los datos y su gestión.
+<br><br>Normalmente la recopilación de la información del problema se obtiene mediante reuniones con quienes será los usuarios del sistema, a través de <b>entrevistas</b>, <b>platicas formales</b> e <b>informales</b> y <b>cuestionarios</b>. Ahora bien, el problema no se resuelve con solo poner a disposición del usuario final la base de datos, sino que va a requerir un conjunto de programas o software que automaticen el acceso a los datos y su gestión.
 
 <br><br>Derivado de las diversas reuniones con los usuarios finales se extrae el documento de <b>Especificaciones de Requisitos Software </b>o <b>E.R.S.</b> y partir de éstos se obtiene la información necesaria para la modelización de los datos.
 
@@ -24,15 +24,11 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>2.-</b> Se debe modelar siguiendo estándares para que el producto se entienda y sea comprensible por la comunidad informática. Esto implica el uso de herramientas de software del mercado para realizar diseños.
 
-<br><br><b>3.-</b> La base de datos estará gestionada por un SGBD que tendrá características técnicas, de esta manera, no se tratará igual la implantación de la base de datos en un sistema MySQL que en Oracle.
+<br><br><b>3.-</b> La base de datos estará gestionada por un SGBD, de esta manera no se tratará igual la implantación de la base de datos en un sistema MySQL que en Oracle.
 
 <br><br><u><b>Pasos para lograr la interacción y la calidad del modelado:</b></u>
 
-<br><br><b>1.- </b>Se negocia con el usuario final el modelo conceptual.
-
-<br><br><b>2.-</b> Transformación del modelo conceptual al modelo lógico.
-
-<br><br><b>3.-</b> Transformación del modelo lógico al físico.</p>
+<br><br><b>1.- </b>Se negocia con el usuario final el modelo conceptual, para después tramsformar el modelo conceptual al modelo lógico, por último transformar el modelo lógico al físico.</p>
 
 -### 2.2 MODELO ENTIDAD-RELACIÓN
 
