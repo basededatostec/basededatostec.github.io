@@ -8,7 +8,7 @@ tags: [presentación, 11 bases de datos]
 
 | Actividadad | Presentación en PowerPoint | 
 | :------- | :------ | 
-|   | Las 11 bases de datos más grandes del mundo       | 
+|  <iframe allowfullscreen="true" frameborder="0" height="249" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/15WagtczC14IOPkioTNkyOkheQZn594iH5l4a93r1_Ec/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="560"></iframe> | Las 11 bases de datos más grandes del mundo       | 
 |    | |
 
 <iframe allowfullscreen="true" frameborder="0" height="549" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/15WagtczC14IOPkioTNkyOkheQZn594iH5l4a93r1_Ec/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="760"></iframe>
