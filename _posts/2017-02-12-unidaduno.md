@@ -15,8 +15,7 @@ de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápid
 
 ### 1.2 OBJETIVOS DE LAS BASES DE DATOS
 
-
-<center><img src="https://basededatostec.github.io/img/08objetivo.png" title="Objetivos" alt="objetivoss"></center>
+<bR><center><img src="https://basededatostec.github.io/img/08objetivo.png" title="Objetivos" alt="objetivoss"></center>
 Algunos de los principales objetivos de las bases de datos son:
 
 __Disminuir la redundancia e inconsistencia de los datos__
