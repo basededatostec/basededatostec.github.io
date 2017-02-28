@@ -168,10 +168,7 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 <br><br><b>Gestión y operación de SGBD</b>
 <br><br>Comprende muchos otros componentes que tratan de aspectos de<b> gestión</b> del SGBD como monitoreo de prestaciones, mapas de almacenamiento, etc.</p>
 
-<center><img src="https://basededatostec.github.io/img/13gestor.gif" title="SGBD" alt="sgbd"></center>
-
-
-
+<center><img src="https://basededatostec.github.io/img/13gestor.gif" title="SGBD" alt="sgbd"></center><br><br>
 |  Acerca de: | 
 | :------ | 
 | Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
