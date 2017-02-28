@@ -157,16 +157,16 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 
 <br><br><b>Intérprete o procesador del lenguaje</b>
 
-<br><br>La mayor parte de las operaciones se efectúan mediante un <b>lenguaje de base de datos</b>. Existen lenguajes para definición de datos, manipulación de datos, para especificar aspectos de la seguridad y más. Las sentencias en ese lenguaje se introducen en el SGBD mediante el interfaz adecuado. .
+<br><br>La mayor parte de las operaciones se efectúan mediante un <b>lenguaje de base de datos</b>. Existen lenguajes para definición de datos, manipulación de datos, para especificar aspectos de la seguridad y algunas otras acciones. 
 
 <br><br><b>Mecanismo de almacenamiento</b>
 <br><br>Traduce las operaciones a lenguaje de <b>bajo nivel</b>. En algunas arquitecturas el mecanismo de almacenamiento está integrado en el motor de la base de datos.
 
 <br><br><b>Motor de transacciones</b>
-<br><br>Se realizan encapsuladas dentro de transacciones. Las transacciones pueden ser especificadas externamente al SGBD para encapsular un grupo de operaciones. El motor de transacciones sigue la ejecución de las transacciones y gestiona su ejecución.
+<br><br>Se realizan encapsuladas dentro de <b>transacciones</b>. Éstas pueden ser especificadas externamente al SGBD para encapsular un grupo de operaciones. El motor de transacciones sigue la ejecución de las transacciones y gestiona su ejecución.
 
 <br><br><b>Gestión y operación de SGBD</b>
-<br><br>Comprende muchos otros componentes que tratan de aspectos de<b> gestión</b> y <b>operativos</b> del SGBD como gestión del almacenamiento, mapas de almacenamiento, etc.</p>
+<br><br>Comprende muchos otros componentes que tratan de aspectos de<b> gestión</b> del SGBD como monitoreo de prestaciones, mapas de almacenamiento, etc.</p>
 
 
 
