@@ -146,22 +146,22 @@ tags: [unidad dos, resumen, modelo E-R]
 ### 2.5 LA NOTACIÓN E-R CON UML
 
 
-<p style="text-align: justify;">Los diagramas entidad-relación <b>ayudan a modelar el componente de representación</b> de datos de un sistema software. La representación de datos, sólo forma parte de un diseño completo de un sistema.
+<p style="text-align: justify;">Los diagramas entidad-relación <b>ayudan a modelar el componente de representación</b> de datos de un sistema software. La representación de datos, sólo forma parte de un diseño completo de un sistema complejo de notaciones.
 
-<br><br>Otros componentes son modelos de interacción del usuario con el sistema, especificación de módulos funcionales del sistema y su interacción, etc. El lenguaje de modelado unificado (<b>UML, Unified Modeling Language</b>) es un estándar propuesto para la creación de especificaciones de varios componentes de un sistema software. Algunas de las partes de UML son:
+<br><br>Algunos tros componentes son modelos de interacción del usuario con el sistema, especificación de módulos funcionales del sistema y su interacción, etc. El lenguaje de modelado unificado (<b>UML, Unified Modeling Language</b>) es un estándar propuesto para la creación de especificaciones de varios componentes de un sistema software. Algunas de las partes principales de UML son:
 
-<br><b>Diagrama de clase</b>. Un diagrama de clase es similar a un diagrama E-R.
+<br><br><b>Diagrama de clase</b>. Un diagrama de clase es similar a un diagrama E-R.
 <br><b>Diagrama de caso de uso</b>. Los diagramas de caso de uso muestran la interacción entre los usuarios y el sistema, en particular los pasos de las tareas que realiza el usuario.
 <br><b>Diagrama de actividad</b>. Los diagramas de actividad describen el flujo de tareas entre varios componentes de un sistema.
-<br><b>Diagrama de implementación</b>. Los diagramas de implementación muestran los componentes del sistema y sus interconexiones tanto en el nivel del componente software como el hardware.
+<br><b>Diagrama de implementación</b>. Los diagramas de implementación muestran los componentes del sistema y sus interconexiones tanto en el nivel del componente software como el hardware de forma general.
 
-<br><br>La siguiente figura muestra varios constructores de diagramas E-R y sus constructores equivalentes de los diagramas de clase UML. Más abajo se describen estos constructores. UML muestra los conjuntos de entidades como<b> cuadros </b>y, a diferencia de E-R, muestra los atributos dentro del cuadro en lugar de como <b>elipses separadas</b>. UML modela realmente objetos, mientras que E-R modela entidades. Los objetos son como entidades y tienen atributos, pero además proporcionan un conjunto de funciones (denominadas métodos) que se pueden invocar para calcular valores en términos de los atributos de los objetos, o para modificar el propio objeto. Los diagramas de clase pueden describir métodos además de atributos.
+<br><br>La siguiente figura muestra varios constructores de diagramas E-R y sus constructores equivalentes de los diagramas de clase UML. Más abajo se describen estos constructores. UML muestra los conjuntos de entidades como<b> cuadros </b>y a diferencia de E-R, muestra los atributos dentro del cuadro en lugar de como <b>elipses separadas</b>. UML modela realmente objetos, mientras que E-R modela entidades. Los objetos son como entidades y tienen atributos, pero además proporcionan un conjunto de funciones que se pueden invocar para calcular valores en términos de los atributos de los objetos, o para modificar el propio objeto. Los diagramas de clase pueden describir métodos además de atributos.
 
 <br><br>Los conjuntos de relaciones binarias se representan en UML <b>dibujando simplemente una línea</b> que conecte los conjuntos de entidades. Se escribe el nombre del conjunto de relaciones adyacente a la línea. También se puede especificar el papel que juega un conjunto de entidades en un conjunto de relaciones escribiendo el nombre del papel en un cuadro, junto con los atributos del conjunto de relaciones, y conectar el cuadro con una línea discontinua a la línea que describe el conjunto de relaciones.
 
-<br><br>Este cuadro se puede tratar entonces como un <b>conjunto de entidades</b>, de la misma forma que una agregación en los diagramas E-R puede participar en relaciones con otros conjuntos de entidades. Las relaciones no binarias no se pueden representar directamente en UML se deben convertir en relaciones binarias (vease Apartado 2.4.3). Las restricciones de cardinalidad se especifican en UML de la misma forma que en los diagramas E-R, de la forma i..s, donde i denota el mínimo y s el máximo número de relaciones en que puede participar una entidad.
+<br><br>Este cuadro se puede tratar entonces como un <b>conjunto de entidades</b>, de la misma forma que una agregación en los diagramas E-R puede participar en relaciones con otros conjuntos de entidades. Las relaciones no binarias no se pueden representar directamente en UML se deben convertir en relaciones binarias . Las restricciones de cardinalidad se especifican en UML de la misma forma que en los diagramas E-R, de la forma i..s, donde i denota el mínimo y s el máximo número de relaciones en que puede participar una entidad.
 
-<br><br>Sin embargo, se debería ser <b>consciente que la ubicación de las restricciones</b> es exactamente el inverso de la ubicación de las restricciones en los diagramas E-R, como muestra la figura. La restricción 0..* en el lado E2 y 0..1 en el lado E1 significa que cada entidad.</p>
+<br><br>Sin embargo, se debería ser <b>consciente que la ubicación de las restricciones</b> es exactamente el inverso de la ubicación de las restricciones en los diagramas E-R, como se muestra en la siguiene figura a continuación.</p>
 
 <center><img src="https://basededatostec.github.io/img/26extendido.png" alt="uml" title="UML"></center>
 
