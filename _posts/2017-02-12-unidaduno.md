@@ -122,17 +122,15 @@ __Según el contenido__
 <p style="text-align: justify;"><b>Bases de datos de rutas metabólicas</b>. Bases de datos de estructura, comprende los registros
 de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 
-### ARQUITECTURA DE BASE DE DATOS
+### 1.6 ARQUITECTURA DE BASE DE DATOS
 
-<p style="text-align: justify;">La arquitectura de un sistema de base de datos está influenciada por el sistema informático que soporta la instalación del SGBD, lo que reflejará muchas de las características propias del sistema subyacente en el SGBD.
+<p style="text-align: justify;">Las bases de datos respetan la arquitectura de tres niveles definida para cualquier tipo de base de datos. En esta arquitectura la base de datos se divide en niveles establecidos, estos son; interno, conceptual y externo.
 
-<br><br>Las bases de datos respetan la arquitectura de tres niveles definida, para cualquier tipo de base de datos. En esta arquitectura la base de datos se divide en los niveles externo, conceptual e interno.
+<br><br><b>Nivel externo</b>. Es el nivel de mayor abstracción. A este nivel corresponden las <b>diferentes vistas parciales</b> que tienen de la base de datos los diferentes usuarios. En cierto modo, es la parte del modelo conceptual a la que tienen acceso.
 
-<br><br>Nivel externo: es el nivel de mayor abstracción. A este nivel corresponden las diferentes vistas parciales que tienen de la base de datos los diferentes usuarios. En cierto modo, es la parte del modelo conceptual a la que tienen acceso.
+<br><br><b>Nivel conceptual</b>. Es el nivel medio de abstracción. Se trata de la representación de los datos realizada por la organización, que recoge las vistas parciales de los <b>requerimientos</b> de los diferentes usuarios y las aplicaciones posibles. Se configura como visión organizativa total, e incluye la definición de datos y las relaciones entre ellos.
 
-<br><br>Nivel conceptual: es el nivel medio de abstracción. Se trata de la representación de los datos realizada por la organización, que recoge las vistas parciales de los requerimientos de los diferentes usuarios y las aplicaciones posibles. Se configura como visión organizativa total, e incluye la definición de datos y las relaciones entre ellos.
-
-<br><br>Nivel interno: es el nivel más bajo de abstracción, y define cómo se almacenan los datos en el soporte físico, así como los métodos de acceso.</p>
+<br><br><b>Nivel interno</b>. Es el nivel más bajo de abstracción, y define cómo se almacenan los datos en el <b>soporte físico</b>, así como los métodos de acceso.</p>
 
 
 
