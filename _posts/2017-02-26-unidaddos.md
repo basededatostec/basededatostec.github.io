@@ -60,16 +60,15 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>CARDINALIDAD</b>
 
-<br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toman el número máximo de participaciones de cada una de ellas entidades en la relación.
+<br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toma el número máximo de participaciones de cada una de ellas, como en la siguiente figura.
 
-<br><br><center>
-<img border="0" src="https://4.bp.blogspot.com/-yZQ8faK2GAQ/V-IDGKPZDvI/AAAAAAAABJQ/AUwMD6nHxNoQ_HpA3MFqZ7a8cga40BZPwCLcB/s1600/02modelado.png" /></center>
+<br><br><center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/23cardinalidad.png" title="modelado" /></center>
 
-<br><br><b>Atributos</b>
+<br><br><b>ATRÍBUTOS</b>
 
 <br><br>Los atributos de una entidad son las <b>características</b> o <b>propiedades </b>que la definen como entidad. Se representan mediante elipses que se conectan a la entidad.
 
-<br><br><b>Atributo clave</b>
+<br><br><b>ATRÍBUTO CLAVE</b>
 
 <br><br>Designa a un <b>campo que no puede repetirse</b> dentro de la entidad. Además es posible tener un atributo clave constituido por mas de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
 
