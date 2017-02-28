@@ -5,8 +5,7 @@ subtitle: Diseño de Bases de Datos con el modelo E-R
 tags: [unidad dos, resumen, modelo E-R]
 ---
 <div style="text-align: justify;">
-<h3>
-<b>2.1 EL PROCESO DE DISEÑO</b></h3>
+<h2><b>2.1 EL PROCESO DE DISEÑO</b></h2>
 
 <br><br>El diseño de una base de datos consiste en extraer todos los elementos relevantes de un problema, por ejemplo, saber que<b> datos estàn implicados en el proceso de facturación de una empresa</b> que vende refacciones automotrices, los datos necesarios para el proceso de inscripción de alumnos, etc.
 
@@ -36,15 +35,15 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>3.-</b> Transformación del modelo lógico al físico.
 
-<h3><b>2.2 MODELO ENTIDAD-RELACIÓN</b></h3>
+<br><br><h3><b>2.2 MODELO ENTIDAD-RELACIÓN</b></h3>
 
-El modelo conceptual es representado a través del modelo entidad/relación, el cual coloca el resultado del análisis del problema real mediante uno o varios diagramas, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
+<br><br>El modelo conceptual es representado a través del modelo entidad/relación, el cual coloca el resultado del análisis del problema real mediante uno o varios diagramas, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
 
-<b>Entidad</b>
+<br><br><b>ENTIDAD</b>
 <b>
-</b> Cualquier tipo de objeto o concepto sobre el que se recoge información: <b>cosa</b>, <b>persona</b>, <b>concepto abstracto</b> o <b>suceso</b>. Se representa mediante un cuadro o rectángulo.
+</b> <br><br>Cualquier tipo de objeto o concepto sobre el que se recoge información: <b>cosa</b>, <b>persona</b>, <b>concepto abstracto</b> o <b>suceso</b>. Se representa mediante un cuadro o rectángulo.
 
-Existen 2 tipos que son: <b>entidad fuerte</b> y <b>entidad débil</b>, éstas últimas son representadas por un recuadro doble y su existencia depende de una entidad fuerte. Una ocurrencia de una entidad se refiere a una instancia o unidad dentro de la entidad.
+<br><br>Existen 2 tipos que son: <b>entidad fuerte</b> y <b>entidad débil</b>, éstas últimas son representadas por un recuadro doble y su existencia depende de una entidad fuerte. Una ocurrencia de una entidad se refiere a una instancia o unidad dentro de la entidad.
 
 <b>Relación</b>
 
