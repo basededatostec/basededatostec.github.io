@@ -13,7 +13,7 @@ tags: [unidad uno, resumen, introducción]
 <br><br><b>Dato</b>. Un dato es información que refleja una <b>característica de algún objeto</b>, ya sea concreto, o imaginario, por ejemplo podemos crear una base de datos acerca de los datos de una persona, un dato posible, sería; la fecha de nacimiento.</p>
 
 ### 1.2 OBJETIVOS DE LAS BASES DE DATOS<br><br>
-<center><img src="https://basededatostec.github.io/img/08objetivo.png" title="Objetivos" alt="objetivoss"></center>
+<center><img src="https://basededatostec.github.io/img/08objetivo.png" title="Objetivos" alt="objetivos"></center>
 <p style="text-align: justify;">Un objetivo principal de un sistema de base de datos es proporcionar a los usuarios una <b>visión abstracta</b> de los datos, esto se logra escondiendo ciertos detalles de como se almacenan y mantienen los datos. Otros objetivos principales son:</p>
 
 __Disminuir la redundancia e inconsistencia de los datos__
@@ -42,7 +42,8 @@ __Debe contar con integridad__
 
 <p style="text-align: justify;">La información contendida en el sistema debe ser <b>coherente</b> y <b>consistente</b> con las reglas semánticas propias del mundo real.</p>
 
-### 1.3 ÁREAS DE APLICACIÓN DE LAS BASES DE DATOS
+### 1.3 ÁREAS DE APLICACIÓN DE LAS BASES DE DATOS<br><br>
+<center><img src="https://basededatostec.github.io/img/14areas.png" title="Areas" alt="areas"></center>
 
 Estás son las principales áreas en donde las bases de datos pueden ser usadas.
 
