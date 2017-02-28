@@ -120,7 +120,8 @@ __Según el contenido__
 <p style="text-align: justify;"><b>Bases de datos de rutas metabólicas</b>. Bases de datos de estructura, comprende los registros
 de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 
-### 1.6 ARQUITECTURA DE BASE DE DATOS
+### 1.6 ARQUITECTURA DE BASE DE DATOS<br><br>
+<center><img src="https://basededatostec.github.io/img/18arquitectura.png" title="Modelos" alt="modelos"></center>
 
 <p style="text-align: justify;">Las bases de datos respetan la arquitectura de <b>tres niveles</b> definida para cualquier tipo de base de datos. En esta arquitectura la base de datos se divide en niveles establecidos, estos son; interno, conceptual y externo.
 
