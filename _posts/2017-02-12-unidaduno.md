@@ -107,6 +107,18 @@ __Modelo  transaccional__
 
 __Según la variabilidad de los datos almacenados__
 
-<p style="text-align: justify;"><b>Bases de datos estáticas</b>: Bases de datos de sólo lectura, se utilizan primordialmente para <b>almacenar datos históricos,</b> para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
+<p style="text-align: justify;"><b>Bases de datos estáticas</b>. Bases de datos de sólo lectura, se utilizan primordialmente para <b>almacenar datos históricos,</b> para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
 
-<p style="text-align: justify;"><b>Bases de datos dinámicas</b>: Éstas son bases de datos donde la información almacenada se modifica con el tiempo, permitiendo operaciones como <b>actualización</b> y <b>adición de datos</b>, además de las operaciones fundamentales de consulta.</p>
+<p style="text-align: justify;"><b>Bases de datos dinámicas</b>. Éstas son bases de datos donde la información almacenada se modifica con el tiempo, permitiendo operaciones como <b>actualización</b> y <b>adición de datos</b>, además de las operaciones fundamentales de consulta.</p>
+
+__Según el contenido__
+
+<p style="text-align: justify;"><b>Bases de datos bibliográficas</b>. Solo contienen un representante de la fuente primaria, que permite localizarla. Un registro típico de una base de datos bibliográfica contiene información sobre el autor, fecha de publicación, editorial, título, edición, de una determinada publicación, etc. Puede contener un resúmen o extracto de la publicación original, pero nunca el texto completo.Almacenan las fuentes primarias, como por ejemplo, todo el contenido de todas las ediciones de una colección de revistas científicas.</p>
+
+<p style="text-align: justify;">Bases de datos de texto completo. Almacenan las fuentes primarias, como por ejemplo, todo el contenido de todas las ediciones de una colección de revistas científicas.</p>
+
+<p style="text-align: justify;">Bases de datos de información química o biológica. Son bases de datos que almacenan diferentes tipos de
+información proveniente de la química, las ciencias de la vida o médicas. Se pueden considerar en varios subtipos: Las que almacenan secuencias de nucleótidos o proteínas.</p>
+
+
+
