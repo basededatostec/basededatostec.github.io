@@ -3,7 +3,7 @@ layout: post
 title: Unidad 1. Introducción a las Bases de Datos
 tags: [unidad uno, resumen, introducción]
 ---
-<center><img src="https://basededatostec.github.io/img/20intro.png" title="Introducción" alt="bases de datos"></center>
+<center><img src="https://basededatostec.github.io/img/20introduccion.png" title="Introducción" alt="bases de datos"></center>
 ### 1.1 CONCEPTOS BÁSICOS
 
 <p style="text-align: justify;"><b>Base de datos</b>. Una base de datos es un gran almacén donde se guardan enormes cantidades de <b>información organizada</b>, de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápidamente, ahorrando <b>espacio físico</b> y <b>tiempo</b>.
