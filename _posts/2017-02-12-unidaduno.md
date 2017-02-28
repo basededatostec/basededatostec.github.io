@@ -128,11 +128,14 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 
 <br><br><b>Nivel externo</b>. Es el nivel de mayor abstracción. A este nivel corresponden las diferentes <b>vistas parciales</b> que tienen de la base de datos los diferentes usuarios. En cierto modo, es la parte del modelo conceptual a la que tienen acceso.
 
-<br><br><b>Nivel conceptual</b>. Es el nivel medio de abstracción. Se trata de la representación de los datos realizada por la organización, que recoge las vistas parciales de los <b>requerimientos</b> de los diferentes usuarios y las aplicaciones posibles. Se configura como visión organizativa total, e incluye la definición de datos y las relaciones entre ellos.
+<br><br><b>Nivel conceptual</b>. Es el nivel medio de abstracción. Se trata de la <b>representación</b> de los datos realizada por la organización, que recoge las vistas parciales de los <b>requerimientos</b> de los diferentes usuarios y las aplicaciones posibles. Se configura como visión organizativa total, e incluye la definición de datos y las relaciones entre ellos.
 
-<br><br><b>Nivel interno</b>. Es el nivel más bajo de abstracción, y define cómo se almacenan los datos en el <b>soporte físico</b>, así como los métodos de acceso.</p>
+<br><br><b>Nivel interno</b>. Es el nivel más bajo de abstracción, y define cómo se <b>almacenan</b> los datos en el soporte físico, así como los métodos de acceso.</p>
 
 <center><img src="https://basededatostec.github.io/img/12niveles.png" title="Introducción" alt="bases de datos"></center>
+
+
+<p style="text-align: justify;">El modelo de arquitectura propuesto permite establecer el principio de independencia de los datos. Esta independencia puede ser lógica y física. Por independencia lógica se entiende que los cambios en el esquema lógico no deben afectar a los esquemas externos que no utilicen los datos modificados. Por independencia física se entiende que el esquema lógico no se vea afectado por cambios realizados en el esquema interno, correspondientes a modos de acceso, etc. </p>
 
 
 
