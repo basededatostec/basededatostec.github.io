@@ -69,7 +69,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>ATRÍBUTO CLAVE</b>
 
-Designa a un <b>campo que no puede repetirse</b>. Además es posible tener un atributo clave constituido por más de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.</p>
+<br><brDesigna a un <b>campo que no puede repetirse</b>. Además es posible tener un atributo clave constituido por más de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
 
 <br><br><b>ATRÍBUTO DE RELACIÓN</b>
 
@@ -77,7 +77,7 @@ Designa a un <b>campo que no puede repetirse</b>. Además es posible tener un at
 
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/24atributo.png" title="modelado"></center>
 
-<br><br><b>TIPOS DE ATRÍBUTOS</b>
+<b>TIPOS DE ATRÍBUTOS</b>
 
 <br><br><p style="text-align: justify;"><b>Atributos simples</b>: Son aquellos que no están divididos en sub partes.
 <br><br><b>Atributo compuesto</b>: Cuando está formado por más de un atributo.
@@ -87,10 +87,9 @@ Designa a un <b>campo que no puede repetirse</b>. Además es posible tener un at
 <br><br><b>Atributo derivado</b>: Son aquellos cuyo valor se puede derivar del valor de otros atributos.
 <br><br><b>Atributos con valor nulo</b>: Toma un valor nulo cuando una entidad no tiene un valor.</p>
 
-<br><br>
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/25dominio.png" title="modelado"></center>
 
-<br><br><b>DOMINIOS</b>
+<b>DOMINIOS</b>
 
 <br><br><p style="text-align: justify;">El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.</p>
 
