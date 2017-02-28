@@ -10,7 +10,7 @@ A continuación se presentan estas actividades:</p>
 
 | Actividad | TAREA: Modelo E-R del problema real | 
 | :------ |:--- |
-| ![PodCast](https://basededatostec.github.io/img/03podcast.png) | En esta actividad realizamos un modelo Entidad-Relación acerca de una tienda en particular, puedes ver este modelo de forma detallada y nuestras conclusiones desde este [enlace](https://basededatostec.github.io/2017-02-25-modeloer/) | 
+| ![PodCast](https://basededatostec.github.io/img/03podcast.png) | En esta actividad realizamos un modelo Entidad-Relación acerca de una tienda en particular, puedes ver este modelo de forma detallada y nuestras conclusiones desde este [enlace](https://basededatostec.github.io/2017-02-25-modeloer/). | 
 | | |
 
 | Actividad | TEXTO: Resumen de la Unidad 2 | 
