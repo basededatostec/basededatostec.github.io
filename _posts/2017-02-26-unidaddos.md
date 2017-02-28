@@ -91,7 +91,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <b>DOMINIOS</b>
 
-<br><br><p style="text-align: justify;">El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.</p>
+<p style="text-align: justify;">El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.</p>
 
 ### 2.3 DISEÑO CON DIAGRAMAS E-R
 
@@ -115,42 +115,33 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>El proceso de trasladar un modelo abstracto de datos a la implementación de la base de datos consta de dos fases de diseño finales. En la fase de <b>diseño lógico</b>, el diseñador traduce el esquema conceptual de alto nivel al modelo de datos de la implementación del sistema de base de datos que se usará. El diseñador usa el esquema resultante, en la que se especifican las <b>características físicas</b> de la base de datos.</p>
 
-<h3>
-<b>
-</b></h3>
-<h3>
-<b>2.4 MODELO E-R EXTENDIDO</b></h3>
+### 2.4 MODELO E-R EXTENDIDO
 
-El Modelo Entidad-Relación Extendido incluye todos los conceptos del <b>Entidad-Relación</b> e incorpora los <b>conceptos de Subclase</b> y <b>superclase</b> con los conceptos asociados de <b>Especialización</b> y <b>Generalización</b>.
+<p style="text-align: justify;">El Modelo Entidad-Relación Extendido incluye todos los conceptos del <b>Entidad-Relación</b> e incorpora los <b>conceptos de Subclase</b> y <b>superclase</b> con los conceptos asociados de <b>Especialización</b> y <b>Generalización</b>.
 
-<b>ESPECIALIZACIÓN:</b>
+<br><br><b>ESPECIALIZACIÓN:</b>
 
-El proceso por el que se definen las <b>diferentes subclases</b> de una <b>superclase</b> se conoce como especialización. El conjunto de subclases se define <b>basándonos en características</b> diferenciadoras de las ocurrencias de entidad de la superclase. Por ejemplo, el conjunto se subclases {SECRETARIA, INGENIERO, TECNICO} es una especialización de la <b>superclase EMPLEADO</b> mediante la distinción del tipo de trabajo en cada ocurrencia de entidad. Podemos tener varias especializaciones de una misma entidad basándonos en distintos criterios. Por ejemplo, otra especialización de <b>EMPLEADO</b> podría dar lugar a las subclases <b>ASALARIADO</b> y <b>SUBCONTRATADO</b>, dependiendo del tipo de contrato.
+<br><br>El proceso por el que se definen las <b>diferentes subclases</b> de una <b>superclase</b> se conoce como especialización. El conjunto de subclases se define <b>basándonos en características</b> diferenciadoras de las ocurrencias de entidad de la superclase. Por ejemplo, el conjunto se subclases {SECRETARIA, INGENIERO, TECNICO} es una especialización de la <b>superclase EMPLEADO</b> mediante la distinción del tipo de trabajo en cada ocurrencia de entidad. Podemos tener varias especializaciones de una misma entidad basándonos en distintos criterios. Por ejemplo, otra especialización de <b>EMPLEADO</b> podría dar lugar a las subclases <b>ASALARIADO</b> y <b>SUBCONTRATADO</b>, dependiendo del tipo de contrato.</p>
 
-<div class="separator" style="clear: both; text-align: center;">
-<img border="0" src="https://2.bp.blogspot.com/-KpbEmA7OdEk/V-d1w2WOgMI/AAAAAAAABLI/QuzRpALV2HEDKd0B8MtkzYfE33GbAQNHgCLcB/s1600/Blog4%2Bimagen1.png" /></div>
+<center><img src="https://basededatostec.github.io/img/26extendido.png"></center>
 
-<b>
-</b> <b>GENERALIZACIÓN:</b>
+<b>GENERALIZACIÓN:</b>
 
-Es el <b>proceso inverso</b> al de la especialización. Se aplican ambos procesos para construir el esquema E-R extendido. Agrupar entidades con atributos comunes en una entidad superior de nivel más alto.
+<p style="text-align: justify;">Es el <b>proceso inverso</b> al de la especialización. Se aplican ambos procesos para construir el esquema E-R extendido. Agrupar entidades con atributos comunes en una entidad superior de nivel más alto.
 
-Es decir "La generalización es el resultado de <b>tomar la unión de dos o más conjuntos</b> disjuntos de entidades para producir un conjunto de entidades de <b>nivel más alto</b>".
+<br><br>Es decir "La generalización es el resultado de <b>tomar la unión de dos o más conjuntos</b> disjuntos de entidades para producir un conjunto de entidades de <b>nivel más alto</b>".
 
-<b>Entidades agrupadas</b>: subclases de nivel más bajo.
+<br><br><b>Entidades agrupadas</b>: subclases de nivel más bajo.
 
-Proceso aplicado dentro de una estrategia de diseño bottom-up, definiendo entidades simples y agrupándolas. Agrupamiento de entidades elimina la redundancia. El proceso de diseño puede ser también de <b>forma ascendente en vez de descendente</b>, de manera que distintos grupos de entidades se sintetizan en grupos de entidades de nivel más alto. Basada en sus similitudes, la generalización sintetiza distintos conjuntos de entidades en uno sólo.  La generalización es la <b>inversa de la especialización</b>.
-<b>
-</b>
-<b>AGREGACIÓN</b>
+<br><br>Proceso aplicado dentro de una estrategia de diseño bottom-up, definiendo entidades simples y agrupándolas. Agrupamiento de entidades elimina la redundancia. El proceso de diseño puede ser también de <b>forma ascendente en vez de descendente</b>, de manera que distintos grupos de entidades se sintetizan en grupos de entidades de nivel más alto. Basada en sus similitudes, la generalización sintetiza distintos conjuntos de entidades en uno sólo.  La generalización es la <b>inversa de la especialización</b>.
 
-La agregación es una abstracción a través de la cual las<b> relaciones se tratan como entidades </b>de nivel más alto. Así, para este ejemplo, se considera el conjunto de relacionestrabaja-en como un conjunto de entidades de nivel más alto denominado trabaja-en.
+<br><br><b>AGREGACIÓN</b>
 
-Tal conjunto de entidades se trata de la misma forma que cualquier otro conjunto de entidades. Se puede crear una <b>relación binaria</b> dirige entre trabaja-en y director para representar quién dirige las tareas.
+<br><br>La agregación es una abstracción a través de la cual las<b> relaciones se tratan como entidades </b>de nivel más alto. Así, para este ejemplo, se considera el conjunto de relacionestrabaja-en como un conjunto de entidades de nivel más alto denominado trabaja-en.
 
-<div class="separator" style="clear: both; text-align: center;">
-<img border="0" src="https://3.bp.blogspot.com/-2AeI0uwSsoY/V-dwO6rn3BI/AAAAAAAABKw/YNdhxANz5VEbLNVgMTTcmsi6eCvajg7-wCLcB/s1600/diagramaER6.jpg" /></div>
+<br><br>Tal conjunto de entidades se trata de la misma forma que cualquier otro conjunto de entidades. Se puede crear una <b>relación binaria</b> dirige entre trabaja-en y director para representar quién dirige las tareas.</p>
 
+<center><img src="https://basededatostec.github.io/img/27modelado.jpg"></center>
 
 
 <h3>
