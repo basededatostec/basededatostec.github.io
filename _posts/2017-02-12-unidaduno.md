@@ -139,8 +139,41 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 
 <br><br>Por <b>independencia lógica</b> se entiende que los cambios en el esquema lógico no deben afectar a los esquemas externos que no utilicen los datos modificados. Por <b>independencia física</b> se entiende que el esquema lógico no se vea afectado por cambios realizados en el esquema interno, correspondientes a modos de acceso, etc. </p>
 
+### 1.7 ARQUITECTURA DEL SGBD
 
+<p style="text-align: justify;">Un Sistema de Gestión de Bases de Datos, es un software que permite manipular las bases de datos.  La gestión de los datos implica tanto la definición de estructuras para almacenar la información como la provisión de mecanismos para la manipulación de la información. Deben proporcionar la fiabilidad de la información almacenada, a pesar de las caídas del sistema o los intentos de acceso sin autorización. Los componentes principales de un SGBD son:
 
+<br><br>Interfaces externos
+
+<br><br>Medios para comunicarse con el SGDB en ambos sentidos (E/S) y explotar a todas sus funciones. Pueden afectar a la base de datos o a la operación del SGBD, por ejemplo:
+
+<br><br>Operaciones directas con la base de datos:
+
+<br><br>Definición de tipos, asignación de niveles de seguridad, actualización de datos, interrogación de la base de datos...
+
+<br><br>Operaciones relativas a la operación del SGBD:
+
+<br><br>Copia de seguridad y restauración, recuperación tras una caída, monitoreo de seguridad, gestión del almacenamiento, reserva de espacio, monitoreo de la configuración, monitoreo de prestaciones, afinado...
+los interfaces externos bien pueden ser utilizados por usuarios (p.e. administradores) o bien por programas que se comunican a través de un API.
+
+<br><br>Intérprete o procesador del lenguaje:
+
+<br><br>La mayor parte de las operaciones se efectúan mediante un lenguaje de base de datos. Existen lenguajes para definición de datos, manipulación de datos (p.e. SQL), para especificar aspectos de la seguridad y más. Las sentencias en ese lenguaje se introducen en el SGBD mediante el interfaz adecuado. Se procesan las expresiones en dicho lenguaje (ya sea compilado o interpretado) para extraer las operaciones de modo que puedan ser ejecutadas por el SGBD.
+
+Optimizador de consultas:
+Realiza la optimización de cada pregunta y escoge el plan de actuación más eficiente para ejecutarlo.
+
+Motor de la base de datos
+Realiza las operaciones requeridas sobre la base de datos, típicamente representándolo a alto nivel.
+
+Mecanismo de almacenamiento 
+Traduce las operaciones a lenguaje de bajo nivel para acceder a los datos. En algunas arquitecturas el mecanismo de almacenamiento está integrado en el motor de la base de datos.
+
+Motor de transacciones
+Para conseguir corrección y fiabilidad la mayoría de las operaciones internas del SGBD se realizan encapsuladas dentro de transacciones. Las transacciones pueden ser especificadas externamente al SGBD para encapsular un grupo de operaciones. El motor de transacciones sigue la ejecución de las transacciones y gestiona su ejecución de acuerdo con las reglas que tiene establecidas (p.e. control de concurrencia y su ejecución o cancelación).
+
+Gestión y operación de SGBD
+Comprende muchos otros componentes que tratan de aspectos de gestión y operativos del SGBD como monitoreo de prestaciones, gestión del almacenamiento, mapas de almacenamiento.</p>
 
 
 
