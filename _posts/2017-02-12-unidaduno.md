@@ -15,7 +15,7 @@ de esta manera cuando se quieran utilizar estos datos se puedan encontrar rápid
 
 ### 1.2 OBJETIVOS DE LAS BASES DE DATOS<br><br>
 <center><img src="https://basededatostec.github.io/img/08objetivo.png" title="Objetivos" alt="objetivoss"></center>
-Un objetivo principal de un sistema de base de datos es proporcionar a los usuarios finales una visión abstracta de los datos, esto se logra escondiendo ciertos detalles de como se almacenan y mantienen los datos. Otroa objetivos de las bases de datos son:
+<p style="text-align: justify;">Un objetivo principal de un sistema de base de datos es proporcionar a los usuarios una visión abstracta de los datos, esto se logra escondiendo ciertos detalles de como se almacenan y mantienen los datos. Otros objetivos principales son:</p>
 
 __Disminuir la redundancia e inconsistencia de los datos__
 
