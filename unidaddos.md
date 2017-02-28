@@ -4,7 +4,7 @@ title: Unidad 2
 subtitle: Diseño de Bases de Datos con el modelo E- R
 ---
 
-<p style="text-align: justify;">Durante la segunda unidad del curso; Fundamentos de Bases de Datos, 
+<p style="text-align: justify;">Durante la segunda unidad de la asignatura en curso, 
 se desarrollaron actividades acerca del modelo <b>Entrada-Relación</b> y se estudiaron los conceptos para diseñar un modelo del problema real. 
 A continuación se presentan estas actividades:</p>
 
