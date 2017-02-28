@@ -117,19 +117,19 @@ tags: [unidad dos, resumen, modelo E-R]
 
 ### 2.4 MODELO E-R EXTENDIDO
 
-<p style="text-align: justify;">El Modelo Entidad-Relación Extendido incluye todos los conceptos del <b>Entidad-Relación</b> e incorpora los <b>conceptos de Subclase</b> y <b>Superclase</b> con los conceptos asociados de <b>Especialización</b> y <b>Generalización respectivamente</b>.
+<p style="text-align: justify;">El Modelo Entidad-Relación Extendido incluye todos los conceptos del <b>Entidad-Relación</b> e incorpora los <b>conceptos de Subclase</b> y <b>Superclase</b> con los conceptos asociados de <b>Especialización</b> y <b>Generalización</b> respectivamente.
 
 <br><br><b>ESPECIALIZACIÓN:</b>
 
 <br><br>El proceso por el que se definen las <b>diferentes subclases</b> de una <b>superclase</b> se conoce como especialización. El conjunto de subclases se define <b>basándonos en características</b> diferenciadoras de las ocurrencias de entidad de la superclase. Por ejemplo, el conjunto se subclases {SECRETARIA, INGENIERO, TECNICO} es una especialización de la <b>superclase EMPLEADO</b> mediante la distinción del tipo de trabajo en cada ocurrencia de entidad. Podemos tener varias especializaciones de una misma entidad. Por ejemplo, otra especialización de <b>EMPLEADO</b> podría dar lugar a las subclases <b>ASALARIADO</b> y <b>SUBCONTRATADO</b>, dependiendo del tipo de contrato.</p>
 
-<center><img src="https://basededatostec.github.io/img/26extendido.png"></center>
+<center><img src="https://basededatostec.github.io/img/26extendido.png" alt="modelo" title="modelo"></center>
 
 <b>GENERALIZACIÓN:</b>
 
 <p style="text-align: justify;">Es el <b>proceso inverso</b> al de la especialización. Se aplican ambos procesos para construir el esquema E-R extendido. Se basa simplemente en agrupar entidades con atributos comunes en una entidad superior de nivel más alto.
 
-<br><br>Es decir "La generalización es el resultado de <b>tomar la unión de dos o más conjuntos</b> disjuntos de entidades para producir un conjunto de entidades de <b>nivel más alto</b>".
+<br><br>Es decir "La generalización es el resultado de <b>tomar la unión de dos o más conjuntos</b> disjuntos de entidades para producir un conjunto de entidades de <b>nivel más alto</b>.
 
 <br><br><b>Entidades agrupadas</b>: subclases de nivel más bajo.
 
@@ -139,34 +139,32 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>La agregación es una abstracción a través de la cual las<b> relaciones se tratan como entidades </b>de nivel más alto. Así, se considera el conjunto de relacionestrabaja-en como un conjunto de entidades de nivel más alto denominado trabaja-en.
 
-<br><br>Tal conjunto de entidades se trata de la misma forma que cualquier otro conjunto de entidades. Se puede crear una <b>relación binaria</b> dirige entre trabaja-en y director para representar quién dirige las tareas, como se muestra a coninuación.</p>
+<br><br>Tal conjunto de entidades se trata de la misma forma que cualquier otro conjunto de entidades. Se puede crear una <b>relación binaria</b> dirige entre trabaja-en y director para representar quién dirige las tareas, como se muestra a continuación.</p>
 
-<center><img src="https://basededatostec.github.io/img/27modelo.jpg"></center>
+<center><img src="https://basededatostec.github.io/img/27modelo.jpg" alt="modelo" title="modelo"></center>
 
 ### 2.5 LA NOTACIÓN E-R CON UML
 
-Los diagramas entidad-relación <b>ayudan a modelar el componente de representación</b> de datos de un sistema software. La representación de datos, sólo forma parte de un diseño completo de un sistema.
 
-Otros componentes son modelos de interacción del usuario con el sistema, especificación de módulos funcionales del sistema y su interacción, etc. El lenguaje de modelado unificado (<b>UML, Unified Modeling Language</b>) es un estándar propuesto para la creación de especificaciones de varios componentes de un sistema software. Algunas de las partes de UML son:
+<p style="text-align: justify;">Los diagramas entidad-relación <b>ayudan a modelar el componente de representación</b> de datos de un sistema software. La representación de datos, sólo forma parte de un diseño completo de un sistema.
 
-<b>Diagrama de clase</b>. Un diagrama de clase es similar a un diagrama E-R.
-<b>Diagrama de caso de uso</b>. Los diagramas de caso de uso muestran la interacción entre los usuarios y el sistema, en particular los pasos de las tareas que realiza el usuario.
-<b>Diagrama de actividad</b>. Los diagramas de actividad describen el flujo de tareas entre varios componentes de un sistema.
-<b>Diagrama de implementación</b>. Los diagramas de implementación muestran los componentes del sistema y sus interconexiones tanto en el nivel del componente software como el hardware.
+<br><br>Otros componentes son modelos de interacción del usuario con el sistema, especificación de módulos funcionales del sistema y su interacción, etc. El lenguaje de modelado unificado (<b>UML, Unified Modeling Language</b>) es un estándar propuesto para la creación de especificaciones de varios componentes de un sistema software. Algunas de las partes de UML son:
 
-La siguiente figura muestra varios constructores de diagramas E-R y sus constructores equivalentes de los diagramas de clase UML. Más abajo se describen estos constructores. UML muestra los conjuntos de entidades como<b> cuadros </b>y, a diferencia de E-R, muestra los atributos dentro del cuadro en lugar de como <b>elipses separadas</b>. UML modela realmente objetos, mientras que E-R modela entidades. Los objetos son como entidades y tienen atributos, pero además proporcionan un conjunto de funciones (denominadas métodos) que se pueden invocar para calcular valores en términos de los atributos de los objetos, o para modificar el propio objeto. Los diagramas de clase pueden describir métodos además de atributos.
+<br><b>Diagrama de clase</b>. Un diagrama de clase es similar a un diagrama E-R.
+<br><b>Diagrama de caso de uso</b>. Los diagramas de caso de uso muestran la interacción entre los usuarios y el sistema, en particular los pasos de las tareas que realiza el usuario.
+<br><b>Diagrama de actividad</b>. Los diagramas de actividad describen el flujo de tareas entre varios componentes de un sistema.
+<br><b>Diagrama de implementación</b>. Los diagramas de implementación muestran los componentes del sistema y sus interconexiones tanto en el nivel del componente software como el hardware.
 
-Los conjuntos de relaciones binarias se representan en UML <b>dibujando simplemente una línea</b> que conecte los conjuntos de entidades. Se escribe el nombre del conjunto de relaciones adyacente a la línea. También se puede especificar el papel que juega un conjunto de entidades en un conjunto de relaciones escribiendo el nombre del papel en un cuadro, junto con los atributos del conjunto de relaciones, y conectar el cuadro con una línea discontinua a la línea que describe el conjunto de relaciones.
+<br><br>La siguiente figura muestra varios constructores de diagramas E-R y sus constructores equivalentes de los diagramas de clase UML. Más abajo se describen estos constructores. UML muestra los conjuntos de entidades como<b> cuadros </b>y, a diferencia de E-R, muestra los atributos dentro del cuadro en lugar de como <b>elipses separadas</b>. UML modela realmente objetos, mientras que E-R modela entidades. Los objetos son como entidades y tienen atributos, pero además proporcionan un conjunto de funciones (denominadas métodos) que se pueden invocar para calcular valores en términos de los atributos de los objetos, o para modificar el propio objeto. Los diagramas de clase pueden describir métodos además de atributos.
 
-Este cuadro se puede tratar entonces como un <b>conjunto de entidades</b>, de la misma forma que una agregación en los diagramas E-R puede participar en relaciones con otros conjuntos de entidades. Las relaciones no binarias no se pueden representar directamente en UML se deben convertir en relaciones binarias (vease Apartado 2.4.3). Las restricciones de cardinalidad se especifican en UML de la misma forma que en los diagramas E-R, de la forma i..s, donde i denota el mínimo y s el máximo número de relaciones en que puede participar una entidad.
+<br><br>Los conjuntos de relaciones binarias se representan en UML <b>dibujando simplemente una línea</b> que conecte los conjuntos de entidades. Se escribe el nombre del conjunto de relaciones adyacente a la línea. También se puede especificar el papel que juega un conjunto de entidades en un conjunto de relaciones escribiendo el nombre del papel en un cuadro, junto con los atributos del conjunto de relaciones, y conectar el cuadro con una línea discontinua a la línea que describe el conjunto de relaciones.
 
-Sin embargo, se debería ser <b>consciente que la ubicación de las restricciones</b> es exactamente el inverso de la ubicación de las restricciones en los diagramas E-R, como muestra la figura. La restricción 0..* en el lado E2 y 0..1 en el lado E1 significa que cada entidad.
+<br><br>Este cuadro se puede tratar entonces como un <b>conjunto de entidades</b>, de la misma forma que una agregación en los diagramas E-R puede participar en relaciones con otros conjuntos de entidades. Las relaciones no binarias no se pueden representar directamente en UML se deben convertir en relaciones binarias (vease Apartado 2.4.3). Las restricciones de cardinalidad se especifican en UML de la misma forma que en los diagramas E-R, de la forma i..s, donde i denota el mínimo y s el máximo número de relaciones en que puede participar una entidad.
 
-<div class="separator" style="clear: both; text-align: center;">
-<img border="0" src="https://2.bp.blogspot.com/-eKElfhRUegs/V-d0LKR90PI/AAAAAAAABK8/ZF8xiqLQrfwvuBlgJ8LAxdaQkBbwZDHZgCLcB/s1600/Selection_093.png" /></div>
+<br><br>Sin embargo, se debería ser <b>consciente que la ubicación de las restricciones</b> es exactamente el inverso de la ubicación de las restricciones en los diagramas E-R, como muestra la figura. La restricción 0..* en el lado E2 y 0..1 en el lado E1 significa que cada entidad.</p>
 
-Fuentes: 
+<center><img src="https://basededatostec.github.io/img/26extendido.png" alt="uml" title="UML"></center>
 
-<a href="http://www.tecpachucavirtual.mx/m27/mod/lesson/view.php?id=21487&amp;pageid=150&amp;startlastseen=no" target="_blank">Diseño de Bases de Datos</a>
+Fuentes de Información: 
 
 <a href="http://tavoberry.com/MER/diagramas_er.html" target="_blank">Modelo entidad relación</a>
