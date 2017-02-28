@@ -23,5 +23,5 @@ subtitle: Introducción a las bases de datos
 
 | Actividad | TEXTO: Resumen de la Unidad 1 | 
 | :------ |:--- |
-| ![PodCast](https://basededatostec.github.io/img/05resumen.png) | Un resumen completo de todos los subtemas de dicha unidad, los cuales puedes revisar en este sitio dando clic en Leer mas...| 
+| ![PodCast](https://basededatostec.github.io/img/05resumen.png) | Un resumen completo de todos los subtemas de dicha unidad, los cuales puedes revisar en este sitio dando clic en [Leer mas...](https://basededatostec.github.io/2017-02-12-unidaduno/)| 
 | | |
