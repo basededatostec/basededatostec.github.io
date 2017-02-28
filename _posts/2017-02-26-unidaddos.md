@@ -59,7 +59,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>CARDINALIDAD</b>
 
-<br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toma el número máximo de participaciones de cada una de ellas, como en la siguiente figura.</p>
+<br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias. Se toma el número máximo de participaciones de cada una de ellas.</p>
 
 <center><img alt="modelado" src="https://basededatostec.github.io/img/23cardinalidad.png" title="modelado"></center>
 
@@ -69,7 +69,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>ATRÍBUTO CLAVE</b>
 
-<br><brDesigna a un <b>campo que no puede repetirse</b>. Además es posible tener un atributo clave constituido por más de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
+<br><br>Designa a un <b>campo que no puede repetirse</b>. Además es posible tener un atributo clave constituido por más de un campo. Cuando se tiene una clave como esta se denomina <b>clave compuesta</b>. Cuando es formada por un único atributo se dice que es atómica.
 
 <br><br><b>ATRÍBUTO DE RELACIÓN</b>
 
@@ -79,7 +79,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <b>TIPOS DE ATRÍBUTOS</b>
 
-<br><br><p style="text-align: justify;"><b>Atributos simples</b>: Son aquellos que no están divididos en sub partes.
+<p style="text-align: justify;"><b>Atributos simples</b>: Son aquellos que no están divididos en sub partes.
 <br><br><b>Atributo compuesto</b>: Cuando está formado por más de un atributo.
 <br><br><b>Atributos monovalorados</b>: Son los que tienen un solo valor
 <br><br><b>Atributos multivalorado</b>: Son atributos que pueden representar varios valores simultáneamente para una misma ocurrencia de una entidad.
