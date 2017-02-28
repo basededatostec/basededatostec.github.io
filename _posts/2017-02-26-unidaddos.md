@@ -81,44 +81,42 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>TIPOS DE ATRÍBUTOS</b>
 
-<br><br>Atributos simples Son aquellos que no están divididos en sub partes
-<br><br>Atributo compuesto: Cuando está formado por más de un atributo.
-<br><br>Atributos monovalorados: Son los que tienen un solo valor
-<br><br>Atributos multivalorado: Son atributos que pueden representar varios valores simultáneamente para una misma ocurrencia de una entidad.
-<BR><br>Atributos almacenado: Son los atributos cuyo valor guardan una cantidad que se utiliza para realizar cálculos con otros atributos en otras entidades o en la misma entidad.
-<br><br>Atributo derivado: Son aquellos cuyo valor se puede derivar del valor de otros atributos o entidades.
-<br><br>Atributos con valor nulo: Toma un valor nulo cuando una entidad no tiene un valor para un atributo.
+<br><br><b>Atributos simples</b>: Son aquellos que no están divididos en sub partes.
+<br><br><b>Atributo compuesto</b>: Cuando está formado por más de un atributo.
+<br><br><b>Atributos monovalorados</b>: Son los que tienen un solo valor
+<br><br><b>Atributos multivalorado</b>: Son atributos que pueden representar varios valores simultáneamente para una misma ocurrencia de una entidad.
+<br><br><b>Atributos almacenado</b>: Son los atributos cuyo valor guardan una cantidad que se utiliza para realizar cálculos con otros atributos en otras entidades o en la misma entidad.
+<br><br><b>Atributo derivado</b>: Son aquellos cuyo valor se puede derivar del valor de otros atributos.
+<br><br><b>Atributos con valor nulo</b>: Toma un valor nulo cuando una entidad no tiene un valor.
 
 <br><br>
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/25dominio.png" title="modelado"></center>
 
-<br><br>​<b>DOMINIOS</b>
+<br><br><b>DOMINIOS</b>
 
-<br><br>El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo.</p>
+<br><br>El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.</p>
 
+### 2.3 DISEÑO CON DIAGRAMAS E-R
 
-<h3>
-<b>2.3 DISEÑO CON DIAGRAMAS E-R</b></h3>
+<p style="text-align: justify;">El modelo de datos E-R da una flexibilidad sustancial en el diseño de un <b>esquema de bases de datos para modelar una empresa dada</b>. Un diseñador de bases de datos puede seleccionar entre el amplio rango de alternativas. Entre las decisiones que se toman están las siguientes:
 
-El modelo de datos E-R da una flexibilidad sustancial en el diseño de un <b>esquema de bases de datos para modelar una empresa dada</b>. Un diseñador de bases de datos puede seleccionar entre el amplio rango de alternativas. Entre las decisiones que se toman están las siguientes:
+<br><br>Si se usa un atributo o un conjunto de entidades para representa un <b>objeto</b>.
 
-- Si se usa un atributo o un conjunto de entidades para representa un <b>objeto</b>.
+<br><br>Si un concepto del <b>mundo real</b> se expresa más exactamente mediante un conjunto de <b>entidades </b>o mediante un conjunto de <b>relaciones</b>.
 
-- Si un concepto del <b>mundo real</b> se expresa más exactamente mediante un conjunto de <b>entidades </b>o mediante un conjunto de <b>relaciones</b>.
+<br><br>Si se usa una relación ternaria o un par de <b>relaciones binaras</b>.
 
-- Si se usa una relación ternaria o un par de <b>relaciones binaras</b>.
+<br><br>Si se usa un conjunto de entidades <b>fuertes</b> o <b>débiles</b>; un conjunto de entidades fuertes y sus conjuntos de entidades débiles dependientes se pueden considerar como un objeto en la base de datos, debido a que la existencia de las entidades débiles depende de la entidad fuerte.
 
-- Si se usa un conjunto de entidades <b>fuertes</b> o <b>débiles</b>; un conjunto de entidades fuertes y sus conjuntos de entidades débiles dependientes se pueden considerar como un objeto en la base de datos, debido a que la existencia de las entidades débiles depende de la entidad fuerte.
+<br><br>Un modelo de datos de<b> alto nivel</b> sirve al diseñador de la base de datos para proporcionar un marco conceptual en el que especificar de forma sistemática los requisitos de datos de los usuarios de la base de datos que existen, y cómo se estructurará la base de datos para completar estos requisitos. La fase inicial del diseño de bases de datos, por tanto, es caracterizar completamente las necesidades de datos esperadas por los usuarios de la base de datos. El resultado de esta fase es una especificación de <b>requisitos del usuario</b>. Esta estructura general se puede expresar gráficamente mediante un diagrama E-R.
 
-Un modelo de datos de<b> alto nivel</b> sirve al diseñador de la base de datos para proporcionar un marco conceptual en el que especificar de forma sistemática los requisitos de datos de los usuarios de la base de datos que existen, y cómo se estructurará la base de datos para completar estos requisitos. La fase inicial del diseño de bases de datos, por tanto, es caracterizar completamente las necesidades de datos esperadas por los usuarios de la base de datos. El resultado de esta fase es una especificación de <b>requisitos del usuario</b>. Esta estructura general se puede expresar gráficamente mediante un diagrama E-R.
+<br><br>A continuación, el diseñador elige un <b>modelo de datos</b> y, aplicando los conceptos del modelo de datos elegido, traduce estos requisitos a un esquema conceptual de la base de datos. El esquema desarrollado en esta fase de diseño conceptual proporciona una <b>visión detallada del desarrollo</b>.
 
-A continuación, el diseñador elige un <b>modelo de datos</b> y, aplicando los conceptos del modelo de datos elegido, traduce estos requisitos a un esquema conceptual de la base de datos. El esquema desarrollado en esta fase de diseño conceptual proporciona una <b>visión detallada del desarrollo</b>.
+<br><br>El diseñador <b>revisa el esquema</b> para confirmar que todos los requisitos de datos se satisfacen realmente y no hay conflictos entre sí. También se examina el diseño para <b>eliminar características redundantes</b>. Lo importante en este punto es describir los datos y las relaciones, más que especificar detalles del almacenamiento físico.
 
-El diseñador <b>revisa el esquema</b> para confirmar que todos los requisitos de datos se satisfacen realmente y no hay conflictos entre sí. También se examina el diseño para <b>eliminar características redundantes</b>. Lo importante en este punto es describir los datos y las relaciones, más que especificar detalles del almacenamiento físico.
+<br><br>Un esquema conceptual completamente desarrollado indicará también los<b> requisitos funcionales</b> de la empresa. En una especificación de requisitos funcionales los usuarios describen los tipos de operaciones que se realizarán sobre los datos.
 
-Un esquema conceptual completamente desarrollado indicará también los<b> requisitos funcionales</b> de la empresa. En una especificación de requisitos funcionales los usuarios describen los tipos de operaciones que se realizarán sobre los datos.
-
-El proceso de trasladar un modelo abstracto de datos a la implementación de la base de datos consta de dos fases de diseño finales. En la fase de <b>diseño lógico</b>, el diseñador traduce el esquema conceptual de alto nivel al modelo de datos de la implementación del sistema de base de datos que se usará. El diseñador usa el esquema resultante específico a la base de datos en la siguiente fase de diseño físico, en la que se especifican las <b>características físicas</b> de la base de datos.
+<br><br>El proceso de trasladar un modelo abstracto de datos a la implementación de la base de datos consta de dos fases de diseño finales. En la fase de <b>diseño lógico</b>, el diseñador traduce el esquema conceptual de alto nivel al modelo de datos de la implementación del sistema de base de datos que se usará. El diseñador usa el esquema resultante específico a la base de datos en la siguiente fase de diseño físico, en la que se especifican las <b>características físicas</b> de la base de datos.</p>
 
 <h3>
 <b>
