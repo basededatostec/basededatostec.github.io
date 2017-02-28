@@ -135,7 +135,9 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 <center><img src="https://basededatostec.github.io/img/12niveles.png" title="Introducción" alt="bases de datos"></center>
 
 
-<p style="text-align: justify;">El modelo de arquitectura propuesto permite establecer el principio de independencia de los datos. Esta independencia puede ser lógica y física. Por independencia lógica se entiende que los cambios en el esquema lógico no deben afectar a los esquemas externos que no utilicen los datos modificados. Por independencia física se entiende que el esquema lógico no se vea afectado por cambios realizados en el esquema interno, correspondientes a modos de acceso, etc. </p>
+<p style="text-align: justify;">El modelo de arquitectura propuesto permite establecer el principio de independencia de los datos. Esta independencia puede ser <b>lógica</b> y <b>física</b>.
+
+Por <b>independencia lógica</b> se entiende que los cambios en el esquema lógico no deben afectar a los esquemas externos que no utilicen los datos modificados. Por <b>independencia física</b> se entiende que el esquema lógico no se vea afectado por cambios realizados en el esquema interno, correspondientes a modos de acceso, etc. </p>
 
 
 
