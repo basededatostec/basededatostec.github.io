@@ -35,8 +35,8 @@ tags: [unidad dos, resumen, modelo E-R]
 <p style="text-align: justify;">El modelo conceptual es representado a través del <b>modelo entidad-relación</b>, el cual coloca el resultado del análisis del problema real mediante uno o varios <b>diagramas</b>, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
 
 <br><br><b>ENTIDAD</b>
-<b>
-</b> <br><br>Cualquier tipo de objeto o concepto sobre el que se recoge información: <b>cosa</b>, <b>persona</b>, <b>concepto abstracto</b> o <b>suceso</b>. Se representa mediante un cuadro o rectángulo.
+
+<br><br>Cualquier tipo de objeto o concepto sobre el que se recoge información: <b>cosa</b>, <b>persona</b>, <b>concepto abstracto</b> o <b>suceso</b>. Se representa mediante un cuadro o rectángulo.
 
 <br><br>Existen 2 tipos que son: <b>entidad fuerte</b> y <b>entidad débil</b>, éstas últimas son representadas por un recuadro doble y su existencia depende de una entidad fuerte. Una ocurrencia de una entidad se refiere a una instancia o unidad dentro de la entidad.
 
@@ -48,7 +48,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <center><img alt="modelado" border="0" src="https://basededatostec.github.io/img/22relacion.png" title="modelado"></center>
 
-<br><br><b>PARTICIPACIÓN</b>
+<b>PARTICIPACIÓN</b>
 
 <p style="text-align: justify;">La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad, éstas son:
 
@@ -65,7 +65,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <b>ATRÍBUTOS</b>
 
-<br><br><p style="text-align: justify;">Los atributos de una entidad son las <b>características</b> o <b>propiedades </b>que la definen como entidad. Se representan mediante elipses que se conectan a la entidad.
+<p style="text-align: justify;">Los atributos de una entidad son las <b>características</b> o <b>propiedades </b>que la definen como entidad. Se representan mediante elipses que se conectan a la entidad.
 
 <br><br><b>ATRÍBUTO CLAVE</b>
 
