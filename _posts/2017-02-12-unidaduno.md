@@ -99,8 +99,8 @@ __Modelo  transaccional__
 
 <p style="text-align: justify;">Son bases de datos cuyo único fin es el <b>envío</b> y <b>recepción de datos</b> a grandes velocidades, estas bases son muy poco comunes y están dirigidas por lo general al entorno de análisis de calidad, es importante entender que su fin único es <b>recolectar</b> y <b>recuperar los datos</b> a la mayor velocidad posible, por lo tanto la redundancia y duplicación de información no es un problema como con las demás bases de datos.</p>
 
-### 1.5 CLASIFICACIÓN DE LAS BASES DE DATOS
-
+### 1.5 CLASIFICACIÓN DE LAS BASES DE DATOS<br><br>
+<center><img src="https://basededatostec.github.io/img/17clase.png" title="Clasificación" alt="clasificación"></center>
 <p style="text-align: justify;">Las bases de datos se clasificarse de varias maneras, de acuerdo al contexto que se esté manejando, su utilidad o las necesidades que satisfagan.</p>
 
 __Según la variabilidad de los datos almacenados__
