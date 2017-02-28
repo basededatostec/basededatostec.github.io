@@ -4,10 +4,9 @@ title: Unidad 2
 subtitle: Diseño de Bases de Datos con el modelo E-R
 tags: [unidad dos, resumen, modelo E-R]
 ---
-<div style="text-align: justify;">
-<h2><b>2.1 EL PROCESO DE DISEÑO</b></h2>
+### 2.1 EL PROCESO DE DISEÑO
 
-<br><br>El diseño de una base de datos consiste en extraer todos los elementos relevantes de un problema, por ejemplo, saber que<b> datos estàn implicados en el proceso de facturación de una empresa</b> que vende refacciones automotrices, los datos necesarios para el proceso de inscripción de alumnos, etc.
+<div style="text-align: justify;">El diseño de una base de datos consiste en extraer todos los elementos relevantes de un problema, por ejemplo, saber que<b> datos estàn implicados en el proceso de facturación de una empresa</b> que vende refacciones automotrices, los datos necesarios para el proceso de inscripción de alumnos, etc.
 
 <br><br>Para la extracción de los datos se debe realizar un análisis minucioso del dominio del problema, y saber, de esta forma, que datos son los puramente necesarios o esenciales para almacenar en la base de datos y eliminar o simplemente no considerar aquellos datos o información que no sea de utilidad.
 
@@ -33,11 +32,11 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>2.-</b> Transformación del modelo conceptual al modelo lógico.
 
-<br><br><b>3.-</b> Transformación del modelo lógico al físico.
+<br><br><b>3.-</b> Transformación del modelo lógico al físico.</div>
 
-<br><br><h3><b>2.2 MODELO ENTIDAD-RELACIÓN</b></h3>
+-### 2.2 MODELO ENTIDAD-RELACIÓN
 
-<br><br>El modelo conceptual es representado a través del modelo entidad/relación, el cual coloca el resultado del análisis del problema real mediante uno o varios diagramas, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
+<div style="text-align: justify;">El modelo conceptual es representado a través del modelo entidad/relación, el cual coloca el resultado del análisis del problema real mediante uno o varios diagramas, los cuales son elaborados mediante una serie de figuras, las cuales representan los diversos elementos e información del problema.
 
 <br><br><b>ENTIDAD</b>
 <b>
