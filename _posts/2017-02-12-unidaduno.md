@@ -107,7 +107,7 @@ __Modelo  transaccional__
 
 __Según la variabilidad de los datos almacenados__
 
-<p style="text-align: justify;"><b>Bases de datos estáticas</b>. Bases de datos de sólo lectura, se utilizan primordialmente para <b>almacenar datos históricos,</b> para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
+<p style="text-align: justify;"><b>Bases de datos estáticas</b>. Bases de datos de sólo lectura, se utilizan primordialmente para almacenar <b>datos históricos,</b> para estudiar el comportamiento de un conjunto de datos a través del tiempo, realizar proyecciones y tomar decisiones.</p>
 
 <p style="text-align: justify;"><b>Bases de datos dinámicas</b>. Éstas son bases de datos donde la información almacenada se modifica con el tiempo, permitiendo operaciones como <b>actualización</b> y <b>adición de datos</b>, además de las operaciones fundamentales de consulta.</p>
 
@@ -121,6 +121,20 @@ __Según el contenido__
 
 <p style="text-align: justify;"><b>Bases de datos de rutas metabólicas</b>. Bases de datos de estructura, comprende los registros
 de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
+
+### ARQUITECTURA DE BASE DE DATOS
+
+<p style="text-align: justify;">La arquitectura de un sistema de base de datos está influenciada por el sistema informático que soporta la instalación del SGBD, lo que reflejará muchas de las características propias del sistema subyacente en el SGBD.
+
+Las bases de datos respetan la arquitectura de tres niveles definida, para cualquier tipo de base de datos. En esta arquitectura la base de datos se divide en los niveles externo, conceptual e interno.
+
+Nivel externo: es el nivel de mayor abstracción. A este nivel corresponden las diferentes vistas parciales que tienen de la base de datos los diferentes usuarios. En cierto modo, es la parte del modelo conceptual a la que tienen acceso.</p>
+
+ Nivel conceptual: es el nivel medio de abstracción. Se trata de la representación de los datos realizada por la organización, que recoge las vistas parciales de los requerimientos de los diferentes usuarios y las aplicaciones posibles. Se configura como visión organizativa total, e incluye la definición de datos y las relaciones entre ellos.
+
+Nivel interno: es el nivel más bajo de abstracción, y define cómo se almacenan los datos en el soporte físico, así como los métodos de acceso.</p>
+
+
 
 
 
