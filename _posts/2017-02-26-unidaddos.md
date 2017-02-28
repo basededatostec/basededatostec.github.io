@@ -51,7 +51,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br><b>PARTICIPACIÓN</b>
 
-<p style="text-align: justify;">La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad, éstas son:
+La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad, éstas son:
 
 <br><br>(0,1)  --------------------------&gt; Mínimo cero, máximo uno
 <br>(1,1)  --------------------------&gt; Mínimo uno, máximo uno
@@ -96,7 +96,6 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>El dominio representa la <b>naturaleza del dato</b>, es decir, el conjunto de valores permitidos para un atributo dentro de la figura que le corresponde.
 
-
 ### 2.3 DISEÑO CON DIAGRAMAS E-R
 
 <p style="text-align: justify;">El modelo de datos E-R da una flexibilidad sustancial en el diseño de un <b>esquema de bases de datos para modelar una empresa dada</b>. Un diseñador de bases de datos puede seleccionar entre el amplio rango de alternativas, éstas son:
@@ -111,7 +110,7 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <br><br>Un modelo de datos de<b> alto nivel</b> sirve para proporcionar un marco conceptual en el que especificar de forma sistemática los requisitos de datos de los usuarios de la base de datos que existen, y cómo se estructurará la base de datos para completar estos requisitos. La fase inicial del diseño de bases de datos, por tanto, es caracterizar completamente las necesidades de datos esperadas por los usuarios de la base de datos. El resultado de esta fase es una especificación de <b>requisitos del usuario</b>. Esta estructura general se puede expresar gráficamente mediante un diagrama E-R.
 
-<br><br>A continuación, el diseñador elige un <b>modelo de datos</b> y, aplicando los conceptos del modelo de datos elegido, traduce estos requisitos a un esquema conceptual. El esquema desarrollado en esta fase de diseño conceptual proporciona una <b>visión detallada del desarrollo</b>.
+<br><br>El diseñador elige un <b>modelo de datos</b> y, aplicando los conceptos del modelo de datos elegido, traduce estos requisitos a un esquema conceptual. El esquema desarrollado en esta fase de diseño conceptual proporciona una <b>visión detallada del desarrollo</b>.
 
 <br><br>El diseñador <b>revisa el esquema</b> para confirmar que todos los requisitos de datos se satisfacen realmente y no hay conflictos entre sí. También se examina el diseño para <b>eliminar características redundantes</b>. Lo importante en este punto es describir los datos y las relaciones, más que especificar detalles del almacenamiento físico.
 
