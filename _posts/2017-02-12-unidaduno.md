@@ -113,12 +113,11 @@ __Según la variabilidad de los datos almacenados__
 
 __Según el contenido__
 
-<p style="text-align: justify;"><b>Bases de datos bibliográficas</b>. Solo contienen un representante de la fuente primaria, que permite localizarla. Un registro típico de una base de datos bibliográfica contiene información sobre el autor, fecha de publicación, editorial, título, edición, de una determinada publicación, etc. Puede contener un resúmen o extracto de la publicación original, pero nunca el texto completo.Almacenan las fuentes primarias, como por ejemplo, todo el contenido de todas las ediciones de una colección de revistas científicas.</p>
+<p style="text-align: justify;"><b>Bases de datos bibliográficas</b>. Sólo contienen un representante de la fuente primaria, que permite localizarla. Un registro típico de una <b>base de datos bibliográfica</b> contiene información sobre el autor, fecha de publicación, editorial, título, edición, de una determinada publicación, etc. Puede contener un resúmen o extracto de la publicación original, pero nunca el texto completo.</p>
 
-<p style="text-align: justify;">Bases de datos de texto completo. Almacenan las fuentes primarias, como por ejemplo, todo el contenido de todas las ediciones de una colección de revistas científicas.</p>
+<p style="text-align: justify;"><b>Bases de datos de texto completo</b>. Almacenan las <b>fuentes primarias</b>, por ejemplo, todo el contenido de las ediciones de una colección de revistas científicas.</p>
 
-<p style="text-align: justify;">Bases de datos de información química o biológica. Son bases de datos que almacenan diferentes tipos de
-información proveniente de la química, las ciencias de la vida o médicas. Se pueden considerar en varios subtipos: Las que almacenan secuencias de nucleótidos o proteínas.</p>
+<p style="text-align: justify;"><b>Bases de datos de información química o biológica</b>. Son bases de datos que almacenan diferentes tipos de información proveniente de la <b>química</b>, las <b> de la vida</b> o <b>médicas</b>, almacenan secuencias de nucleótidos o proteínas.</p>
 
 
 
