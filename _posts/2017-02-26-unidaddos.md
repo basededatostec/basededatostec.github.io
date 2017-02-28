@@ -188,4 +188,4 @@ Fuentes:
 
 <a href="http://www.tecpachucavirtual.mx/m27/mod/lesson/view.php?id=21487&amp;pageid=150&amp;startlastseen=no" target="_blank">Diseño de Bases de Datos</a>
 
-<a href="http://tavoberry.com/MER/diagramas_er.html" target="_blank">Modelo entidad relación</a></div>
+<a href="http://tavoberry.com/MER/diagramas_er.html" target="_blank">Modelo entidad relación</a>
