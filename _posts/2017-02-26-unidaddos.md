@@ -49,20 +49,18 @@ tags: [unidad dos, resumen, modelo E-R]
 <br><br><center>
 <img alt="modelado" border="0" src="https://2.bp.blogspot.com/-Oc41uA7CHDA/V-IBppkFbSI/AAAAAAAABJA/fkVsgwqF67AFieqmqboesDqjo-n0KHFMACLcB/s1600/01modelado.png" title="modelado" /></center>
 
-<br><br><b>Participación</b>
+<br><br><b>PARTICIPACIÓN</b>
 
 <br><br>La participación de una ocurrencia de una entidad, indica, mediante una <b>pareja de números</b>, el mínimo y máximo número de veces que puede aparecer en la relación asociada a otra ocurrencia de entidad.
 
 <br><br>Las posibles participaciones son:
-<div class="separator" style="clear: both; text-align: center;">
 
-</div>
 <br><br>(0,1)  --------------------------&gt; Mínimo cero, máximo uno
-<br><br>(1,1)  --------------------------&gt; Mínimo uno, máximo uno
-<br><br>(0,n) --------------------------&gt;  Mínimo cero, máximo n (muchos)
-<br><br>(1,n) --------------------------&gt;  Mínimo uno, máximo n (muchos)
+<br>(1,1)  --------------------------&gt; Mínimo uno, máximo uno
+<br>(0,n) --------------------------&gt;  Mínimo cero, máximo n (muchos)
+<br>(1,n) --------------------------&gt;  Mínimo uno, máximo n (muchos)
 
-<br><br><b>Cardinalidad</b>
+<br><br><b>CARDINALIDAD</b>
 
 <br><br>La cardinalidad de una relación se calcula <b>a través de las participaciones</b> de sus ocurrencias en ella. Se toman el número máximo de participaciones de cada una de ellas entidades en la relación.
 
