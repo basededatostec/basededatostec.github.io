@@ -171,6 +171,7 @@ de datos experimentales sobre <b>estructuras 3D</b> de biomoléculas.</p>
 <center><img src="https://basededatostec.github.io/img/13gestor.gif" title="SGBD" alt="sgbd"></center>
 
 
+
 |  Acerca de: | 
 | :------ | 
 | Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
