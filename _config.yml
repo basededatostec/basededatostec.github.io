@@ -44,7 +44,6 @@ author:
   name: Some Person
   email: "bk9.alucard@gmail.com"
   facebook: josemaria.sanchezcasanas  # eg. daattali
-  facebook: por  # eg. daattali
   github: poee    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
@@ -60,9 +59,9 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
-  email: true
+  email: false
   twitter: false
   google-plus: false
   github: true
