@@ -42,9 +42,9 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Some Person
-  email: "youremail@domain.com"
   email: "bk9.alucard@gmail.com"
   facebook: josemaria.sanchezcasanas  # eg. daattali
+  facebook: por  # eg. daattali
   github: poee    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
