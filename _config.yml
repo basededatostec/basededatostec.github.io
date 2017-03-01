@@ -43,8 +43,9 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Some Person
   email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  email: "bk9.alucard@gmail.com"
+  facebook: josemaria.sanchezcasanas  # eg. daattali
+  github: poee    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -62,7 +63,7 @@ footer-links-active:
   rss: false
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
