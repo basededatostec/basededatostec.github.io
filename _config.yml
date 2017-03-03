@@ -53,7 +53,7 @@ author:
   github: lineadecodigo    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  google-plus: 0/103050978208255297529   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -69,7 +69,7 @@ footer-links-active:
   facebook: true
   email: false
   twitter: false
-  google-plus: false
+  google-plus: true
   github: true
   reddit: false
   linkedin: false
