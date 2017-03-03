@@ -47,7 +47,7 @@ avatar: "/img/29sql.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: New Jackers
   email: "bk9.alucard@gmail.com"
   facebook: josemaria.sanchezcasanas  # eg. daattali
   github: lineadecodigo    # eg. daattali
@@ -90,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "basededatostec."  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Base de datos"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
