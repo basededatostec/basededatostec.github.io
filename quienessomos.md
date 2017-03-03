@@ -1,6 +1,6 @@
 ---
 layout: page
-title:<h1>¿Quiénes somos?</h1>
+title: <h1>¿Quiénes somos?</h1>
 ---
 ¿Qué es Fundamentos de bases de datos?
 
