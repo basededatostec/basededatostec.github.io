@@ -10,5 +10,5 @@ title: <h2>¿Quiénes somos?</h2>
 
 |  |  |  
 | :------- | :------ | 
-| ![Usuario](img/31linux.png "titulo") | Hernández Salinas Lucio <br><i>Estudiante de Ingenieria en Sistemas Computacionales.</i>  | 
+| ![Usuario](https://basededatostec.github.io/img/31linux.png "titulo") | Hernández Salinas Lucio <br><i>Estudiante de Ingenieria en Sistemas Computacionales.</i>  | 
 | <img src="img/32user.png" title="Usuario">   | Sanchez Casañas Jose Maria <br><i>Estudiante de Ingenieria en Sistemas Computacionales.</i>   | 
