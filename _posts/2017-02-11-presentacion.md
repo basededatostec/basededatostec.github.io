@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Presentación en PowerPoint
-subtitle: Las 11 bases de datos más grandes del mundo
 tags: [presentación, 11 bases de datos]
----<p style="text-align: justify;">Esta actividad nos mostro que las bases de datos son de gran importancia debido a la enorme cantidad de datos que se manejan, ya sea en instituciones del gobierno, librerías, redes sociales, tiendas online, etc. Esta información es usada en distintas ocasiones de manera rápida y eficaz, cuando la empresa en cuestión lo solicite.</p>
+---
+### Las 11 bases de datos más grandes del mundo
+<p style="text-align: justify;">Esta actividad nos mostro que las bases de datos son de gran importancia debido a la enorme cantidad de datos que se manejan, ya sea en instituciones del gobierno, librerías, redes sociales, tiendas online, etc. Esta información es usada en distintas ocasiones de manera rápida y eficaz, cuando la empresa en cuestión lo solicite.</p>
 
 | Actividadad | Presentación en PowerPoint 
 | :------- | :------ 
