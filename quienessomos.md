@@ -8,5 +8,5 @@ title: ¿Quiénes somos?
 
 |  | Equipo New Jackers |  
 | :------- | :------ | 
-| <img src="https://basededatostec.github.io/img/31linux.png" width="95" height="95" title="Usuario"> | Hernández Salinas Lucio <br><i>Estudiante de Ingeniería en Sistemas Computacionales.</i>  | 
+| <img src="https://www.firebird.es/wp-content/uploads/2017/01/Linux-avatar.jpeg" width="95" height="95" title="Usuario"> | Hernández Salinas Lucio <br><i>Estudiante de Ingeniería en Sistemas Computacionales.</i>  | 
 | <img src="https://basededatostec.github.io/img/32user.png" width="95" height="95" title="Usuario">   | Sanchez Casañas Jose Maria <br><i>Estudiante de Ingeniería en Sistemas Computacionales.</i>   | 
