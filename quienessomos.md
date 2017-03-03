@@ -10,5 +10,5 @@ title: <h2>¿Quiénes somos?</h2>
 
 |  |  |  
 | :------- | :------ | 
-| Item 1   | Hernández Salinas Lucio  | 
-| Item 2   | Sanchez Casañas Jose Maria   | 
+| Item 1   | Hernández Salinas Lucio <br><u>Estudiante de Ingenieria en Sistemas Ccomputacionales.</u>  | 
+| Item 2   | Sanchez Casañas Jose Maria <br><u>Estudiante de Ingenieria en Sistemas Ccomputacionales.</u>   | 
