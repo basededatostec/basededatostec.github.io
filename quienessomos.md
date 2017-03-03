@@ -8,7 +8,7 @@ title: <h2>¿Quiénes somos?</h2>
 
 ### Equipo New Jackers
 
-|  | Usuario | 
-| :------- | :------: | 
+|  |  |  
+| :------- | :------ | 
 | Item 1   | Hernández Salinas Lucio  | 
 | Item 2   | Sanchez Casañas Jose Maria   | 
