@@ -23,7 +23,7 @@ description: Fundamentos de Bases de Datos
 
 # List of links in the navigation bar
 navbar-links:
-  SOBRE NOSOTROS: "https://basededatostec.github.io/2017-02-28-bienvenidos/"
+  ¿Quiénes somos?: "https://basededatostec.github.io/quienessomos/"
   Unidades:
     - Unidad 1: "https://basededatostec.github.io/unidaduno/"
     - Unidad 2: "https://basededatostec.github.io/unidaddos/"
