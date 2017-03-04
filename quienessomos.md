@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 
-subtitle: ¿Quiénes somos?
+title: ¿Quiénes somos?
+subtitle: 
 ---
 ¿Qué es Fundamentos de bases de datos?
 
-<p style="text-align: justify;">Es un sitio dedicado a temas relacionados con la asignatura Fundamentos de bases de datos, impartida por el Ing. Eric León Olivares desde el Tecnológico de Pachuca. Nuestro objetivo es proporcionar un avance de nuestras actividades, así como comprender y analizar los temas especificados en el temario que nos fue entregado al inicio de este curso. </p>
+<p style="text-align: justify;">Es un sitio web dedicado a temas relacionados con la asignatura Fundamentos de bases de datos, impartida por el Ingeniero Eric León Olivares desde el Instituto Tecnológico de Pachuca. Nuestro objetivo es proporcionar un avance de nuestras actividades, así como comprender y analizar los temas especificados en el temario que nos fue entregado al inicio de este semestre. </p>
 
 |  | Equipo New Jackers |  
 | :------- | :------ | 
