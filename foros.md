@@ -10,9 +10,12 @@ Sección de participacion en los foros del equipo. Actualmente hay dos participa
 | Actividad | Foro 1 | 
 | :-------: | :------: | 
 |   | Unidad 1. Importancia de las B.D.      | 
-|  <img src="https://basededatostec.github.io/img/01archivos.png" width="85" height="85"> | Para ver las aportaciones de los miembros del eqquipo en ete foro, clic aqui| 
+|  <img src="https://basededatostec.github.io/img/01archivos.png" width="85" height="85"> | Para ver las aportaciones de los miembrosabr> del equipo en ete foro, clic aqui| 
 
-También puedes descargar el Podcast desde este [enlace](http://www.tecpachucavirtual.mx/m27/pluginfile.php/2686/assignsubmission_file/submission_files/27492/PODCAST.mp3?forcedownload=1 "descarga el podcast")
+| Actividad | Foro 1 | 
+| :-------: | :------: | 
+|   | Unidad 1. Importancia de las B.D.      | 
+|  <img src="https://basededatostec.github.io/img/01archivos.png" width="85" height="85"> | Para ver las aportaciones de los miembrosabr> del equipo en ete foro, clic aqui| 
 
 |  Acerca de: | 
 | :------ | 
