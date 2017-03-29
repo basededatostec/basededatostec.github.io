@@ -10,7 +10,7 @@ Sección de participación en los foros. Actualmente hay dos participaciones.
 | Actividad | Foro 1 | 
 | :-------: | :------: | 
 |   | Unidad 1. Importancia de las B.D.      | 
-|  <img src="https://basededatostec.github.io/img/02foro.png" width="85" height="85"> | Clic para ver las aportaciones del equipo en el siguiente <a href="https://basededatostec.github.io/2017-02-10-foro/">enlace</a>.| 
+|  <img src="https://basededatostec.github.io/img/02foro.png" width="85" height="85"> | Clic en el siguiente <a href="https://basededatostec.github.io/2017-02-10-foro/">enlace</a> para ver las aportaciones del equipo.| 
 
 #### Total de Archivos: 1
 
