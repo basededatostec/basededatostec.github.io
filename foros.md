@@ -3,7 +3,7 @@ layout: page
 title: Foros
 tags: [foros]
 ---
-Sección de participacion en los foros del equipo. Actualmente hay dos participaciones disponibles.
+Sección de participacion en los foros. Actualmente hay dos participaciones disponibles.
 #### Sub-Folders: 
 #### Total de Archivos: 1
 
