@@ -3,21 +3,21 @@ layout: page
 title: Foros
 tags: [foros]
 ---
-Sección de participacion en los foros. Actualmente hay dos participaciones disponibles.
+Sección de participación en los foros. Actualmente hay dos participaciones.
 #### Sub-Folders: 
 #### Total de Archivos: 1
 
 | Actividad | Foro 1 | 
 | :-------: | :------: | 
 |   | Unidad 1. Importancia de las B.D.      | 
-|  <img src="https://basededatostec.github.io/img/01archivos.png" width="85" height="85"> | Clic para ver las aportaciones del equipo en el siguiente enlace.| 
+|  <img src="https://basededatostec.github.io/img/02foros.png" width="85" height="85"> | Clic para ver las aportaciones del equipo en el siguiente enlace.| 
 
 #### Total de Archivos: 1
 
 | Actividad | Foro 2 | 
 | :-------: | :------: | 
 |   | Unidad 3. Importancia de las claves en las tablas de una B.D.      | 
-|  <img src="https://basededatostec.github.io/img/01archivos.png" width="85" height="85"> | Clic para ver las aportaciones del equipo en el siguiente enlace.| 
+|  <img src="https://basededatostec.github.io/img/02oro.png" width="85" height="85"> | Clic para ver las aportaciones del equipo en el siguiente enlace.| 
 
 ---
 
