@@ -28,10 +28,12 @@ navbar-links:
     - Unidad 1: "https://basededatostec.github.io/unidaduno/"
     - Unidad 2: "https://basededatostec.github.io/unidaddos/"
   Actividades:
-    - Foro: "https://basededatostec.github.io/2017-02-10-foro/"
-    - PPT: "https://basededatostec.github.io/2017-02-11-presentacion/"
-    - Podcast: "https://basededatostec.github.io/podcast/"
     - Modelo E-R: "https://basededatostec.github.io/2017-02-25-modeloer/"
+    - Podcast: "https://basededatostec.github.io/podcast/"
+    - Foros: "https://basededatostec.github.io/foros/"
+    - PPT: "https://basededatostec.github.io/2017-02-11-presentacion/"
+
+
    
 
 # Image to show in the navigation bar - image must be a square (width = height)
