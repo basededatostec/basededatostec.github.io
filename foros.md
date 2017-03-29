@@ -10,7 +10,7 @@ Sección de participacion en los foros del equipo. Actualmente hay dos participa
 | Actividad | Foro 1 | 
 | :-------: | :------: | 
 |   | Unidad 1. Importancia de las B.D.      | 
-|  <img src="https://basededatostec.github.io/img/01archivos.png" width="85" height="85"> | Para ver las aportaciones de los miembro<abr> del equipo en ete foro, clic aqui| 
+|  <img src="https://basededatostec.github.io/img/01archivos.png" width="85" height="85"> | Para ver las aportaciones de los miembro<br><abr> del equipo en ete foro, clic aqui| 
 
 | Actividad | Foro 1 | 
 | :-------: | :------: | 
