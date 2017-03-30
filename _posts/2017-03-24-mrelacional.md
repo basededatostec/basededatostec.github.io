@@ -11,9 +11,9 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 
 <br><br>Podemos señalar que no existen relaciones <b>Producto-Pedido</b> en nuestro modelo, existe la relacion <b>Pedido-Producto</b>, el cual inidica que un pedido puede conformar varios productos y un producto puede ser conformado en varios pedidos. A continuacion les presentamos las seis relaciones y lo que inidica cada una de ellas.</p>
 
-|  |  | 
+| Relación |  | 
 | :------- | :------ | 
-| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| <img src="https://basededatostec.github.io/img/21relacion.png">   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
 | ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un pedido puede conformar varios productos y un producto puede ser conformado en varios pedidos.       | 
 | ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
 | ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
