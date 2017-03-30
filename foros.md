@@ -17,7 +17,7 @@ Sección de participación en los foros. Actualmente hay dos participaciones.
 | Actividad | Foro 2 | 
 | :-------: | :------: | 
 |   | Unidad 3. Importancia de las claves en las tablas de una B.D.      | 
-|  <img src="https://basededatostec.github.io/img/02foro.png" width="85" height="85"> | Clic en el siguiente <a href="https://basededatostec.github.io/2017-02-10-foro/">enlace</a> para ver las aportaciones del equipo.| 
+|  <img src="https://basededatostec.github.io/img/02foro.png" width="85" height="85"> | Clic en el siguiente <a href="https://basededatostec.github.io/2017-03-16-foro/">enlace</a> para ver las aportaciones del equipo.| 
 
 ---
 
