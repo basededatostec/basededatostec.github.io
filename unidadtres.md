@@ -4,7 +4,7 @@ title: Unidad 3
 subtitle: Modelo relacional
 ---
 
-<p style="text-align: justify;">Durante la tercera unidad del curso de Fundamentos de Bases de Datos, se desarrollaron actividades que nos ayudaron a introducirnos al modelo relacional y sus componentes principales:</p>
+<p style="text-align: justify;">Durante la tercera unidad del curso de Fundamentos de Bases de Datos, se desarrollaron actividades que nos ayudaron a introducirnos al modelo relacional y sus componentes principales. A continuación se presentan estas actividades:</p>
 
 | Actividad | FORO: Importancia de las claves en las tablas de una Base de Datos | 
 | :------ |:--- |
