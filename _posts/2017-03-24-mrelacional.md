@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Modelo Relacional (caso práctico)
-subtitle: MODELO RELACIONAL DE UNA TIENDA
+title: Modelo Relacional
+subtitle: TIENDA DE APARATOS ELECTRÓNICOS
 tags: [unidad tres, modelo, relacional]
 ---
-<p style="text-align: justify;">
-<br><br><b>ACTUALIZACIÓN 29 DE MARZO DEL 2107</b>
+<p style="text-align: justify;"><b>ACTUALIZACIÓN 29 DE MARZO DEL 2107</b>
 
 <br><br>Al entregar nuestro modelo surgieron algunas dudas:
 
