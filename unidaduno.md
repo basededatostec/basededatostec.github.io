@@ -6,7 +6,7 @@ subtitle: Introducción a las bases de datos
 
 <p style="text-align: justify;">Durante la primera unidad de la asignatura en curso, se desarrollaron actividades que nos ayudaron a comprender los conceptos básicos referentes a las bases de datos de forma general y específica. A continuación se presentan estas actividades:</p>
 
-| Actividad | FORO: La importancia de las bases de datos | 
+| Actividad | FORO: La importancia de las Bases de Datos | 
 | :------ |:--- |
 | ![Foro](https://basededatostec.github.io/img/02foro.png) | La primera actividad desarrollada fue una aportación en el foro del grupo acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [aquí](https://basededatostec.github.io/2017-02-10-foro/).|
 | | |
