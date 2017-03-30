@@ -13,8 +13,13 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 
 |  |  | 
 | :------- | :------ | 
-| ![Relacion](https://basededatostec.github.io-/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
-| Item 2   | 3250     | 
+| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un pedido puede conformar varios productos y un producto puede ser conformado en varios pedidos.       | 
+| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+
 
 Descarga el <b>primer modelo</b> dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYT0E2bHBGVlZiNlE "clic para descargar la presentación") 
 
