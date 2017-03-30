@@ -6,9 +6,9 @@ subtitle: Modelo relacional
 
 <p style="text-align: justify;">Durante la tercera unidad del curso de Fundamentos de Bases de Datos, se desarrollaron actividades que nos ayudaron a introducirnos al modelo relacional y sus componentes principales:</p>
 
-| Actividad | FORO: La importancia de las bases de datos | 
+| Actividad | FORO: Importancia de las claves en las tablas de una Base de Datos | 
 | :------ |:--- |
-| ![Foro](https://basededatostec.github.io/img/02foro.png) | La primera actividad desarrollada fue una aportación en el foro del grupo acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [aquí](https://basededatostec.github.io/2017-02-10-foro/).|
+| ![Foro](https://basededatostec.github.io/img/02foro.png) | La primera actividad desarrollada fue una aportación en el foro acerca de la importancia de las claves en las tablas de una Base de Datos, para ver la aportación de los miembros del equipo, clic [aquí](https://basededatostec.github.io/2017-03-16-foro/).|
 | | |
 
 | Actividad | TAREA: Modelo Relacional (caso práctico) | 
