@@ -8,7 +8,7 @@ subtitle: Modelo relacional
 
 | Actividad | FORO: Importancia de las claves en las tablas de una Base de Datos | 
 | :------ |:--- |
-| ![Foro](https://basededatostec.github.io/img/02foro.png) | La primera actividad desarrollada fue una aportación en el foro acerca de la importancia de las claves en las tablas de una Base de Datos, para ver la aportación de los miembros del equipo, clic [aquí](https://basededatostec.github.io/2017-03-16-foro/).|
+| ![Foro](https://basededatostec.github.io/img/02foro.png) | La primera actividad de la Unidad 3 fue una aportación en el foro acerca de la importancia de las claves en las tablas de una Base de Datos, para ver la aportación de los miembros del equipo, clic [aquí](https://basededatostec.github.io/2017-03-16-foro/).|
 | | |
 
 | Actividad | TAREA: Modelo Relacional (caso práctico) | 
