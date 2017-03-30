@@ -9,7 +9,7 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 
 <br><br>"Me queda una duda en la relación <b>Producto-Pedido</b> ya que indican que muchos Pedidos solo tienen un Producto, o que solo un producto puede estar en los pedidos, me gustaría que vieran si eso es en la realidad."
 
-<br><br>La afirmación es errónea, así que corregimos nuestro modelo, la cardinalidad no era <b>1:N</b> es <b>N:1</b>, "un producto sólo puede ser suministrado por un proveedor, y un proveedor puede suministrar varios productos", por lo que el modelo queda corregido.</p>
+<br><br>Podemos señalar que no existen relaciones <b>Producto-Pedido</b> en nuestro modelo, existe la relacion <b>Pedido-producto</b>, el cual inidica que un pedido puede conformar varios productos y un producto puede ser conformado en varios pedidos. A continuacion les presentamos las seis relaciones y lo que inidica cada uno de acuerdo al modelo que presentamos.</p>
 
 Descarga el <b>primer modelo</b> dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYT0E2bHBGVlZiNlE "clic para descargar la presentación") 
 
