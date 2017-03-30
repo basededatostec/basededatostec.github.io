@@ -27,11 +27,12 @@ navbar-links:
   Unidades:
     - Unidad 1: "https://basededatostec.github.io/unidaduno/"
     - Unidad 2: "https://basededatostec.github.io/unidaddos/"
+    - Unidad 3: "https://basededatostec.github.io/unidadtres/"
   Actividades:
     - Modelo E-R: "https://basededatostec.github.io/2017-02-25-modeloer/"
     - Podcast: "https://basededatostec.github.io/podcast/"
     - Foros: "https://basededatostec.github.io/foros/"
-    - PPT: "https://basededatostec.github.io/2017-02-11-presentacion/"
+    - Presentación: "https://basededatostec.github.io/2017-02-11-presentacion/"
 
 
    
