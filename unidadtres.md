@@ -4,16 +4,16 @@ title: Unidad 3
 subtitle: Modelo relacional
 ---
 
-<p style="text-align: justify;">Durante la primera unidad de la asignatura en curso, se desarrollaron actividades que nos ayudaron a comprender los conceptos básicos referentes a las bases de datos de forma general y específica. A continuación se presentan estas actividades:</p>
+<p style="text-align: justify;">Durante la tercera unidad del curso de Fundamentos de Bases de Datos, se desarrollaron actividades que nos ayudaron a introducirnos al modelo relacional y sus componentes principales:</p>
 
 | Actividad | FORO: La importancia de las bases de datos | 
 | :------ |:--- |
 | ![Foro](https://basededatostec.github.io/img/02foro.png) | La primera actividad desarrollada fue una aportación en el foro del grupo acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [aquí](https://basededatostec.github.io/2017-02-10-foro/).|
 | | |
 
-| Actividad | PRESENTACIÓN: Las 11 bases de datos más grandes del mundo | 
+| Actividad | TAREA: Modelo Relacional (caso práctico) | 
 | :------ |:--- |
-| ![PowerPoint](https://basededatostec.github.io/img/04presentacion.png) | En esta actividad desarrollamos una presentación en Power Point de las 11 bases de datos más grandes del mundo, clic [aquí](https://basededatostec.github.io/2017-02-11-presentacion/ "Presentación en PowerPoint") para ver la presentación en el blog o puedes descargarla dando clic en este [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYQll1dUl1dkF4c0E "descarga la presentación"). | 
+| ![Modelo](https://basededatostec.github.io/img/03podcast.png) | En esta tarea construimos el Modelo Relacional que se construyo con la herramienta WorkBench, partiendo del Esquema de nuestra tarea anterior y los cuales surgen del Modelo E/R, puedes ver este modelo de forma detallada y nuestras conclusiones desde este ENLACE. | 
 | | |
 
 | Actividad | PODCAST: Resumen de la Unidad 1 | 
