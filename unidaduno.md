@@ -8,7 +8,7 @@ subtitle: Introducción a las bases de datos
 
 | Actividad | FORO: La importancia de las Bases de Datos | 
 | :------ |:--- |
-| ![Foro](https://basededatostec.github.io/img/02foro.png) | La primera actividad desarrollada fue una aportación en el foro del grupo acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [aquí](https://basededatostec.github.io/2017-02-10-foro/).|
+| ![Foro](https://basededatostec.github.io/img/02foro.png) | La primera actividad desarrollada es una aportación en el foro del grupo acerca de la importancia de las bases de datos en la vida moderna, para ver la aportación de los miembros del equipo, clic [aquí](https://basededatostec.github.io/2017-02-10-foro/).|
 | | |
 
 | Actividad | PRESENTACIÓN: Las 11 bases de datos más grandes del mundo | 
