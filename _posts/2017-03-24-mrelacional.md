@@ -1,0 +1,33 @@
+---
+layout: post
+title: Modelo Relacional (caso práctico)
+subtitle: MODELO RELACIONAL DE UNA TIENDA DE APARATOS ELECTRÓNICOS
+tags: [unidad tres, modelo, relacional]
+---
+<p style="text-align: justify;">Esta empresa cuenta con una sucursal que vende <b>productos por pedido</b> en general a una infinidad de clientes. De cada uno de estos productos la tienda desea guardar el precio, un ID de producto, categoría, existencias y un nombre. Así mismo requiere guardar los datos personales de cada uno de sus clientes a quien envía sus productos, un ID de cliente, su nombre, sus apellidos, su dirección y número de teléfono. 
+
+<br><br>Cabe señalar que un <b>cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente</b> y cada vez que se realice un pedido se generará una factura con la fecha en la cual el artículo fue adquirido, así como un número de factura, <b>un cliente puede obtener varias facturas, pero sólo una factura puede pertenecer a un cliente</b>. A continuación, se asigno una entidad débil que guardará la cantidad de productos adquiridos y su precio. Una factura <b>puede tener varios detalles, mientras que un detalle solo puede pertenecer a una factura</b>.
+
+<br><br>El pedido será atendido por un vendedor, de él se quiere conocer un ID de vendedor, nombre, apellidos y número de teléfono. Se sabe que <b>varios pedidos pueden ser atendidos por un vendedor</b> y <b>un vendedor puede atender varios pedidos</b>. El pedido se conforma del producto en turno que fue solicitado, <b>un pedido puede conformar varios productos</b> y <b>un producto puede ser conformado en varios pedidos</b>.
+
+<br><br>Por último se conoce de antemano que la tienda de electrónicos cuenta con distintos proveedores que son los que suministran los productos que se solicitan. Por lo que <b>un producto sólo puede ser suministrado por un proveedor</b>, y <b>un proveedor puede suministrar varios productos</b>. De estos proveedores se requiere guardar su dirección, nombre, apellidos, ID de proveedor y su número de teléfono.
+
+<br><br><b>ACTUALIZACIÓN 15 DE MARZO DEL 2107</b>
+
+<br><br>Al entregar nuestro modelo surgieron algunas dudas:
+
+<br><br>La relación "suministra" indica que que un producto lo suministran MUCHOS proveedores, lo cual indica que un el negocio debe tener un proveedor por cada producto, esto es real??
+
+<br><br>La afirmación es errónea, así que corregimos nuestro modelo, la cardinalidad no era <b>1:N</b> es <b>N:1</b>, "un producto sólo puede ser suministrado por un proveedor, y un proveedor puede suministrar varios productos", por lo que el modelo queda corregido.</p>
+
+Descarga el <b>primer modelo</b> dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYT0E2bHBGVlZiNlE "clic para descargar la presentación") 
+
+Descarga el modelo <b>corregido</b> dando clic [aquí](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYOU5HaVZRU3ZTSWc "clic para descargar la presentación") 
+
+O puedes dar clic para ver el modelo en el siguiente [enlace](https://basededatostec.github.io/img/ModeloERcorregido.png "clic para ver el modelo") 
+
+#### CONCLUSIONES
+
+<p style="text-align: justify;">Al diseñar este Modelo E-R obtuvimos amplio conocimiento para identificar los datos más importantes y generales a tomar en cuenta al diseñar una base de datos. En cuanto al estructurar el modelo E-R la dificultad fue menor, porque obtuvimos información completa de páginas de Internet y ejemplos que nos llevaron a crear nuestro Modelo E-R de una tienda en particular. Concluimos que las entidades que elegimos eran las correctas y las que tenían mayor importancia. Al calcular la cardinalidad tuvimos algunos problemas, pero las fuentes de información nos apoyaron para terminar de entender el tema de la cardinalidad dentro de las relaciones. Al final podemos decir que esta actividad la cumplimos porque aplicamos y analizamos el Modelo E-R, el cual más adelante nos ayudará a diseñar una base de datos. </p>
+
+__Bibliografía__
