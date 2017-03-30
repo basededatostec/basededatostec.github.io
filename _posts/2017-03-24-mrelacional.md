@@ -5,7 +5,7 @@ subtitle: (caso práctico) TIENDA DE APARATOS ELECTRÓNICOS
 tags: [unidad tres, modelo, relacional]
 ---
 __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
-<p style="text-align: justify;">>Al entregar nuestro modelo surgieron algunas dudas:
+<p style="text-align: justify;">Al entregar nuestro modelo surgieron algunas dudas:
 
 <br><br>"Me queda una duda en la relación <b>Producto-Pedido</b> ya que indican que muchos Pedidos solo tienen un Producto, o que solo un producto puede estar en los pedidos, me gustaría que vieran si eso es en la realidad."
 
