@@ -13,7 +13,7 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 
 | Relación |  | 
 | :------- | :------ | 
-| <img src="https://basededatostec.github.io/img/21relacion.png">   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| <img width="299" height="85" src="https://basededatostec.github.io/img/21relacion.png">   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
 | ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un pedido puede conformar varios productos y un producto puede ser conformado en varios pedidos.       | 
 | ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
 | ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
