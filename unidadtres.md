@@ -13,7 +13,7 @@ subtitle: Modelo relacional
 
 | Actividad | TAREA: Modelo Relacional (caso práctico) | 
 | :------ |:--- |
-| ![Modelo](https://basededatostec.github.io/img/03podcast.png) | En esta tarea construimos el Modelo Relacional que se construyo con la herramienta WorkBench, partiendo del Esquema de nuestra tarea anterior y los cuales surgen del Modelo E/R, puedes ver este modelo de forma detallada y nuestras conclusiones desde este ENLACE. | 
+| ![Modelo](https://basededatostec.github.io/img/03podcast.png) | En esta tarea construimos el __Modelo Relacional__ que se construyo con la herramienta __WorkBench__, partiendo del Esquema de nuestra tarea anterior y los cuales surgen del Modelo E/R, pueden ver este modelo de forma detallada y nuestras conclusiones desde este enlace. | 
 | | |
 
 | Actividad | PODCAST: Resumen de la Unidad 1 | 
