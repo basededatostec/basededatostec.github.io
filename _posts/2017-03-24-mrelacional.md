@@ -4,12 +4,15 @@ title: Modelo Relacional
 subtitle: (caso práctico) TIENDA DE APARATOS ELECTRÓNICOS
 tags: [unidad tres, modelo, relacional]
 ---
+
+<p style="text-align: justify;">En esta tarea construimos el <b>Modelo Relacional</b> que se construyo con la herramienta WorkBench, partiendo del Esquema de nuestra tarea anterior y los cuales surgen del Modelo E/R.</p>
+
 __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 <p style="text-align: justify;">Al entregar nuestro modelo surgieron algunas dudas:
 
 <br><br>"Me queda una duda en la relación <b>Producto-Pedido</b> ya que indican que muchos Pedidos solo tienen un Producto, o que solo un producto puede estar en los pedidos, me gustaría que vieran si eso es en la realidad."
 
-<br><br>Así es, esto es realidad. Omitimos redactar las reglas de envío de la tienda de aparatos electrónicos. Que estipulan que un envío solo puede contener <b>un solo producto</b> o articulo, en este caso un aparato electrónico. Por lo que la relación <b>Pedido-Producto</b>, con una cardinalidad de <b>N:1</b> indica que <b>muchos pedidos se conforman de un sólo producto</b> y que sólo <b>un producto puede estar en los pedidos</b> realizados. A continuación les presentamos las seis relaciones y lo que indica cada una de ellas.</p>
+<br><br>Así es, esto es realidad. Omitimos redactar las reglas de envío de la tienda de aparatos electrónicos. Que estipulan que un envío sólo puede contener <b>un sólo producto</b> o articulo, en este caso un aparato electrónico. Por lo que la relación <b>Pedido-Producto</b>, con una cardinalidad de <b>N:1</b> indica que <b>muchos pedidos se conforman de un sólo producto</b> y que sólo <b>un producto puede estar en los pedidos</b> realizados. A continuación les presentamos las seis relaciones y lo que indica cada una de ellas.</p>
 
 | Relación |  | 
 | :------- | :------ | 
