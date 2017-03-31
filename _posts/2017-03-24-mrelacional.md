@@ -14,9 +14,9 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 
 <br><br>Así es, esto es realidad. Omitimos redactar las reglas de envío de la tienda de aparatos electrónicos. Que estipulan que un envío sólo puede contener <b>un sólo producto</b> o articulo, en este caso un aparato electrónico. Por lo que la relación <b>Pedido-Producto</b>, con una cardinalidad de <b>N:1</b> indica que <b>muchos pedidos se conforman de un sólo producto</b> y que sólo <b>un producto puede estar en los pedidos</b>. A continuación les presentamos las seis relaciones y lo que indica cada una de ellas.</p>
 
-| Relación |  | 
+| Relación ,,,,,,,,,,,,,,,,,,,,,,,,,,, |  | 
 | :------- | :------ | 
-| <img width="298" src="https://basededatostec.github.io/img/22relacion.png">   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| <img width="398" src="https://basededatostec.github.io/img/22relacion.png">   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
 | <img width="298" src="https://basededatostec.github.io/img/24relacion.gif">   | Muchos pedidos se conforman de un sólo producto y sólo un producto puede estar en los pedidos.       | 
 | ![Relacion](https://basededatostec.github.io/img/25relacion.png "relacion")   | Varios pedidos pueden ser atendidos por un vendedor y un vendedor puede atender varios pedidos.       | 
 | <img width="298" src="https://basededatostec.github.io/img/23relacion.gif">   | Un cliente puede obtener varias facturas, pero sólo una factura puede pertenecer a un cliente.    | 
