@@ -12,7 +12,7 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 
 <br><br>"Me queda una duda en la relación <b>Producto-Pedido</b> ya que indican que muchos Pedidos solo tienen un Producto, o que solo un producto puede estar en los pedidos, me gustaría que vieran si eso es en la realidad."
 
-<br><br>Así es, esto es realidad. Omitimos redactar las reglas de envío de la tienda de aparatos electrónicos. Que estipulan que un envío sólo puede contener <b>un sólo producto</b> o articulo, en este caso un aparato electrónico. Por lo que la relación <b>Pedido-Producto</b>, con una cardinalidad de <b>N:1</b> indica que <b>muchos pedidos se conforman de un sólo producto</b> y que sólo <b>un producto puede estar en los pedidos</b> realizados. A continuación les presentamos las seis relaciones y lo que indica cada una de ellas.</p>
+<br><br>Así es, esto es realidad. Omitimos redactar las reglas de envío de la tienda de aparatos electrónicos. Que estipulan que un envío sólo puede contener <b>un sólo producto</b> o articulo, en este caso un aparato electrónico. Por lo que la relación <b>Pedido-Producto</b>, con una cardinalidad de <b>N:1</b> indica que <b>muchos pedidos se conforman de un sólo producto</b> y que sólo <b>un producto puede estar en los pedidos</b>. A continuación les presentamos las seis relaciones y lo que indica cada una de ellas.</p>
 
 | Relación |  | 
 | :------- | :------ | 
