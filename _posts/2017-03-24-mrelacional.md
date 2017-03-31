@@ -23,7 +23,9 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 | <img width="298" src="https://basededatostec.github.io/img/21relacion.png">   | Una factura puede contener varios detalles, mientras que un detalle solo puede pertenecer a una factura.       | 
 | <img width="298" src="https://basededatostec.github.io/img/26relacion.gif">   | Un proveedor puede suministrar varios productos y un producto sólo puede ser suministrado por un proveedor.       | 
 
+Por lo que nuestro modelo relacional es el siguiente.
 
+<img src="https://basededatostec.github.io/img/28modelo.png">
 
 Descarga el <b>primer modelo</b> dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYT0E2bHBGVlZiNlE "clic para descargar la presentación") 
 
