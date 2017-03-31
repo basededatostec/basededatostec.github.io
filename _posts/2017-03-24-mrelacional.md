@@ -5,7 +5,7 @@ subtitle: (caso práctico) TIENDA DE APARATOS ELECTRÓNICOS
 tags: [unidad tres, modelo, relacional]
 ---
 
-<p style="text-align: justify;">En esta tarea construimos el <b>Modelo Relacional</b> que se construyo con la herramienta WorkBench, partiendo del Esquema de nuestra tarea anterior.</p>
+<p style="text-align: justify;">En esta tarea construimos el <b>Modelo Relacional</b> que se construyo con la herramienta <b>WorkBench</b>, partiendo del Esquema de nuestra tarea anterior.</p>
 
 __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 <p style="text-align: justify;">Al entregar nuestro modelo surgieron algunas dudas:
@@ -27,8 +27,8 @@ Por lo que nuestro modelo relacional es el siguiente.
 
 <img src="https://basededatostec.github.io/img/29modelo.png">
 
-Descarga este modelo en formato .wbk dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYT0E2bHBGVlZiNlE "clic para descargar la presentación")  
+Descarga este modelo en formato <b>wbk</b> dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYT0E2bHBGVlZiNlE "clic para descargar la presentación")  
 
 #### CONCLUSIONES
 
-<p style="text-align: justify;">Logramos conocer la importancia de las claves en las relaciones de las tablas que creamos con <b>MySQL Workbench</b>. Tomamos nuestras relaciones y evaluamos las reglas conocidas para realizar la propagación de la <b>llave primaria</b> si se trataba de una interrelación de <b>uno a muchos</b> o convertirla a una nueva relación si se trataba de una interrelación de <b>muchos a muchos</b>. Realizamos seis evaluaciones; <b>Cliente-Pedido, Pedido-Producto, Vendedor-Pedido, Pedido-Facturas, Facturas-Detalles_Factura</b> y <b>Proveedor-Producto</b>. Con esto comprobábamos con que interrelación estábamos trabajando y a donde propagar las <b>llaves foráneas</b>, en nuestro modelo no se encontraron interrelaciones muchos a muchos. <br><br>Por último cabe señalar que el programa que usamos (MySQL Workbench) para llevar a cabo el trabajo tiene una interfaz excelente y su forma de uso es fácil y eficaz, un excelente programa que nos ahorro mucho trabajo.</p>__REFERENCIAS__<br><br>__Vídeos en Linea__<br><br>_Sandoval, Bani. (2015, Abril, 15). Bases de Datos - Introducción al Modelo-Relacional<br>Recuperado de https://www.youtube.com/watch?v=CPabJuf7KQE_
+<p style="text-align: justify;">Logramos conocer la importancia de las claves en las relaciones de las tablas que creamos con <b>MySQL Workbench</b>. Tomamos nuestras relaciones y evaluamos las reglas conocidas para realizar la propagación de la <b>llave primaria</b> si se trataba de una interrelación de <b>uno a muchos</b> o convertirla a una nueva relación si se trataba de una interrelación de <b>muchos a muchos</b>. Realizamos seis evaluaciones; <b>Cliente-Pedido, Pedido-Producto, Vendedor-Pedido, Pedido-Facturas, Facturas-Detalles_Factura</b> y <b>Proveedor-Producto</b>. Con esto comprobábamos con que interrelación estábamos trabajando y a donde propagar las <b>llaves foráneas</b>, en nuestro modelo no se encontraron interrelaciones muchos a muchos. <br><br>Por último cabe señalar que el programa que usamos (<b>MySQL Workbench</b>) para llevar a cabo el trabajo tiene una interfaz excelente y su forma de uso es fácil y eficaz, un excelente programa que nos ahorro mucho trabajo.</p>__REFERENCIAS__<br><br>__Vídeos en Linea__<br><br>_Sandoval, Bani. (2015, Abril, 15). Bases de Datos - Introducción al Modelo-Relacional<br>Recuperado de https://www.youtube.com/watch?v=CPabJuf7KQE_
