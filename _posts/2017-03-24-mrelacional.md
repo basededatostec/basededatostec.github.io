@@ -27,7 +27,7 @@ Por lo que nuestro modelo relacional es el siguiente.
 
 <img src="https://basededatostec.github.io/img/29modelo.png">
 
-Descarga este modelo en formato <b>wbk</b> dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYT0E2bHBGVlZiNlE "clic para descargar la presentación")  
+Descarga este modelo en formato <b>mwb</b> dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYT0E2bHBGVlZiNlE "clic para descargar la presentación")  
 
 #### CONCLUSIONES
 
