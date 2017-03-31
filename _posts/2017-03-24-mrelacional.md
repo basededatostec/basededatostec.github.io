@@ -19,9 +19,9 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 | <img width="298" src="https://basededatostec.github.io/img/22relacion.png">   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
 | <img width="298" src="https://basededatostec.github.io/img/24relacion.gif">   | Muchos pedidos se conforman de un sólo producto y sólo un producto puede estar en los pedidos.       | 
 | ![Relacion](https://basededatostec.github.io/img/25relacion.png "relacion")   | Varios pedidos pueden ser atendidos por un vendedor y un vendedor puede atender varios pedidos.       | 
-| ![Relacion](https://basededatostec.github.io/img/23relacion.gif "relacion")   | Un cliente puede obtener varias facturas, pero sólo una factura puede pertenecer a un cliente.    | 
-| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Una factura puede tener varios detalles, mientras que un detalle solo puede pertenecer a una factura.       | 
-| ![Relacion](https://basededatostec.github.io/img/21relacion.png "relacion")   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| <img width="298" src="https://basededatostec.github.io/img/23relacion.gif">   | Un cliente puede obtener varias facturas, pero sólo una factura puede pertenecer a un cliente.    | 
+| <img width="298" src="https://basededatostec.github.io/img/21relacion.png">   | Una factura puede contener varios detalles, mientras que un detalle solo puede pertenecer a una factura.       | 
+| <img width="298" src="https://basededatostec.github.io/img/26relacion.gif">   | Un proveedor puede suministrar varios productos y un producto sólo puede ser suministrado por un proveedor.       | 
 
 
 
