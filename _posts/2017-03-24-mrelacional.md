@@ -16,7 +16,7 @@ __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 
 | Relaciónes del modelo |  | 
 | :-------: | :------ | 
-| <img width="398" src="https://basededatostec.github.io/img/22relacion.png">   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
+| <img src="https://basededatostec.github.io/img/22relacion.png" width="298" height="82">   | Un cliente puede realizar varios pedidos, mientras que un pedido sólo puede ser enviado a un sólo cliente.       | 
 | <img width="398" src="https://basededatostec.github.io/img/24relacion.gif">   | Muchos pedidos se conforman de un sólo producto y sólo un producto puede estar en los pedidos.       | 
 | <img width="398" src="https://basededatostec.github.io/img/27relacion.png">   | Un vendedor puede atender varios pedidos y un pedido sólo puede ser atendido por un vendedor.       | 
 | <img width="398" src="https://basededatostec.github.io/img/23relacion.gif">   | Un cliente puede obtener varias facturas, pero sólo una factura puede pertenecer a un cliente.    | 
