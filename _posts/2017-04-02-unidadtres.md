@@ -16,4 +16,25 @@ tags: [unidad tres, resumen, modelo relacional]
 
 <br><br><b>TABLAS</b>
 
-<br><br>El modelo relacional proporciona una manera de <b>representar los datos</b>: una tabla bidimensional llamada relación. La relación Películas <b>maneja la información de las instancias</b> en la entidad Películas, cada renglón corresponde a una entidad película y cada columna corresponde a uno de los atributos de la entidad.</p>
+<br><br>El modelo relacional proporciona una manera de <b>representar los datos</b>: una tabla bidimensional llamada relación. La relación Películas <b>maneja la información de las instancias</b> en la entidad Películas, cada renglón corresponde a una entidad película y cada columna corresponde a uno de los atributos de la entidad.<br><br>
+
+<img src="https://basededatostec.github.io/img/30relacional.png">
+
+<br><br><b>ATRIBUTOS</b>
+
+<br><br>Los atributos son las columnas de un relación y describen características particulares de ella.
+
+<br><br><b>TUPLAS</b>
+
+<br><br>Cada uno de los renglones en una relación conteniendo valores para cada uno de los atributos.
+(Star Wars, 1977, 124, color)
+
+<br><br><b>DOMINIO</b>
+
+<br><br>Se debe considerar que cada atributo (columna) debe ser atómico.
+
+<br><br><b>CABECERA</b>
+
+<br><br>Un conjunto de atributos de una relación conforma la cabecera de la relación.
+Id-cliente nombre apellido-paterno apellido-materno 
+</p>
