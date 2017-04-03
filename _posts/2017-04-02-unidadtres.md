@@ -129,9 +129,7 @@ Son procedimientos que se ejecutan para hacer una tarea concreta en el momento d
 
 ### 3.5 INTEGRIDAD DE DOMINIO
 
-<p style="text-align: justify;">La integridad de dominio es la validación de las entradas en una determinada columna de la tabla.
-
-<br><br>En estas se definen reglas indicando los valores permitidos en las columnas y son el mecanismo estándar para asegurar integridad. La exigencia de integridad garantiza la calidad de los datos.
+<p style="text-align: justify;">La integridad de dominio es la validación de las entradas en una determinada columna de la tabla. En estas se definen reglas indicando los valores permitidos en las columnas y son el mecanismo estándar para asegurar integridad. La exigencia de integridad garantiza la calidad de los datos.
 
 <br><br>Esta regla establece dos condiciones:
 
