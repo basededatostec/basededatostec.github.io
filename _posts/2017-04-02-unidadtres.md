@@ -77,7 +77,7 @@ Id-cliente nombre apellido-paterno apellido-materno
 <br><br><b>TODA INTERRELACIÓN DE MUCHOS A MUCHOS SE CONVIERTE EN UNA RELACIÓN</b>
 
 <br><br>En una <b>relación de muchos a muchos</b> se deben aplicar todas las reglas posibles, convertir las entidades en relaciones, colocar las columnas y filas con los datos correspondientes,, la cardinalidad se cambia, se cambia de <b>muchos a muchos a uno</b>, imaginemos que quedan tres relaciones, la relación de en medio tendrá una cardinalidad de muchos a uno con las dos relaciones que están a su costado, por lo que dicha relación jalara las llaves primarias de estas dos, pasando a ser <b>llaves compuestas</b>.</p>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/s9zOOxIZnYI" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/s9zOOxIZnYI" frameborder="0" allowfullscreen></iframe></center><br>
 
 ### 3.3 ESQUEMA DE LA BASE DE DATOS
 
@@ -97,32 +97,32 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <p style="text-align: justify;">Se busca en la <b>relación sucursal</b> para encontrar los nombres de todas las sucursales. Luego, para cada una de ellas, se mira en la relación cuena para encontrar la información sobre las cuentas abiertas en esa sucursal. Se debe recordar que los atributos que forma la <b>clave primaria</b> de un conjunto de entidades fuertes aparecen en la tabla creada para representar el <b>conjunto de entidades</b>, así como en las tablas creadas para crear relaciones en las que participar el conjunto de entidades.</p>
 
-### 3.3 ESQUEMA DE LA BASE DE DATOS
+### 3.4 RESTRICCIONES
 
 <p style="text-align: justify;">Las restricciones en una base de datos se refiere a las condiciones que deben cumplir los datos para su correcto funcionamiento y almacenamiento. Existen varios tipos.
 
-<br><br>Restricciones de clave
-Es el conjunto de atributos que identifican de forma única a una entidad.
+<br><br><b>Restricciones de clave</b>.
+Atributos que identifican de forma única a una entidad.
 
-<br><br>Restricciones de valor único 
-Es una restricción que impide que tenga un atributo un valor repetido. por ejemplo el número de motor de un auto no es CLAVE y sin embargo solo y solo un carro deben tener un motor con número único.
+<br><br><b>Restricciones de valor único</b>.
+Es una restricción que impide que tenga un atributo un <b>valor repetido</b>. por ejemplo el número de motor de un auto no es <b>clave</b> y sin embargo sólo y sólo un carro deben tener un motor con número único.
 
-<br><br>Restricción de verificación 
-Esta restricción permite comprobar si un valor de un atributo es válido de acuerdo a una expresión.
+<br><br><b>Restricción de verificación</b>.
+Esta restricción permite comprobar si un <b>valor de un atributo</b> es válido de acuerdo a una expresión.
 
-<br><br>Restricción de valor NULO 
-Un atributo puede ser obligatorio si no admite un valor nulo o null, es decir, el valor no tiene información. 
+<br><br><b>Restricción de valor nulo</b>.
+Un atributo puede ser obligatorio si no admite un valor <b>nulo</b> o <b>null</b>, es decir, el valor no tiene información. 
 
-<br><br>Disparadores 
-Son procedimientos que se ejecutan para hacer una tarea concreta en el momento de insertar, modificar o eliminar información de una tabla .
+<br><br><b>Disparadores</b>-
+Son procedimientos que se ejecutan para hacer una tarea concreta en el momento de <b>insertar</b>, <b>modificar</b> o <b>eliminar</b> información de una tabla .
 
-<br><br>Una de las principales ventajas que ofrece el Modelo Relacional es la utilización de las reglas de integridad, las cuales son restricciones que se aplican a los datos en función de los conceptos de las bases de datos relaciones y de las organizaciones en las que se implementan.Además, aseguran que en la base de datos no se almacenen valores inválidos para la organización que implementa un sistema informático que utiliza como base el modelo relacional para almacenamiento de sus datos.
+<br><br>Una de las principales ventajas que ofrece el Modelo Relacional es la utilización de las <b>reglas de integridad</b>, las cuales son restricciones que se aplican a los datos en función de los conceptos de las bases de datos relaciones y de las organizaciones en las que se implementan. Además, aseguran que en la base de datos no se almacenen <b>valores inválidos</b> para la organización que implementa un sistema informático que utiliza como base el modelo relacional para almacenamiento de sus datos.
 
-<br><br>3.4.1 INTEGRIDAD DE ENTIDAD
+<br><br><b>3.4.1 INTEGRIDAD DE ENTIDAD</b>
 
-<br><br>Se basa en las claves primarias de cada relación y de todas las relaciones en el modelo relacional. Exige que la clave primaria no asuma, NUNCA, un valor desconocido. Existen reglas de integridad, las cuales son restricciones que se aplican a los datos en función de los conceptos de las bases de datos relaciones y de las organizaciones en las que se implementan.
+<br><br>Se basa en las <b>claves primarias</b> de cada relación y de todas las relaciones en el modelo relacional. Exige que la clave primaria no asuma, nunca, un <b>valor desconocido</b>. Existen reglas de integridad, las cuales se aplican a los datos en función de los conceptos de las bases de datos relaciones y de las organizaciones en las que se implementan.
 
-<br><br>3.4.2 INTEGRIDAD REFERENCIAL
+<br><br><b>3.4.2 INTEGRIDAD REFERENCIAL</b>
 
-<br><br>Esta regla se define sobre la base de las claves foráneas y restringe las relaciones entre relaciones. Se da cuando una tabla tiene una referencia a un valor de otra tabla. En este caso la restricción exige que exista el valor referenciado en la otra tabla. Por ejemplo no se puede colocar o asignar la calificación de una asignatura a un alumno que no exista.
+<br><br>Esta regla se define sobre la base de las <b>claves foráneas</b> y restringe las relaciones entre relaciones. Se da cuando una tabla tiene una referencia a un valor de otra tabla. En este caso la restricción exige que exista el valor referenciado en la otra tabla. Por ejemplo no se puede asignar la calificación de una asignatura a un alumno que no exista.
 </p>
