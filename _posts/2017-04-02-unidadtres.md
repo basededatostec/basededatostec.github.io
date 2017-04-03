@@ -137,10 +137,16 @@ Son procedimientos que se ejecutan para hacer una tarea concreta en el momento d
 
 <br><br>La segunda condición sirve para establecer que <b>los operadores</b> que puedan aplicarse sobre los valores, dependen de los dominios de estos valores, es decir un <b>operador determinado</b> solo se puede aplicar sobre valores que tengan dominios que sean adecuados, por ejemplo, en una relación de alumnos donde matricula es el dominio de los enteros, entonces no se permitirá consultar la matricula con un valor Luis, porque es una serie de caracteres y no valores enteros.</p>
 
-__Fuentes de información;__
+__Fuentes de información__
 
 [El modelo relacional](http://valdezesquivel-bd.blogspot.mx/2014/09/actividad-8.html "fuente")
 
 [Modelo relacional, estructura basica](http://itpn.mx/recursositics/5semestre/fundamentosderedes/Unidad%20III.pdf "fuente")
+
+|  Acerca de: | 
+| :------ | 
+| Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
+| Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
+| <a href="https://basededatostec.github.io/unidadtres/">Actividades Unidad 3</a> |
 
 
