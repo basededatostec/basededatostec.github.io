@@ -100,3 +100,4 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br>Obsérvese que el atributo <b>nombre de la sucursal</b> aparece tanto en <b>Esquema-sucursal</b> como en <b>Esquema-cuenta</b>. Esta duplicidad no es una coincidencia. Utiliza lo atributos comunes en los esquemas de las relaciones es una manera de relacionar las tuplas de relaciones diferentes. Supóngase que se desea obtener información sobre todas las cuentas abiertas en sucursales ubicadas en Arganzuela.</p>
 
+<center><img src="https://basededatostec.github.io/img/32relacional.jpg"></center>
