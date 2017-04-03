@@ -22,19 +22,41 @@ tags: [unidad tres, resumen, modelo relacional]
 
 <br><br><b>ATRIBUTOS</b>
 
-<br><br>Los atributos son las columnas de un relación y describen características particulares de ella.
+<br><br>Los atributos son las columnas de un relación y describen <b>características</b> particulares, por ejemplo el color o tamaño de un artículo, el apellido, etc.
 
 <br><br><b>TUPLAS</b>
 
-<br><br>Cada uno de los renglones en una relación conteniendo valores para cada uno de los atributos.
+<br><br>Cada uno de los renglones en una relación conteniendo <b>valores</b> para cada uno de los atributos.
 (Star Wars, 1977, 124, color)
 
 <br><br><b>DOMINIO</b>
 
-<br><br>Se debe considerar que cada atributo (columna) debe ser atómico.
+<br><br>Conjunto de valores permitidos para un atributo, por ejemplo, cadenas de caracteres, números para la edad, valores como SI o NO, Masculino-Femenino, valores de fecha (dd-mm-aaaa), etc..
 
 <br><br><b>CABECERA</b>
 
-<br><br>Un conjunto de atributos de una relación conforma la cabecera de la relación.
+<br><br>Un conjunto de <b>atributos</b> de una relación conforma la cabecera de la relación.
 Id-cliente nombre apellido-paterno apellido-materno 
+
+<br><br><b>GRADO</b>
+
+Es el número de columnas que conforman la relación, este valor no cambia por lo que se dice es estático, solo puede ser modificado por necesidad de la organización.
+
+<br><br><b>CARDINALIDAD</b>
+
+Es el número de tuplas o filas de una relación, este valor cambia de manera constante por lo que es dinámico, y que depende del agregado o eliminación de relaciones o tuplas.
+
+<br><br><b>CLAVE</b>
+
+<br><br>Una clave es un conjunto de atributos que identifican de forma única una ocurrencia de entidad. En este caso las claves pueden ser simples o compuestas.
+
+<br><br>Superclave: Identifican a una entidad (pueden ser no mínimas). Por ejemplo, el número-seguridad-social, CURP. O bien compuestas como RFC+Número-seguridad-social.
+
+<br><br>Clave Candidata: Es la mínima superclave, por ejemplo puede ser solo el RFC, CURP, entre otros.
+
+<br><br>Clave Primaria (PK): Es la clave candidata elegida por el diseñador como clave definitiva.
+
+<br><br>Clave foránea (FK): Es un atributo de una entidad, que es la CLAVE en otra entidad. Por ejemplo, el NC (número de control) en la entidad Asignatura corresponde a una clave en otra entidad, como puderia ser Datos-alumnos. En este caso es una clave foránea en la tabla Asignatura.
+
+
 </p>
