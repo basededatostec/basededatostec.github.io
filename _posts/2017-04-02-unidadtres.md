@@ -91,11 +91,11 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>Esquema-relación</b> = (nombre-sucursal, ciudad-sucursal, activos)
 
-<br><br>Obsérvese que el atributo <b>nombre de la sucursal</b> aparece tanto en <b>Esquema-sucursal</b> como en <b>Esquema-cuenta</b>. Esta duplicidad no es una coincidencia. Utiliza lo atributos comunes en los esquemas de las relaciones es una manera de relacionar las tuplas de relaciones diferentes. Supóngase que se desea obtener información sobre todas las cuentas abiertas en sucursales ubicadas en Arganzuela.
+<br><br>Obsérvese que el atributo <b>nombre de la sucursal</b> aparece tanto en <b>Esquema-sucursal</b> como en <b>Esquema-cuenta</b>. Esta duplicidad no es una coincidencia. Utiliza lo atributos comunes en los esquemas de las relaciones es una manera de relacionar las tuplas de relaciones diferentes. Supóngase que se desea obtener información sobre todas las cuentas abiertas en sucursales ubicadas en Arganzuela.</p>
 
-<br><br>Se busca en la <b>relación sucursal</b> para encontrar los nombres de todas las sucursales. Luego, para cada una de ellas, se mira en la relación cuenta para encontrar la información sobre las cuentas abiertas en esa sucursal. Se debe recordar que los atributos que forma la <b>clave primaria</b> de un conjunto de entidades fuertes aparecen en la tabla creada para representar el <b>conjunto de entidades</b>, así como en las tablas creadas para crear relaciones en las que participar el conjunto de entidades.</p>
+<center><img src="https://basededatostec.github.io/img/32relacional.jpg"></center>
 
-<center><img src="https://basededatostec.github.io/img/33relacional.png"></center>
+<p style="text-align: justify;">Se busca en la <b>relación sucursal</b> para encontrar los nombres de todas las sucursales. Luego, para cada una de ellas, se mira en la relación cuena para encontrar la información sobre las cuentas abiertas en esa sucursal. Se debe recordar que los atributos que forma la <b>clave primaria</b> de un conjunto de entidades fuertes aparecen en la tabla creada para representar el <b>conjunto de entidades</b>, así como en las tablas creadas para crear relaciones en las que participar el conjunto de entidades.</p>
 
 ### 3.3 ESQUEMA DE LA BASE DE DATOS
 
