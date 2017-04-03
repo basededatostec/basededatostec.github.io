@@ -44,12 +44,12 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>CARDINALIDAD</b>
 
-<br><br>Es el <b>número de tuplas</b> o filas de una relación, este valor cambia de manera constante por lo que es dinámico, y que depende del agregado o eliminación de relaciones o tuplas.<br>
+<br><br>Es el <b>número de tuplas</b> o filas de una relación, este valor cambia de manera constante por lo que es dinámico, y que depende del agregado o eliminación de relaciones o tuplas.<br><br></p>
 
 <center><img src="https://basededatostec.github.io/img/31relacional.jpg"></center>
 <br><b>CLAVE</b>
 
-<br><br>Una clave es un <b>conjunto de atributos</b> que identifican de forma única una ocurrencia de entidad. En este caso las claves pueden ser simples o compuestas.
+<p style="text-align: justify;">Una clave es un <b>conjunto de atributos</b> que identifican de forma única una ocurrencia de entidad. En este caso las claves pueden ser simples o compuestas.
 
 <br><br><b>Superclave</b>: Identifican a una entidad (pueden ser no mínimas). Por ejemplo, el número-seguridad-social. O bien compuestas como RFC+Número-seguridad-social.
 
@@ -57,7 +57,7 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>Clave Primaria (PK)</b>: Es la clave candidata elegida por el diseñador como clave definitiva.</p>
 
-<p style="text-align: justify;"><br><br><b>Clave foránea (FK)</b>: Es un atributo de una entidad, que es la clave en otra entidad. Por ejemplo, el Id en la entidad Asignatura corresponde a una clave en otra entidad, como puderia ser Datos-Alumnos. Es una clave foránea en la tabla Asignatura.</p>
+<br><br><b>Clave foránea (FK)</b>: Es un atributo de una entidad, que es la clave en otra entidad. Por ejemplo, el Id en la entidad Asignatura corresponde a una clave en otra entidad, como puderia ser Datos-Alumnos. Es una clave foránea en la tabla Asignatura.</p>
 
 ### 3.1 CONVERSIÓN DE MODELO E-R A MODELO RELACIONAL
 
