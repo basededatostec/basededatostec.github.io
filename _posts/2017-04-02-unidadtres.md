@@ -44,7 +44,7 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>CARDINALIDAD</b>
 
-<br><br>Es el <b>número de tuplas</b> o filas de una relación, este valor cambia de manera constante por lo que es dinámico, y que depende del agregado o eliminación de relaciones o tuplas.<br><br></p>
+<br><br>Es el <b>número de tuplas</b> o filas de una relación, este valor cambia de manera constante por lo que es dinámico, y que depende del agregado o eliminación de relaciones o tuplas.<br></p>
 
 <center><img src="https://basededatostec.github.io/img/31relacional.jpg"></center>
 <br><b>CLAVE</b>
@@ -55,7 +55,7 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>Clave Candidata</b>: Es la mínima superclave, por ejemplo puede ser sólo el CURP.
 
-<br><br><b>Clave Primaria (PK)</b>: Es la clave candidata elegida por el diseñador como clave definitiva.</p>
+<br><br><b>Clave Primaria (PK)</b>: Es la clave candidata elegida por el diseñador como clave definitiva.
 
 <br><br><b>Clave foránea (FK)</b>: Es un atributo de una entidad, que es la clave en otra entidad. Por ejemplo, el Id en la entidad Asignatura corresponde a una clave en otra entidad, como puderia ser Datos-Alumnos. Es una clave foránea en la tabla Asignatura.</p>
 
