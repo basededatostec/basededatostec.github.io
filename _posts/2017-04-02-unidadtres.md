@@ -70,10 +70,13 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>EN TODA INTERRELACIÓN DE UNO A MUCHOS SE PROPAGA LA LLAVE PRIMARIA</b>
 
-<br><br>Cada que encontremos una interrelación de uno a muchos se debe realizar lo siguiente; al encontrar dos entidades por ejemplo, debemos convertir estas entidades a relaciones, y observamos cual es cardinalidad, para este caso es de 1 a muchos , se agrega un flecha apuntando hacia la izquierda para tener la cardinalidad entre nuestras relaciones, ahora si podemos realizar la propagación de la llave primaria.
+<br><br>Cada que encontremos una <b>interrelación de uno a muchos</b> se debe realizar lo siguiente; al encontrar dos entidades por ejemplo, debemos convertir estas entidades a relaciones, y observamos cual es <b>cardinalidad</b>, para este caso es de uno a muchos , se agrega un <b>flecha apuntando hacia la izquierda</b> para tener la cardinalidad entre nuestras relaciones, ahora si podemos realizar la propagación de la llave primaria.
 
-<br><br>La relación que apunta con la flecha va a jalar la llave primaria de la relación a la que esta apuntando, cuando se toma la llave primaria de la relación apuntada se copia en la segunda relación pero en lugar de colocar PK se coloca FK, que significa llave foránea.
+<br><br>La relación que apunta con la flecha va a jalar la llave primaria de la relación a la que esta apuntando, cuando se toma la llave primaria de la relación apuntada se copia en la segunda relación pero en lugar de colocar <b>PK se coloca FK</b>, que significa llave foránea.
 
-<br><br>TODA INTERRELACIÓN DE MUCHOS A MUCHOS SE CONVIERTE EN UNA RELACIÓN
+<br><br><b>TODA INTERRELACIÓN DE MUCHOS A MUCHOS SE CONVIERTE EN UNA RELACIÓN</b>
 
-<br><br>En una relación de muchos a muchos se deben aplicar todas las reglas posibles, convertir las entidades en relaciones, colocar las columnas y filas con los datos correspondientes,, la cardinalidad se cambia, se cambia de muchos a muchos a 1, imaginemos que quedan tren relaciones, la relación de en medio tendrá una cardinalidad de muchos a 1 con las dos relaciones que están a su costado, por lo que dicha relación jalara las llaves primarias de estas dos, pasando a ser llaves compuestas.</p>
+<br><br>En una <b>relación de muchos a muchos</b> se deben aplicar todas las reglas posibles, convertir las entidades en relaciones, colocar las columnas y filas con los datos correspondientes,, la cardinalidad se cambia, se cambia de muchos a muchos a 1, imaginemos que quedan tren relaciones, la relación de en medio tendrá una cardinalidad de muchos a 1 con las dos relaciones que están a su costado, por lo que dicha relación jalara las llaves primarias de estas dos, pasando a ser <b>llaves compuestas</b>.</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/s9zOOxIZnYI" frameborder="0" allowfullscreen></iframe></center>
+
+
