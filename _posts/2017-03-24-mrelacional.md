@@ -5,7 +5,7 @@ subtitle: (caso práctico) TIENDA DE APARATOS ELECTRÓNICOS
 tags: [unidad tres, modelo, relacional]
 ---
 
-<p style="text-align: justify;">En esta tarea construimos el <b>Modelo Relacional</b> que se construyo con la herramienta <b>WorkBench</b>, partiendo del Esquema de nuestra tarea anterior.</p>
+<p style="text-align: justify;">En esta tarea construimos el <b>Modelo Relacional</b> que se construyo con la herramienta <b>WorkBench</b>, partiendo del [esquema](https://basededatostec.github.io/2017-02-25-modeloer/ "esquema") de nuestra tarea anterior.</p>
 
 __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 <p style="text-align: justify;">Al entregar nuestro modelo surgieron algunas dudas:
@@ -32,3 +32,9 @@ Descarga este modelo dando clic en el siguiente [enlace](https://drive.google.co
 #### CONCLUSIONES
 
 <p style="text-align: justify;">Logramos conocer la importancia de las claves en las relaciones de las tablas que creamos con <b>MySQL Workbench</b>. Tomamos nuestras relaciones y evaluamos las reglas conocidas para realizar la propagación de la <b>llave primaria</b> si se trataba de una interrelación de <b>uno a muchos</b> o convertirla a una nueva relación si se trataba de una interrelación de <b>muchos a muchos</b>. Realizamos seis evaluaciones; <b>Cliente-Pedido, Pedido-Producto, Vendedor-Pedido, Pedido-Facturas, Facturas-Detalles_Factura</b> y <b>Proveedor-Producto</b>. Con esto comprobábamos con que interrelación estábamos trabajando y a donde propagar las <b>llaves foráneas</b>, en nuestro modelo no se encontraron interrelaciones muchos a muchos. <br><br>Por último cabe señalar que el programa que usamos (<b>MySQL Workbench</b>) para llevar a cabo el trabajo tiene una interfaz excelente y su forma de uso es fácil y eficaz, un excelente programa que nos ahorro mucho trabajo.</p>__REFERENCIAS__<br><br>__Vídeos en Linea__<br><br>_Sandoval, Bani. (2015, Abril, 15). Bases de Datos - Introducción al Modelo-Relacional<br>Recuperado de https://www.youtube.com/watch?v=CPabJuf7KQE_
+
+|  Acerca de: | 
+| :------ | 
+| Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
+| Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
+| <a href="https://basededatostec.github.io/unidadtres/">Actividades Unidad 3</a> |
