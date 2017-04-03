@@ -5,7 +5,7 @@ subtitle: (caso práctico) TIENDA DE APARATOS ELECTRÓNICOS
 tags: [unidad tres, modelo, relacional]
 ---
 
-<p style="text-align: justify;">En esta tarea construimos el <b>Modelo Relacional</b> que se construyo con la herramienta <b>WorkBench</b>, partiendo del <a href="https://basededatostec.github.io/2017-02-25-modeloer/" target="_blank">esquema</a> de nuestra tarea anterior.</p>
+<p style="text-align: justify;">En esta tarea construimos el <b>Modelo Relacional</b> que se construyo con la herramienta <b>WorkBench</b>, partiendo del <a href="https://basededatostec.github.io/2017-02-25-modeloer/">esquema</a> de nuestra tarea anterior.</p>
 
 __ACTUALIZACIÓN 29 DE MARZO DEL 2107__
 <p style="text-align: justify;">Al entregar nuestro modelo surgieron algunas dudas:
