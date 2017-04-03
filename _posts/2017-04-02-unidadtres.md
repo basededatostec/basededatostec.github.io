@@ -18,7 +18,7 @@ tags: [unidad tres, resumen, modelo relacional]
 
 <br><br>El modelo relacional proporciona una manera de <b>representar los datos</b>: una tabla bidimensional llamada relación. La relación Películas <b>maneja la información de las instancias</b> en la entidad Películas, cada renglón corresponde a una entidad película y cada columna corresponde a uno de los atributos de la entidad.<br><br>
 
-<img src="https://basededatostec.github.io/img/30relacional.png">
+<center><img src="https://basededatostec.github.io/img/30relacional.png"></center>
 
 <br><br><b>ATRIBUTOS</b>
 
@@ -46,7 +46,7 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br>Es el <b>número de tuplas</b> o filas de una relación, este valor cambia de manera constante por lo que es dinámico, y que depende del agregado o eliminación de relaciones o tuplas.
 
-<img src="https://basededatostec.github.io/img/31relacional.png">
+<center><img src="https://basededatostec.github.io/img/31relacional.png"></center>
 
 <br><br><b>CLAVE</b>
 
