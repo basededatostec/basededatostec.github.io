@@ -20,7 +20,7 @@ tags: [unidad tres, resumen, modelo relacional]
 
 <center><img src="https://basededatostec.github.io/img/30relacional.png"></center>
 
-<br><br><b>ATRIBUTOS</b>
+<br><b>ATRIBUTOS</b>
 
 <br><br>Los atributos son las columnas de un relación y describen <b>características</b> particulares, por ejemplo el color o tamaño de un artículo, el apellido, etc.
 
@@ -44,7 +44,7 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>CARDINALIDAD</b>
 
-<br><br>Es el <b>número de tuplas</b> o filas de una relación, este valor cambia de manera constante por lo que es dinámico, y que depende del agregado o eliminación de relaciones o tuplas.
+<br><br>Es el <b>número de tuplas</b> o filas de una relación, este valor cambia de manera constante por lo que es dinámico, y que depende del agregado o eliminación de relaciones o tuplas.<br>
 
 <center><img src="https://basededatostec.github.io/img/31relacional.jpg"></center>
 <br><b>CLAVE</b>
@@ -55,21 +55,21 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>Clave Candidata</b>: Es la mínima superclave, por ejemplo puede ser sólo el CURP.
 
-<br><br><b>Clave Primaria (PK)</b>: Es la clave candidata elegida por el diseñador como clave definitiva.
+<br><br><b>Clave Primaria (PK)</b>: Es la clave candidata elegida por el diseñador como clave definitiva.</p>
 
-<br><br><b>Clave foránea (FK)</b>: Es un atributo de una entidad, que es la clave en otra entidad. Por ejemplo, el NC (número de control) en la entidad Asignatura corresponde a una clave en otra entidad, como puderia ser Datos-Alumnos. Es una clave foránea en la tabla Asignatura.</p>
+<p style="text-align: justify;"><br><br><b>Clave foránea (FK)</b>: Es un atributo de una entidad, que es la clave en otra entidad. Por ejemplo, el Id en la entidad Asignatura corresponde a una clave en otra entidad, como puderia ser Datos-Alumnos. Es una clave foránea en la tabla Asignatura.</p>
 
 ### 3.1 CONVERSIÓN DE MODELO E-R A MODELO RELACIONAL
 
-<p style="text-align: justify;">Existen algunas reglas antes de convertir un modelo Entrada relación a un modelo relacional.
+<p style="text-align: justify;">Existen algunas reglas antes de convertir un modelo E-R a un modelo relacional.
 
-<br><br>TODA ENTIDAD SE CONVIERTE A UNA RELACIÓN
+<br><br><b>TODA ENTIDAD SE CONVIERTE A UNA RELACIÓN</b>
 
-<br><br>Referido a que cada que encontremos una entidad en un modelo entidad relación, está debe ser convertida en una relación dentro del modelo relacional, la cual se representa mediante una tabla con tres columnas y un numero indefinido de filas.
+<br><br>Cada que encontremos una entidad en un modelo entidad relación, está debe ser convertida en una relación dentro del modelo relacional, la cual se representa mediante una tabla con <b>tres columnas</b> y un numero <b>indefinido</b> de filas.
 
-<br><br>Esta a su vez tendrá como encabezado el nombre de la entidad . buscamos el atributo identificador que se colocara en la primera fila de nuestra tabla, representando con el prefijo PK, que significa llave primaria. Ya después se colocan los demás atributos en las filas siguientes. Y en la tercer columna colocaremos una N porque el campo no puede contener valores nulos y una S si puede contenerlos.
+<br><br>Esta a su vez tendrá como <b>encabezad</b> o el nombre de la entidad . buscamos el atributo identificador que se colocara en la primera fila de nuestra tabla, representando con el <b>prefijo PK</b>, que significa <b>llave primaria</b>. Ya después se colocan los demás atributos en las filas siguientes. Y en la tercer columna colocaremos una <b>N</b> porque el campo no puede contener valores nulos y una <b>S</b> si puede contenerlos.
 
-<br><br>EN TODA INTERRELACIÓN DE UNO A MUCHOS SE PROPAGA LA LLAVE PRIMARIA
+<br><br><b>EN TODA INTERRELACIÓN DE UNO A MUCHOS SE PROPAGA LA LLAVE PRIMARIA</b>
 
 <br><br>Cada que encontremos una interrelación de uno a muchos se debe realizar lo siguiente; al encontrar dos entidades por ejemplo, debemos convertir estas entidades a relaciones, y observamos cual es cardinalidad, para este caso es de 1 a muchos , se agrega un flecha apuntando hacia la izquierda para tener la cardinalidad entre nuestras relaciones, ahora si podemos realizar la propagación de la llave primaria.
 
