@@ -141,7 +141,7 @@ __Fuentes de información__
 
 [El modelo relacional](http://valdezesquivel-bd.blogspot.mx/2014/09/actividad-8.html "fuente")
 
-[Modelo relacional, estructura basica](http://itpn.mx/recursositics/5semestre/fundamentosderedes/Unidad%20III.pdf "fuente")
+[Estructura básica del modelo relacional](http://itpn.mx/recursositics/5semestre/fundamentosderedes/Unidad%20III.pdf "fuente")
 
 |  Acerca de: | 
 | :------ | 
