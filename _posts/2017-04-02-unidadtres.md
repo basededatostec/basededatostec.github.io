@@ -102,6 +102,6 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <center><img src="https://basededatostec.github.io/img/32relacional.jpg"></center>
 
-<p style="text-align: justify;">Primero se busca en la <b>relación sucursal</b>para encontrar los nombres de todas las sucursales sitas en Arganzuela. Luego, para cada una de ellas, se mira en la relación cuenta para encontrar la información sobre las cuentas abiertas en esa sucursal. Esto no es sorprendente: recuérdese que los atributos que forma la <b>clave primaria</b> de un conjunto de entidades fuertes aparecen en la tabla creada para representar el <b>conjunto de entidades</b>, así como en las tablas creadas para crear relaciones en las que participar el conjunto de entidades.</p>
+<p style="text-align: justify;">Se busca en la <b>relación sucursal</b> para encontrar los nombres de todas las sucursales. Luego, para cada una de ellas, se mira en la relación cuenta para encontrar la información sobre las cuentas abiertas en esa sucursal. Se debe recordar que los atributos que forma la <b>clave primaria</b> de un conjunto de entidades fuertes aparecen en la tabla creada para representar el <b>conjunto de entidades</b>, así como en las tablas creadas para crear relaciones en las que participar el conjunto de entidades.</p>
 
 <center><img src="https://basededatostec.github.io/img/33relacional.jpg"></center>
