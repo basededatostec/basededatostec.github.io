@@ -124,5 +124,17 @@ Son procedimientos que se ejecutan para hacer una tarea concreta en el momento d
 
 <br><br><b>3.4.2 INTEGRIDAD REFERENCIAL</b>
 
-<br><br>Esta regla se define sobre la base de las <b>claves foráneas</b> y restringe las relaciones entre relaciones. Se da cuando una tabla tiene una referencia a un valor de otra tabla. En este caso la restricción exige que exista el valor referenciado en la otra tabla. Por ejemplo no se puede asignar la calificación de una asignatura a un alumno que no exista.
+<br><br>Esta regla se define sobre la base de las <b>claves foráneas</b> y restringe las relaciones entre relaciones. Se da cuando una tabla tiene una <b>referencia</b> a un valor de otra tabla. En este caso la restricción exige que exista el valor referenciado en la otra tabla. Por ejemplo no se puede asignar la calificación de una asignatura a un alumno que no exista.
 </p>
+
+### 3.5 INTEGRIDAD DE DOMINIO
+
+<p style="text-align: justify;">La integridad de dominio es la validación de las entradas en una determinada columna de la tabla.
+
+<br><br>En estas se definen reglas indicando los valores permitidos en las columnas y son el mecanismo estándar para asegurar integridad. La exigencia de integridad garantiza la calidad de los datos.
+
+<br><br>Esta regla establece dos condiciones:
+
+<br><br>La primera condición exige que el valor que puede tomar un campo esté dentro del dominio definido. Por ejemplo, si se establece que un campo (número de control) pertenece al dominio de los números enteros, no es posible insertar un número de control con letra, puesto que la regla indica solo valores enteros.
+
+<br><br>La segunda condición sirve para establecer que los operadores que puedan aplicarse sobre los valores, dependen de los dominios de estos valores, es decir un operador determinado solo se puede aplicar sobre valores que tengan dominios que sean adecuados, por ejemplo, en una relación de alumnos donde matricula es el dominio de los enteros, entonces no se permitirá consultar la matricula con un valor Luis, porque es una serie de caracteres y no valores enteros.</p>
