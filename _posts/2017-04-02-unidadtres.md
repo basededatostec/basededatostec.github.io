@@ -77,26 +77,26 @@ Id-cliente nombre apellido-paterno apellido-materno
 <br><br><b>TODA INTERRELACIÓN DE MUCHOS A MUCHOS SE CONVIERTE EN UNA RELACIÓN</b>
 
 <br><br>En una <b>relación de muchos a muchos</b> se deben aplicar todas las reglas posibles, convertir las entidades en relaciones, colocar las columnas y filas con los datos correspondientes,, la cardinalidad se cambia, se cambia de <b>muchos a muchos a uno</b>, imaginemos que quedan tres relaciones, la relación de en medio tendrá una cardinalidad de muchos a uno con las dos relaciones que están a su costado, por lo que dicha relación jalara las llaves primarias de estas dos, pasando a ser <b>llaves compuestas</b>.</p>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/s9zOOxIZnYI" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/s9zOOxIZnYI" frameborder="0" allowfullscreen></iframe></center><br>
 
 ### 3.3 ESQUEMA DE LA BASE DE DATOS
 
-<p style="text-align: justify;">El Esquema de una Base de datos describe la estructura de dicha base con la que se este trabajando. El Esquema de relación define sus tablas, sus campos en cada tabla y las relaciones entre cada campo y cada tabla. A su vez el es almacenado en un Diccionario de Datos.
+<p style="text-align: justify;">El Esquema de una Base de datos <b>describe la estructura</b> de dicha base con la que se este trabajando, define sus <b>tablas</b>, sus <b>campos</b> en cada tabla y las <b>relaciones</b> entre cada campo y cada tabla. A su vez el es almacenado en un Diccionario de Datos.
 
-<br><br>NIVELES DE ESQUEMA DE BASE DE DATOS
+<br><br><b>NIVELES DE ESQUEMA DE BASE DE DATOS</b>
 
-<br>Esquema Conceptual, un mapa de conceptos y sus relaciones.
-<br>Esquema Lógico, un mapa de las entidades y sus atributos y las relaciones.
-<br>Esquema Físico, una aplicación de un esquema lógico.
-<br>Esquema Objeto, Base da datos Oracle Objeto.
+<br>Esquema <b>Conceptual</b>, un mapa de conceptos y sus relaciones.
+<br>Esquema<b> Lógico</b>, un mapa de las entidades y sus atributos y las relaciones.
+<br>Esquema <b>Físico</b>, una aplicación de un esquema lógico.
+<br>Esquema <b>Objeto</b>, Base da datos Oracle Objeto.
 
-<br><br>Resulta conveniente dar un nombre a los esquemas de las relaciones, igual que se dan nombres a las definiciones de tipos en los lenguajes de programación. Se adopta el convenio de utilizar nombres en minúsculas para las relaciones y nombres que comiencen por una letra mayúscula para los esquemas de las relaciones. Siguiendo esta notación se utilizará Esquema-cuenta como ejemplo:
+<br><br>Resulta conveniente dar un <b>nombre a los esquemas</b> de las relaciones, igual que se dan nombres a las definiciones de tipos en los lenguajes de programación. Se adopta el convenio de utilizar <b>nombres en minúsculas</b> para las relaciones y nombres que comiencen por una letra mayúscula para los <b>esquemas</b> de las relaciones. Siguiendo esta notación se utilizará Esquema-cuenta como ejemplo:
 
-<br><br>Esquema-cuenta = (número-cuenta, nombre-sucursal, saldo)
+<br><br><b>Esquema-cuenta</b> = (número-cuenta, nombre-sucursal, saldo)
 
-<br><br>Los esquemas de las relaciones incluyen una lista de los atributos y de sus dominios correspondientes. Siguiendo con el ejemplo de la relación sucursal. Observemos que el esquema de esa relación es:
+<br><br>Los esquemas de las relaciones incluyen una <b>lista de los atributos</b> y de sus dominios correspondientes. Siguiendo con el ejemplo de la relación sucursal. Observemos que el esquema de esa relación es la siguiente:
 
 <br><br>Esquema-relación = (nombre-sucursal, ciudad-sucursal, activos)
 
-<br><br>Obsérvese que el atributo nombre de la sucursal aparece tanto en Esquema-sucursal como en Esquema-cuenta. Esta duplicidad no es una coincidencia. Utiliza lo atributos comunes en los esquemas de las relaciones es una manera de relacionar las tuplas de relaciones diferentes. Supóngase que se desea obtener información sobre todas las cuentas abiertas en sucursales ubicadas en Arganzuela.</p>
+<br><br>Obsérvese que el atributo <b>nombre de la sucursal</b> aparece tanto en <b>Esquema-sucursal</b> como en <b>Esquema-cuenta</b>. Esta duplicidad no es una coincidencia. Utiliza lo atributos comunes en los esquemas de las relaciones es una manera de relacionar las tuplas de relaciones diferentes. Supóngase que se desea obtener información sobre todas las cuentas abiertas en sucursales ubicadas en Arganzuela.</p>
 
