@@ -104,4 +104,34 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <p style="text-align: justify;">Se busca en la <b>relación sucursal</b> para encontrar los nombres de todas las sucursales. Luego, para cada una de ellas, se mira en la relación cuenta para encontrar la información sobre las cuentas abiertas en esa sucursal. Se debe recordar que los atributos que forma la <b>clave primaria</b> de un conjunto de entidades fuertes aparecen en la tabla creada para representar el <b>conjunto de entidades</b>, así como en las tablas creadas para crear relaciones en las que participar el conjunto de entidades.</p>
 
-<center><img src="https://basededatostec.github.io/img/33relacional.jpg"></center>
+<center><img src="https://basededatostec.github.io/img/33relacional.png"></center>
+
+### 3.3 ESQUEMA DE LA BASE DE DATOS
+
+<p style="text-align: justify;">Las restricciones en una base de datos se refiere a las condiciones que deben cumplir los datos para su correcto funcionamiento y almacenamiento. Existen varios tipos.
+
+<br><br>Restricciones de clave
+Es el conjunto de atributos que identifican de forma única a una entidad.
+
+<br><br>Restricciones de valor único 
+Es una restricción que impide que tenga un atributo un valor repetido. por ejemplo el número de motor de un auto no es CLAVE y sin embargo solo y solo un carro deben tener un motor con número único.
+
+<br><br>Restricción de verificación 
+Esta restricción permite comprobar si un valor de un atributo es válido de acuerdo a una expresión.
+
+<br><br>Restricción de valor NULO 
+Un atributo puede ser obligatorio si no admite un valor nulo o null, es decir, el valor no tiene información. 
+
+<br><br>Disparadores 
+Son procedimientos que se ejecutan para hacer una tarea concreta en el momento de insertar, modificar o eliminar información de una tabla .
+
+<br><br>Una de las principales ventajas que ofrece el Modelo Relacional es la utilización de las reglas de integridad, las cuales son restricciones que se aplican a los datos en función de los conceptos de las bases de datos relaciones y de las organizaciones en las que se implementan.Además, aseguran que en la base de datos no se almacenen valores inválidos para la organización que implementa un sistema informático que utiliza como base el modelo relacional para almacenamiento de sus datos.
+
+<br><br>3.4.1 INTEGRIDAD DE ENTIDAD
+
+<br><br>Se basa en las claves primarias de cada relación y de todas las relaciones en el modelo relacional. Exige que la clave primaria no asuma, NUNCA, un valor desconocido. Existen reglas de integridad, las cuales son restricciones que se aplican a los datos en función de los conceptos de las bases de datos relaciones y de las organizaciones en las que se implementan.
+
+<br><br>3.4.2 INTEGRIDAD REFERENCIAL
+
+<br><br>Esta regla se define sobre la base de las claves foráneas y restringe las relaciones entre relaciones. Se da cuando una tabla tiene una referencia a un valor de otra tabla. En este caso la restricción exige que exista el valor referenciado en la otra tabla. Por ejemplo no se puede colocar o asignar la calificación de una asignatura a un alumno que no exista.
+</p>
