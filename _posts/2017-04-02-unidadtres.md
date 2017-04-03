@@ -129,10 +129,10 @@ Son procedimientos que se ejecutan para hacer una tarea concreta en el momento d
 
 ### 3.5 INTEGRIDAD DE DOMINIO
 
-<p style="text-align: justify;">La integridad de dominio es la validación de las entradas en una determinada columna de la tabla. En estas se definen reglas indicando los valores permitidos en las columnas y son el mecanismo estándar para asegurar integridad. La exigencia de integridad garantiza la calidad de los datos.
+<p style="text-align: justify;">La integridad de dominio es la <b>validación de las entradas</b> en una determinada columna de la tabla. En estas se definen reglas indicando los <b>valores permitidos</b> en las columnas y son el mecanismo estándar para asegurar integridad. La exigencia de integridad garantiza la calidad de los datos.
 
 <br><br>Esta regla establece dos condiciones:
 
-<br><br>La primera condición exige que el valor que puede tomar un campo esté dentro del dominio definido. Por ejemplo, si se establece que un campo (número de control) pertenece al dominio de los números enteros, no es posible insertar un número de control con letra, puesto que la regla indica solo valores enteros.
+<br><br>La primera condición exige que el valor que puede tomar un campo esté <b>dentro del dominio</b> definido. Por ejemplo, si se establece que un campo (número de control) pertenece al dominio de los <b>números enteros</b>, no es posible insertar un número de control con <b>letra</b>, puesto que la regla indica solo valores enteros.
 
-<br><br>La segunda condición sirve para establecer que los operadores que puedan aplicarse sobre los valores, dependen de los dominios de estos valores, es decir un operador determinado solo se puede aplicar sobre valores que tengan dominios que sean adecuados, por ejemplo, en una relación de alumnos donde matricula es el dominio de los enteros, entonces no se permitirá consultar la matricula con un valor Luis, porque es una serie de caracteres y no valores enteros.</p>
+<br><br>La segunda condición sirve para establecer que <b>los operadores</b> que puedan aplicarse sobre los valores, dependen de los dominios de estos valores, es decir un <b>operador determinado</b> solo se puede aplicar sobre valores que tengan dominios que sean adecuados, por ejemplo, en una relación de alumnos donde matricula es el dominio de los enteros, entonces no se permitirá consultar la matricula con un valor Luis, porque es una serie de caracteres y no valores enteros.</p>
