@@ -83,13 +83,6 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <p style="text-align: justify;">El Esquema de una Base de datos <b>describe la estructura</b> de dicha base con la que se este trabajando, define sus <b>tablas</b>, sus <b>campos</b> en cada tabla y las <b>relaciones</b> entre cada campo y cada tabla. A su vez el es almacenado en un Diccionario de Datos.
 
-<br><br><b>NIVELES DE ESQUEMA DE BASE DE DATOS</b>
-
-<br><br>Esquema <b>Conceptual</b>, un mapa de conceptos y sus relaciones.
-<br>Esquema<b> Lógico</b>, un mapa de las entidades y sus atributos y las relaciones.
-<br>Esquema <b>Físico</b>, una aplicación de un esquema lógico.
-<br>Esquema <b>Objeto</b>, Base da datos Oracle Objeto.
-
 <br><br>Resulta conveniente dar un <b>nombre a los esquemas</b> de las relaciones, igual que se dan nombres a las definiciones de tipos en los lenguajes de programación. Se adopta el convenio de utilizar <b>nombres en minúsculas</b> para las relaciones y nombres que comiencen por una letra mayúscula para los <b>esquemas</b> de las relaciones. Siguiendo esta notación se utilizará Esquema-cuenta como ejemplo:
 
 <br><br><b>Esquema-cuenta</b> = (número-cuenta, nombre-sucursal, saldo)
@@ -98,11 +91,9 @@ Id-cliente nombre apellido-paterno apellido-materno
 
 <br><br><b>Esquema-relación</b> = (nombre-sucursal, ciudad-sucursal, activos)
 
-<br><br>Obsérvese que el atributo <b>nombre de la sucursal</b> aparece tanto en <b>Esquema-sucursal</b> como en <b>Esquema-cuenta</b>. Esta duplicidad no es una coincidencia. Utiliza lo atributos comunes en los esquemas de las relaciones es una manera de relacionar las tuplas de relaciones diferentes. Supóngase que se desea obtener información sobre todas las cuentas abiertas en sucursales ubicadas en Arganzuela.</p>
+<br><br>Obsérvese que el atributo <b>nombre de la sucursal</b> aparece tanto en <b>Esquema-sucursal</b> como en <b>Esquema-cuenta</b>. Esta duplicidad no es una coincidencia. Utiliza lo atributos comunes en los esquemas de las relaciones es una manera de relacionar las tuplas de relaciones diferentes. Supóngase que se desea obtener información sobre todas las cuentas abiertas en sucursales ubicadas en Arganzuela.
 
-<center><img src="https://basededatostec.github.io/img/32relacional.jpg"></center>
-
-<p style="text-align: justify;">Se busca en la <b>relación sucursal</b> para encontrar los nombres de todas las sucursales. Luego, para cada una de ellas, se mira en la relación cuenta para encontrar la información sobre las cuentas abiertas en esa sucursal. Se debe recordar que los atributos que forma la <b>clave primaria</b> de un conjunto de entidades fuertes aparecen en la tabla creada para representar el <b>conjunto de entidades</b>, así como en las tablas creadas para crear relaciones en las que participar el conjunto de entidades.</p>
+<br><br>Se busca en la <b>relación sucursal</b> para encontrar los nombres de todas las sucursales. Luego, para cada una de ellas, se mira en la relación cuenta para encontrar la información sobre las cuentas abiertas en esa sucursal. Se debe recordar que los atributos que forma la <b>clave primaria</b> de un conjunto de entidades fuertes aparecen en la tabla creada para representar el <b>conjunto de entidades</b>, así como en las tablas creadas para crear relaciones en las que participar el conjunto de entidades.</p>
 
 <center><img src="https://basededatostec.github.io/img/33relacional.png"></center>
 
