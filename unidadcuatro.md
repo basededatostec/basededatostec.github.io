@@ -8,12 +8,12 @@ subtitle: Normalización de bases de datos
 
 | Actividad | TAREA: Modelo Relacional Normalizado (caso práctico) | 
 | :------ |:--- |
-| ![Modelo](https://basededatostec.github.io/img/03podcast.png) | En esta actividad realizamos el Modelo Relacional Normalizado hasta la segunda forma normal en cada una de las relaciones, pueden ver este modelo y nuestras conclusiones desde este [enlace](https://basededatostec.github.io/2017-05-05-mnormalizado/). | 
+| ![Modelo](https://basededatostec.github.io/img/01archivos.png) | En esta actividad realizamos el Modelo Relacional Normalizado hasta la segunda forma normal en cada una de las relaciones, pueden ver este modelo y nuestras conclusiones desde este [enlace](https://basededatostec.github.io/2017-05-05-mnormalizado/). | 
 | | |
 
 | Actividad | PODCAST: Resumen de la Unidad 3 y 4 | 
 | :------ |:--- |
-| ![PodCast](https://basededatostec.github.io/img/03podcast.png) | Como ultima actividad realizamos el resumen de la Unidad 1 a través de un PODCAST, puedes escucharlo en [este blog](https://basededatostec.github.io/podcast/ "escucha el podcast") o puedes dar clic en este [enlace](https://basededatostec.github.io/img/podcast.mp3 "reproductor externo") para escucharlo en un reproductor externo. | 
+| ![PodCast](https://basededatostec.github.io/img/03podcast.png) | Como ultima actividad realizamos el resumen de la Unidad 3 y 4 a través de un PODCAST, puedes escucharlo en [este blog](https://basededatostec.github.io/podcast/ "escucha el podcast") o puedes dar clic en este [enlace](https://basededatostec.github.io/img/podcast2.mp3 "reproductor externo") para escucharlo en un reproductor externo. | 
 | | |
 
 | Actividad | TEXTO: Resumen de la Unidad 3 | 
