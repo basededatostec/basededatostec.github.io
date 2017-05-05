@@ -9,7 +9,7 @@ tags: [unidad cuatro, modelo, relacional, normalizado]
 
 Por lo que nuestro modelo relacional es el siguiente.
 
-<img src="https://basededatostec.github.io/img/40normalizado.png">
+<img src="https://basededatostec.github.io/img/41normalizado.png">
 
 Descarga este modelo dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYa2RHUzltVEtMUDQ "clic para descargar el modelo")  
 
