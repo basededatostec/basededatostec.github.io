@@ -11,7 +11,7 @@ Nuestro modelo relacional normalizado es el siguiente.
 
 <img src="https://basededatostec.github.io/img/41normalizado.png">
 
-Descarga este modelo dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYa2RHUzltVEtMUDQ "clic para descargar el modelo")  
+Descarga este modelo dando clic en el siguiente [enlace](https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYdU9zMV9iS3IzU28 "clic para descargar el modelo")  
 
 #### CONCLUSIONES
 
