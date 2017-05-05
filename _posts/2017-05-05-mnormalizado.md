@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Modelo Relacional Normalizado
+title: Modelo Normalizado
 subtitle: (caso práctico) TIENDA DE APARATOS ELECTRÓNICOS
 tags: [unidad cuatro, modelo, relacional, normalizado]
 ---
 
-<p style="text-align: justify;">En esta tarea perteneciente a la unidad 4, construimos el <b>Modelo Relacional Normalizado</b> que se construyo con la herramienta <b>WorkBench</b>, partiendo del <a href="https://basededatostec.github.io/2017-03-24-mrelacional/">Modelo relacional</a> de nuestra tarea anterior.</p>
+<p style="text-align: justify;">En esta tarea perteneciente a la unidad cuatro del curso en turno, construimos el <b>Modelo Relacional Normalizado</b> que se construyo con la herramienta <b>WorkBench</b>, partiendo del <a href="https://basededatostec.github.io/2017-03-24-mrelacional/">Modelo relacional</a> de nuestra tarea anterior.</p>
      | 
 Por lo que nuestro modelo relacional es el siguiente.
 
