@@ -24,12 +24,10 @@ Descarga este modelo dando clic en el siguiente [enlace](https://drive.google.co
 __REFERENCIAS__
 
 __Vídeo en linea__
-
 _Zuzunaga, David. (2016, Mayo 16). Ejemplo de normalizacion.
 Recuperado de: https://www.youtube.com/watch?v=igctJY-YIjY_
 
 __Pagina Web__
-
 _Coronado, Pozo, Salvador. (2004, Diciembre, 10). MySQL con clase.
 Recuperado de: http://mysql.conclase.net/curso/?cap=004#NOR_1FN_
 
