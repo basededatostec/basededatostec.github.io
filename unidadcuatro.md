@@ -8,7 +8,7 @@ subtitle: Normalización de bases de datos
 
 | Actividad | TAREA: Modelo Relacional Normalizado (caso práctico) | 
 | :------ |:--- |
-| ![Modelo](https://basededatostec.github.io/img/03podcast.png) | En esta actividad realizamos el Modelo Relacional Normalizado hasta la segunda forma normal en cada una de las relaciones, pueden ver este modelo y nuestras conclusiones desde este [enlace](https://basededatostec.github.io/2017-03-24-mrelacional/). | 
+| ![Modelo](https://basededatostec.github.io/img/03podcast.png) | En esta actividad realizamos el Modelo Relacional Normalizado hasta la segunda forma normal en cada una de las relaciones, pueden ver este modelo y nuestras conclusiones desde este [enlace](https://basededatostec.github.io/2017-03-24-mnormalizado/). | 
 | | |
 
 | Actividad | PODCAST: Resumen de la Unidad 3 y 4 | 
