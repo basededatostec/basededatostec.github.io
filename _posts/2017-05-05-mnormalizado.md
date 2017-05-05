@@ -21,6 +21,18 @@ Descarga este modelo dando clic en el siguiente [enlace](https://drive.google.co
 
 <br><br>Ahora somos capaces de usar <b>WorkBench</b> y sus herramientas, conocemos el valor de una <b>llave primaria</b> y una <b>llave foránea</b>. Así como las primeras tres <b>formas normales</b> que de acuerdo a la referencia y las fuentes de información que seguimos. la primer forma normal <b>1FN</b> debe tener campos atómicos, por lo que revisamos y efectuamos esta regla en nuestro modelo, dentro de la segunda forma normal <b>2FN</b> cada uno de los campos de las tablas existentes tienen que depender de su llave primaria, y la tercer forma normal <b>3FN</b> indica que no deben existir <b>llaves transitivas</b>, por ejemplo ninguna columna puede depender de una columna que no tenga una llave primaria.</p>
 
+__REFERENCIAS__
+
+__Vídeo en linea__
+
+_Zuzunaga, David. (2016, Mayo 16). Ejemplo de normalizacion.
+Recuperado de: https://www.youtube.com/watch?v=igctJY-YIjY_
+
+__Pagina Web__
+
+_Coronado, Pozo, Salvador. (2004, Diciembre, 10). MySQL con clase.
+Recuperado de: http://mysql.conclase.net/curso/?cap=004#NOR_1FN_
+
 |  Acerca de: | 
 | :------ | 
 | Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
