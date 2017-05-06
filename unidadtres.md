@@ -18,7 +18,7 @@ subtitle: Modelo relacional
 
 | Actividad | PODCAST: Resumen de la Unidad 3 y 4 | 
 | :------ |:--- |
-| ![PodCast](https://basededatostec.github.io/img/03podcast.png) | En esta actividad realizamos el resumen de la Unidad 3 y 4 a través de un PODCAST, puedes escucharlo en [este blog](https://basededatostec.github.io/podcast/ "escucha el podcast") o puedes dar clic en este [enlace](https://basededatostec.github.io/img/podcast.mp3 "reproductor externo") para escucharlo en un reproductor externo. | 
+| ![PodCast](https://basededatostec.github.io/img/03podcast.png) | En esta actividad realizamos el resumen de la Unidad 3 y 4 a través de un PODCAST, puedes escucharlo en [este blog](https://basededatostec.github.io/podcast/ "escucha el podcast") o puedes dar clic en este [enlace](https://basededatostec.github.io/img/podcast2.mp3 "reproductor externo") para escucharlo en un reproductor externo. | 
 | | |
 
 | Actividad | TEXTO: Resumen de la Unidad 3 | 
