@@ -16,7 +16,7 @@ subtitle: Normalización de bases de datos
 | ![PodCast](https://basededatostec.github.io/img/03podcast.png) | Como ultima actividad realizamos el resumen de la Unidad 3 y 4 a través de un PODCAST, puedes escucharlo en [este blog](https://basededatostec.github.io/podcast/ "escucha el podcast") o puedes dar clic en este [enlace](https://basededatostec.github.io/img/podcast2.mp3 "reproductor externo") para escucharlo en un reproductor externo. | 
 | | |
 
-| Actividad | TEXTO: Resumen de la Unidad 3 | 
+| Actividad | TEXTO: Resumen de la Unidad 4 | 
 | :------ |:--- |
 | ![PodCast](https://basededatostec.github.io/img/05resumen.png) | Un resumen completo de todos los subtemas de dicha unidad, los cuales puedes revisar en este sitio dando clic en [Leer mas...](https://basededatostec.github.io/2017-04-02-unidadtres/)| 
 | | |
