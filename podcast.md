@@ -3,7 +3,7 @@ layout: page
 title: Podcasts
 tags: [podcast]
 ---
-Sección de podcasts del sitio. Actualmente hay dos podcasts disponible.
+Sección de podcasts del sitio. Actualmente hay dos podcasts disponibles.
 #### Sub-Folders: 
 #### Total de Archivos: 2
 
