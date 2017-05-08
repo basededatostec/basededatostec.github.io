@@ -55,7 +55,7 @@ Y ahora nuestra nueva tabla:
 
 <p style="text-align: justify;">La <b>Tercera Forma Normal</b> nos habla de que: <b>ninguna columna puede depender de una columna</b> que no tenga una clave y no puede haber datos derivados.
 
-<br><br>En el ejemplo anterior se notan campos que dependian de la <b>clave principal</b> y que podrian incluirse en una tabla maestra. Pero supongamos un ejemplo donde ciertas columnas no dependen de la clave principal y si dependen de una columna de nuestra.</p>
+<br><br>En el ejemplo anterior se notan campos que dependian de la <b>clave principal</b> y que podrian incluirse en una tabla maestra. Pero supongamos un ejemplo donde ciertas columnas no dependen de la clave principal y si dependen de una columna.</p>
 
 <img src="https://basededatostec.github.io/img/46normalizado.png">
 
@@ -63,9 +63,7 @@ Y ahora nuestra nueva tabla:
 
 ### 4.6 FORMA NORMAL BOYCE-CODD
 
-<p style="text-align: justify;">Una relación está en Forma Normal Boyce-Codd si cualquier atributo sólo facilita información sobre claves candidatas, y no sobre atributos que no formen parte de ninguna clave candidata.
-
-<br><br>Esto significa que no deben existir interrelaciones entre atributos fuera de las claves candidatas.
+<p style="text-align: justify;">Una relación está en Forma Normal Boyce-Codd si cualquier atributo sólo facilita información sobre claves candidatas, y no sobre atributos que no formen parte de ninguna clave candidata. Esto significa que no deben existir interrelaciones entre atributos fuera de las claves candidatas.
 
 <br><br>Para ilustrar esta forma normal tomemos como ejemplo lo siguiente. 
 
