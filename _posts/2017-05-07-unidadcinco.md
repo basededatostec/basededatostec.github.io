@@ -88,14 +88,14 @@ __EJEMPLO__
 
 ### Join
 
-<p style="text-align: justify;">El <b>JOIN Naturral</b> es una operación binaria que permite combinar ciertas selecciones y un producto cartesiano en una sola operación. Se denota por el símbolo: <b>⋈</b> </p>
+<p style="text-align: justify;">El <b>JOIN Naturral</b> es una operación binaria que permite <b>combinar ciertas selecciones</b> y un <b>producto cartesiano</b> en una sola operación. Se denota por el símbolo: <b>⋈</b> </p>
 
 La reunión natural expresada en operaciones básicas equivale a:
 
-<br><br>R (X1;X2; ... Xm; Y1;Y2; ... ;Yn)
+<br>R (X1;X2; ... Xm; Y1;Y2; ... ;Yn)
 <br>S (Y1;Y2; ... ;Yn; Z1; Z2; ... ; Zp)
 
-<p style="text-align: justify;">Relación con atributos X, Y, Z y poblado por el conjunto de tuplas que tienen igual valor de Y en R y en S.</p>
+<p style="text-align: justify;">Relación con atributos <b>X</b>, <b>Y</b>, <b>Z</b> y poblado por el <b>conjunto</b> de tuplas que <b>tienen igual valor</b> de Y en R y en S.</p>
 
 π R U S (σ R.Y1=S.Y1 ^ R.Y2=S.Y2 ^...^ R.Yn=S.Yn (R X S))
 
@@ -105,7 +105,7 @@ __EJEMPLO__
 
 __Θ - Join__
 
-<p style="text-align: justify;">Equivalente al Join sólo que se permite usar cualquier condición de comparación. θ.</p>
+<p style="text-align: justify;">Equivalente al <b>Join</b> sólo que se permite usar cualquier condición de comparación. <b>θ</b>.</p>
 
 El resultado se construye:
 
@@ -113,3 +113,7 @@ El resultado se construye:
 - Selecciona sólo las tuplas que satisfacen a θ.
 
 Formato: <b> R ⋈θ S</b>
+
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/58algebra.png">
