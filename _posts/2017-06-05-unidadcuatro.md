@@ -23,3 +23,18 @@ __4.2 PRIMERA FORMA NORMAL__
 <p style="text-align: justify;">Esta primera <b>forma normal</b>, nos lleva a no repetir datos en nuestras tablas. Si nuestra tabla de ventas repite una y otra vez, el <b>nombre</b>, el <b>domicilio</b> y otros datos del Cliente, es que no hemos aplicado esta normalizaciòn. Si tenemos una tabla <b>clientes</b>, en la tabla <b>ventas</b>, solo debería figurar el código del <b>cliente</b>, para que el resto de los datos se puedan referenciar automaticamente en el proceso referente.
 
 .<br><br>Lo mismo ocurriría en una tabla de <b>detalle de ventas</b>, si por cada producto vendido colocamos el detalle del producto, con su descripción , medidas, etc. Tendriamos un desaprovechamiento de espacio y recursos muy grande. Para ello, tendremos nuestra tabla maestra de <b>Productos</b> y con solo grabar el código de dicho producto en nuestra tabla de ventas, será suficiente.</p>
+
+<img src="https://basededatostec.github.io/img/42normalizado.png">
+
+__4.3 DEPENDENCIAS FUNCIONALES Y TRANSITIVAS__
+
+<p style="text-align: justify;">Si tenemos una relación con tres conjuntos de atributos: X, Y y Z, y las siguientes dependencias X -> Y, Y -> Z, Y -> |X. Es decir X determina Y e Y determina Z, pero Y no determina X. En ese caso, decimos que Z tiene dependencia transitiva con respecto a X, a través de Y. 
+
+.<br><br>Intentaremos aclarar este concepto tan teórico con un ejemplo. Si tenemos esta relación:
+
+.<br><br>Ciudades(ciudad, población, superficie, renta, país, continente)
+
+.<br><br>Los atributos como población, superficie o renta tienen dependencia funcional de ciudad, así que de momento no nos preocupan.
+
+.<br><br>En esta relación podemos encontrar también las siguientes dependencias:
+ciudad -> país, país -> continente. Además, país -> ciudad. Es decir, cada ciudad pertenece a un país y cada país a un continente, pero en cada país puede haber muchas ciudades. En este caso continente tiene una dependencia funcional transitiva con respecto a ciudad, a través de país. Es decir, cada ciudad está en un país, pero también en un continente.</p>
