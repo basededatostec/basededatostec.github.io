@@ -37,17 +37,27 @@ tags: [unidad cuatro, resumen, introducción, normalizado]
 <br><br>En esta relación podemos encontrar también las siguientes dependencias:
 ciudad -> país, país -> continente. Además, país -> ciudad. Es decir, <b>cada ciudad pertenece a un país</b> y <b>cada país a un continente</b>, pero en cada país puede haber muchas ciudades. En este caso continente tiene una dependencia funcional transitiva con respecto a ciudad, a través de país. Es decir, cada ciudad está en un país, pero también en un continente.</p>
 
-__4.4 SEGUNDA FORMA NORMAL__
+### 4.4 SEGUNDA FORMA NORMAL
 
 <p style="text-align: justify;">La <b>Segunda Forma Normal</b> nos habla de que cada columna de la tabla debe depender de la clave. Esto significa que todo un registro debe depender únicamente de la <b>clave principal</b>, si tuvieramos alguna columna que se repite a lo largo de todos los registros, dichos datos deberian atomizarse en una nueva tabla.:</p>
 
 <img src="https://basededatostec.github.io/img/43normalizado.png">
 
-<p style="text-align: justify;">Si toda una venta tendrá el mismo numero de <b>Cliente</b> y la <b>misma Fecha</b>. ¿Por que no crear una Tabla de VENTAS y que contenga esos 2 datos? Es evidente que la columna ClienteVenta y FechaVenta se repetirán por cada venta realizada.</p>
+<p style="text-align: justify;">Si toda una venta tendrá el mismo numero de <b>Cliente</b> y la <b>misma Fecha</b>. ¿Por que no crear una Tabla de <b>VENTAS</b> y que contenga esos 2 datos? Es evidente que la columna <b>ClienteVenta</b> y <b>FechaVenta</b> se repetirán por cada venta realizada.</p>
 
 <img src="https://basededatostec.github.io/img/44normalizado.png">
 
 Y ahora nuestra nueva tabla:
 
 <img src="https://basededatostec.github.io/img/45normalizado.png">
+
+### 4.5 TERCERA FORMA NORMAL
+
+<p style="text-align: justify;">La 3ra Forma Normal nos habla de que: Ninguna Columna puede depender de una columna que no tenga una clave y no puede haber datos derivados.
+
+<br><br>En el ejemplo anterior se notan campos que dependian de la clave principal (VentaID) y que podrian incluirse en una tabla maestra. Pero supongamos un ejemplo donde ciertas columnas no dependen de la clave principal y si dependen de una columna de nuestra tabla.</p>
+
+<img src="https://basededatostec.github.io/img/46normalizado.png">
+
+<p style="text-align: justify;">Los campos DESCRIPCION , MEDIDA y PROVEEDOR no dependen de VENTAID, no deberian estar dentro de la tabla de detalle de ventas, ya que dependen de PRODUCTOID. No se trata ya de eliminar grupos repetidos de datos, sino que ante la inclusion de una clave perteneciente a otra tabla, cualquier campo que sea subordinado de dicha clave debe estar en otra tabla y no en nuestra tabla detalle.</p>
 
