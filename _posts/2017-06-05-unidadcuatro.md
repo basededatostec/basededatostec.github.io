@@ -39,11 +39,11 @@ ciudad -> país, país -> continente. Además, país -> ciudad. Es decir, <b>cad
 
 __4.4 SEGUNDA FORMA NORMAL__
 
-<p style="text-align: justify;">La Segunda Forma Normal nos habla de que cada columna de la tabla debe depender de la clave. Esto significa que todo un registro debe depender únicamente de la clave principal, si tuvieramos alguna columna que se repite a lo largo de todos los registros, dichos datos deberian atomizarse en una nueva tabla. Veamos el siguiente ejemplo para explicarlo a detalle:</p>
+<p style="text-align: justify;">La <b>Segunda Forma Normal</b> nos habla de que cada columna de la tabla debe depender de la clave. Esto significa que todo un registro debe depender únicamente de la <b>clave principal</b>, si tuvieramos alguna columna que se repite a lo largo de todos los registros, dichos datos deberian atomizarse en una nueva tabla.:</p>
 
 <img src="https://basededatostec.github.io/img/43normalizado.png">
 
-<p style="text-align: justify;">Si toda una venta tendrá el mismo numero de Cliente y la misma Fecha. ¿Por que no crear una Tabla de VENTAS y que contenga esos 2 datos ? Es evidente que la columna ClienteVenta y FechaVenta se repetirán por cada venta realizada. Es por ello que proponemos el siguiente esquema:</p>
+<p style="text-align: justify;">Si toda una venta tendrá el mismo numero de <b>Cliente</b> y la <b>misma Fecha</b>. ¿Por que no crear una Tabla de VENTAS y que contenga esos 2 datos? Es evidente que la columna ClienteVenta y FechaVenta se repetirán por cada venta realizada.</p>
 
 <img src="https://basededatostec.github.io/img/44normalizado.png">
 
