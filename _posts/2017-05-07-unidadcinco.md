@@ -118,7 +118,9 @@ __EJEMPLO__
 
 ### División
 
-<p style="text-align: justify;">Sean <b>R</b> y <b>S</b> dos relaciones con esquemas (A1, ... ,An;B1, ... ,Bm) y (B1, ... , Bm) respectivamente.</p>
+<p style="text-align: justify;">Sean <b>R</b> y <b>S</b> dos relaciones con esquemas:
+
+<br><br>(A1, ... ,An;B1, ... ,Bm) y (B1, ... , Bm) respectivamente.</p>
 
 La operación: <B>(R ÷ S)</B> da como resultado otra relación.
 
