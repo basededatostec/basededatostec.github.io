@@ -62,7 +62,7 @@ __EJEMPLO__
 
 ### Producto cartesiano
 
-<p style="text-align: justify;">Produce el conjunto de todas las tuplas t tales que t es el encadenamiento de una tupla <b>a</b> perteneciente a <b>A</b> y de una <b>b</b> que pertenece a <b>B</b>. se utiliza el <b>símbolo X</b> para representar el producto. Si R y S tienen atributos en común es necesario <b>renombrarlos</b>. Para evitar <b>ambigüedades</b> se precede el nombre del atributo con el nombre de la relación.</p>
+<p style="text-align: justify;">Produce el conjunto de todas las tuplas t tales que t es el encadenamiento de una tupla <b>a</b> perteneciente a <b>A</b> y de una <b>b</b> que pertenece a <b>B</b>. se utiliza el <b>símbolo X</b> para representar el producto. Si R y S tienen atributos en común se <b>renombran</b>. Para evitar <b>ambigüedades</b> se precede el nombre del atributo con el nombre de la relación.</p>
 
 Formato: <b> R X S</b>
 
