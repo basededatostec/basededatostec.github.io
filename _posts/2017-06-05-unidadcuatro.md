@@ -53,11 +53,32 @@ Y ahora nuestra nueva tabla:
 
 ### 4.5 TERCERA FORMA NORMAL
 
-<p style="text-align: justify;">La 3ra Forma Normal nos habla de que: Ninguna Columna puede depender de una columna que no tenga una clave y no puede haber datos derivados.
+<p style="text-align: justify;">La <b>Tercera Forma Normal</b> nos habla de que: <b>ninguna columna puede depender de una columna</b> que no tenga una clave y no puede haber datos derivados.
 
-<br><br>En el ejemplo anterior se notan campos que dependian de la clave principal (VentaID) y que podrian incluirse en una tabla maestra. Pero supongamos un ejemplo donde ciertas columnas no dependen de la clave principal y si dependen de una columna de nuestra tabla.</p>
+<br><br>En el ejemplo anterior se notan campos que dependian de la <b>clave principal</b> y que podrian incluirse en una tabla maestra. Pero supongamos un ejemplo donde ciertas columnas no dependen de la clave principal y si dependen de una columna de nuestra.</p>
 
 <img src="https://basededatostec.github.io/img/46normalizado.png">
 
-<p style="text-align: justify;">Los campos DESCRIPCION , MEDIDA y PROVEEDOR no dependen de VENTAID, no deberian estar dentro de la tabla de detalle de ventas, ya que dependen de PRODUCTOID. No se trata ya de eliminar grupos repetidos de datos, sino que ante la inclusion de una clave perteneciente a otra tabla, cualquier campo que sea subordinado de dicha clave debe estar en otra tabla y no en nuestra tabla detalle.</p>
+<p style="text-align: justify;">Los campos <b>DESCRIPCION</b>, <b>MEDIDA</b> y <b>PROVEEDOR</b> no dependen de <b>VENTAID</b>, no deberian estar dentro de la tabla de detalle de ventas, ya que dependen de <b>PRODUCTOID</b>. No se trata ya de eliminar grupos repetidos de datos, sino que ante la inclusion de una clave perteneciente a otra tabla, cualquier campo que sea subordinado de dicha clave debe estar en otra tabla y no en nuestra tabla detalle.</p>
+
+### 4.6 FORMA NORMAL BOYCE-CODD
+
+<p style="text-align: justify;">Una relación está en Forma Normal Boyce-Codd si cualquier atributo sólo facilita información sobre claves candidatas, y no sobre atributos que no formen parte de ninguna clave candidata.
+
+<br><br>Esto significa que no deben existir interrelaciones entre atributos fuera de las claves candidatas.
+
+<br><br>Para ilustrar esta forma normal tomemos como ejemplo lo siguiente. 
+
+<br><br>Las ocupaciones de habitaciones de un hotel.
+Ocupación(No_cliente, Nombre_cliente, No_habitación, fecha_entrada)
+Habitación(No_habitación(PK), precio_noche, tipo_habitación)
+
+<br><br>En la primera relación los atributos No_cliente y Nombre_cliente sólo proporcionan información entre ellos mutuamente, pero ninguno de ellos es una clave candidata.
+
+<br><br>Esta estructura puede producir redundancia, sobre todo en el caso de clientes habituales, donde se repetirá la misma información cada vez que el mismo cliente se aloje en el hotel.
+
+<br><br>La solución, como siempre, es simple, y consiste en separar esta relación en dos diferentes:
+Ocupación(No_cliente, No_habitación, fecha_entrada)
+Cliente(No_cliente(PK), Nombre_cliente)
+Habitación(No_habitación(PK), precio_noche, tipo_habitación)</p>
 
