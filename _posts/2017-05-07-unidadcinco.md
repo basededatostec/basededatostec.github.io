@@ -133,4 +133,5 @@ __EJEMPLO__
 
 <img src="https://basededatostec.github.io/img/59algebra.png">
 
+
 ### 5.2 ÁLGEBRA RELACIONAL EXTENDIDA
