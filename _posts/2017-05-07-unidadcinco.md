@@ -92,12 +92,10 @@ __EJEMPLO__
 
 La reunión natural expresada en operaciones básicas equivale a:
 
-<br>R (X1;X2; ... Xm; Y1;Y2; ... ;Yn)
+R (X1;X2; ... Xm; Y1;Y2; ... ;Yn)
 <br>S (Y1;Y2; ... ;Yn; Z1; Z2; ... ; Zp)
 
-<p style="text-align: justify;">Relación con atributos <b>X</b>, <b>Y</b>, <b>Z</b> y poblado por el <b>conjunto</b> de tuplas que <b>tienen igual valor</b> de Y en R y en S.</p>
-
-π R U S (σ R.Y1=S.Y1 ^ R.Y2=S.Y2 ^...^ R.Yn=S.Yn (R X S))
+<p style="text-align: justify;">Relación con atributos <b>X</b>, <b>Y</b>, <b>Z</b> y poblado por el <b>conjunto</b> de tuplas que <b>tienen igual valor</b> de Y en R y en S. π R U S (σ R.Y1=S.Y1 ^ R.Y2=S.Y2 ^...^ R.Yn=S.Yn (R X S))</p>
 
 __EJEMPLO__
 
