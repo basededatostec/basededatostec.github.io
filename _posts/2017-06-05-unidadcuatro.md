@@ -28,13 +28,15 @@ __4.2 PRIMERA FORMA NORMAL__
 
 __4.3 DEPENDENCIAS FUNCIONALES Y TRANSITIVAS__
 
-<p style="text-align: justify;">Si tenemos una relación con tres conjuntos de atributos: X, Y y Z, y las siguientes dependencias X -> Y, Y -> Z, Y -> |X. Es decir X determina Y e Y determina Z, pero Y no determina X. En ese caso, decimos que Z tiene dependencia transitiva con respecto a X, a través de Y. 
+<p style="text-align: justify;">Intentaremos aclarar este concepto tan teórico con un ejemplo. Si tenemos esta relación:
 
-.<br><br>Intentaremos aclarar este concepto tan teórico con un ejemplo. Si tenemos esta relación:
+.<br><br><b>Ciudades</b>(ciudad, población, superficie, renta, país, continente)
 
-.<br><br>Ciudades(ciudad, población, superficie, renta, país, continente)
-
-.<br><br>Los atributos como población, superficie o renta tienen dependencia funcional de ciudad, así que de momento no nos preocupan.
+.<br><br>Los atributos como <b>población</b>, <b>superficie</b> o <b>renta</b> tienen dependencia funcional de ciudad, así que de momento no nos preocupan.
 
 .<br><br>En esta relación podemos encontrar también las siguientes dependencias:
-ciudad -> país, país -> continente. Además, país -> ciudad. Es decir, cada ciudad pertenece a un país y cada país a un continente, pero en cada país puede haber muchas ciudades. En este caso continente tiene una dependencia funcional transitiva con respecto a ciudad, a través de país. Es decir, cada ciudad está en un país, pero también en un continente.</p>
+ciudad -> país, país -> continente. Además, país -> ciudad. Es decir, <b>cada ciudad pertenece a un país</b> y <b>cada país a un continente</b>, pero en cada país puede haber muchas ciudades. En este caso continente tiene una dependencia funcional transitiva con respecto a ciudad, a través de país. Es decir, cada ciudad está en un país, pero también en un continente.</p>
+
+__4.4 SEGUNDA FORMA NORMAL__
+
+<p style="text-align: justify;">La Segunda Forma Normal nos habla de que cada columna de la tabla debe depender de la clave. Esto significa que todo un registro debe depender únicamente de la clave principal, si tuvieramos alguna columna que se repite a lo largo de todos los registros, dichos datos deberian atomizarse en una nueva tabla. Veamos el siguiente ejemplo para explicarlo a detalle:</p>
