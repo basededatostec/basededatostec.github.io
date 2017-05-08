@@ -29,7 +29,7 @@ __EJEMPLO__
 <p style="text-align: justify;">La operación de proyección permite <b>quitar ciertos atributos</b> de la relación, esta operación es unaria, copiando su relación base dada como argumento y quitando ciertas columnas, La proyección se señala con la letra griega pi
 mayúscula <b>(Π)</b>. Como subíndice de <b>Π</b> se coloca una <b>lista de todos los atributos</b> que se desea aparezcan en el resultado. La relación argumento se escribe después de <b>Π</b> entre paréntesis.</p>
 
-Formato: <b>π lista de atributos (R)</b>Nombre de la Relación
+Formato: <b>π lista de atributos (R)</b> Nombre de la Relación
 
 __EJEMPLO__
 
@@ -37,15 +37,25 @@ __EJEMPLO__
 
 ### Unión
 
-<p style="text-align: justify;">Produce el conjunto de todas las tuplas que pertenecen ya sea a A o a B o a Ambas. Al igual que en teoría de conjuntos el <b>símbolo ∪</b> representa aquí la <b>unión</b> de dos relaciones.</p>
+<p style="text-align: justify;">Conjunto de todas las tuplas que pertenecen ya sea a A o a B o a Ambas. Al igual que en teoría de conjuntos el <b>símbolo ∪</b> representa aquí la <b>unión</b> de dos relaciones.</p>
 
 Al adaptar los operadores de conjuntos a relaciones se debe asegurar que exista compatibilidad entre ellas.
 - Tienen el mismo grado.
 - Los atributos tienen el mismo nombre.
 - El dominio del atributo-i de R es el mismo que el dominio del atributo-i en S, ∀i
 
-Formato: <b>π lista de atributos (R)</b>Nombre de la Relación
+Formato: <b> R ∪ S</b>
 
 __EJEMPLO__
 
-<img src="https://basededatostec.github.io/img/52algebra.png">
+<img src="https://basededatostec.github.io/img/53algebra.png">
+
+### Diferencia
+<
+<p style="text-align: justify;">Produce el conjunto de todas las tuplas t que pertenecen a <b>A</b> y no pertenecen a <b>B</b>, el simbolo utilizado es el clasio de la resta <b>-</b>. </p>
+
+Formato: <b> R - S</b>
+
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/54algebra.png">
