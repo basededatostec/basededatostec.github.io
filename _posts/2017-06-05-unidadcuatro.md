@@ -20,9 +20,9 @@ tags: [unidad cuatro, resumen, introducción, normalizado]
 
 __4.2 PRIMERA FORMA NORMAL__
 
-<p style="text-align: justify;">Esta primera <b>forma normal</b>, nos lleva a no repetir datos en nuestras tablas. Si nuestra tabla de ventas repite una y otra vez, el <b>nombre</b>, el <b>domicilio</b> y otros datos del Cliente, es que no hemos aplicado esta normalizaciòn. Si tenemos una tabla <b>clientes</b>, en la tabla <b>ventas</b>, solo debería figurar el código del <b>cliente</b>, para que el resto de los datos se puedan referenciar automaticamente en el proceso referente.
+<p style="text-align: justify;">Esta primera <b>forma normal</b>, nos lleva a no repetir datos en nuestras tablas. Si nuestra tabla de ventas repite una y otra vez, el <b>nombre</b>, el <b>domicilio</b> y otros datos del Cliente, es que no hemos aplicado esta normalizaciòn. Si tenemos una tabla <b>clientes</b>, en la tabla <b>ventas</b>, solo debería figurar el código del <b>cliente</b>, para que el resto de los datos se puedan referenciar automaticamente en el proceso.
 
-.<br><br>Lo mismo ocurriría en una tabla de <b>detalle de ventas</b>, si por cada producto vendido colocamos el detalle del producto, con su descripción , medidas, etc. Tendriamos un desaprovechamiento de espacio y recursos muy grande. Para ello, tendremos nuestra tabla maestra de <b>Productos</b> y con solo grabar el código de dicho producto en nuestra tabla de ventas, será suficiente.</p>
+<br><br>Lo mismo ocurriría en una tabla de <b>detalle de ventas</b>, si por cada producto vendido colocamos el detalle del producto, con su descripción , medidas, etc. Tendriamos un desaprovechamiento de espacio y recursos muy grande. Para ello, tendremos nuestra tabla maestra de <b>Productos</b> y con solo grabar el código de dicho producto.</p>
 
 <img src="https://basededatostec.github.io/img/42normalizado.png">
 
