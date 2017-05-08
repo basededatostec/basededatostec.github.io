@@ -14,7 +14,10 @@ tags: [unidad cinco, resumen, introducción, algebra relacional]
 
 <img src="https://basededatostec.github.io/img/50algebra.png">
 
-__Seleccion__
+### Seleccion
 
-<p style="text-align: justify;">El operador de selección opta por tuplas que satisfagan cierto predicado, se utiliza la letra griega sigma minúscula <b>(σ)</b> para señalar la selección. El predicado aparece como <b>subíndice de σ</b>. La Relación que constituye el argumento se da entre paréntesis después de la <b>σ</b>. </p>Operadores: (>, <, >=, <=, =, <>, ∧, ∨, ¬)
+<p style="text-align: justify;">El operador de selección opta por tuplas que satisfagan cierto predicado, se utiliza la letra griega sigma minúscula <b>(σ)</b> para señalar la selección. El predicado aparece como <b>subíndice de σ</b>. La Relación que constituye el argumento se da entre paréntesis después de la <b>σ</b>. </p>Formato: σ (condición) (R) Tabla
 
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/51algebra.png">
