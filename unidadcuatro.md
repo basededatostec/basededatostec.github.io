@@ -18,5 +18,5 @@ subtitle: Normalización de bases de datos
 
 | Actividad | TEXTO: Resumen de la Unidad 4 | 
 | :------ |:--- |
-| ![PodCast](https://basededatostec.github.io/img/05resumen.png) | Un resumen completo de todos los subtemas de dicha unidad, los cuales puedes revisar en este sitio dando clic en [Leer mas...](https://basededatostec.github.io/2017-04-02-unidadtres/)| 
+| ![PodCast](https://basededatostec.github.io/img/05resumen.png) | Un resumen completo de todos los subtemas de dicha unidad, los cuales puedes revisar en este sitio dando clic en [Leer mas...](https://basededatostec.github.io/2017-05-06-unidadcuatro/)| 
 | | |
