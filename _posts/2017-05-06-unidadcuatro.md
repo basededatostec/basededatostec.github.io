@@ -84,7 +84,7 @@ Y ahora nuestra nueva tabla:
 
 ### 4.7 OTRAS FORMAS NORMALES
 
-<p style="text-align: justify;">Tomemos por ejemplo la <b>tabla Agenda</b>, pero dejando sólo los atributos multivaluados:
+<p style="text-align: justify;">Tomemos por ejemplo la <b>tabla Agenda</b>, dejando sólo los atributos multivaluados:
 
 <b>Agenda</b>(nombre, teléfono, correo)
 
