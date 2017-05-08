@@ -39,7 +39,7 @@ __EJEMPLO__
 
 <p style="text-align: justify;">Conjunto de todas las tuplas que pertenecen ya sea a A o a B o a Ambas. Al igual que en teoría de conjuntos el <b>símbolo ∪</b> representa aquí la <b>unión</b> de dos relaciones.</p>
 
-Al adaptar los operadores de conjuntos a relaciones se debe asegurar que exista compatibilidad entre ellas.
+<p style="text-align: justify;">Al adaptar los operadores de conjuntos a relaciones se debe asegurar que exista compatibilidad entre ellas.</p>
 - Tienen el mismo grado.
 - Los atributos tienen el mismo nombre.
 - El dominio del atributo-i de R es el mismo que el dominio del atributo-i en S, ∀i
@@ -51,11 +51,23 @@ __EJEMPLO__
 <img src="https://basededatostec.github.io/img/53algebra.png">
 
 ### Diferencia
-<
-<p style="text-align: justify;">Produce el conjunto de todas las tuplas t que pertenecen a <b>A</b> y no pertenecen a <b>B</b>, el simbolo utilizado es el clasio de la resta <b>-</b>. </p>
+
+<p style="text-align: justify;">Produce el conjunto de todas las tuplas t que <b>pertenecen</b> a <b>A</b> y <b>no pertenecen</b> a <b>B</b>, el simbolo utilizado es el clasio de la resta <b>-</b>. </p>
 
 Formato: <b> R - S</b>
 
 __EJEMPLO__
 
 <img src="https://basededatostec.github.io/img/54algebra.png">
+
+### Producto cartesiano
+
+<p style="text-align: justify;">Produce el conjunto de todas las tuplas t tales que t es el encadenamiento de una tupla <b>a</b> perteneciente a <b>A</b> y de una <b>b</b> que pertenece a <b>B</b>. se utiliza el <b>símbolo X</b> para representar el producto.
+
+<br><br>Si R y S tienen atributos en común es necesario renombrarlos. Para evitar ambigüedades se precede el nombre del atributo con el nombre de la relación.</p>
+
+Formato: <b> R X S</b>
+
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/55algebra.png">
