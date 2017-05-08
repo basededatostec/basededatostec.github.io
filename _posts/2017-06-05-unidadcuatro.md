@@ -80,28 +80,41 @@ Y ahora nuestra nueva tabla:
 <br><b>Cliente</b>(No_cliente(PK), Nombre_cliente)
 <br><b>Habitación</b>(No_habitación(PK), precio_noche, tipo_habitación)</p>
 
+<img src="https://basededatostec.github.io/img/47normalizado.png">
+
 ### 4.7 OTRAS FORMAS NORMALES
 
-<p style="text-align: justify;">Tomemos por ejemplo la tabla Agenda, pero dejando sólo los atributos multivaluados:
-Agenda(nombre, teléfono, correo)
+<p style="text-align: justify;">Tomemos por ejemplo la <b>tabla Agenda</b>, pero dejando sólo los atributos multivaluados:
 
-<br><br>Lo primero que debemos hacer es buscar las claves y las dependencias. Recordemos que las claves candidatas deben identificar de forma unívoca cada tupla. De modo que estamos obligados a usar los tres atributos para formar la clave candidata.
+<b>Agenda</b>(nombre, teléfono, correo)
+
+<br><br>Lo primero que debemos hacer es buscar las <b>claves</b> y las <b>dependencias</b>. Recordemos que las claves candidatas deben identificar de <b>forma unívoca</b> cada tupla. De modo que estamos obligados a usar los tres atributos para formar la clave candidata.
 
 <br><br>Pero las dependencias que tenemos son:
-nombre ->-> teléfono
-nombre ->-> correo
+<br>nombre ->-> <b>teléfono</b>
+<br>nombre ->-> <b>correo</b>
 
-<br><br>Y nombre no es clave candidata de esta relación.
+<br><br>Y nombre no es <b>clave candidata</b> de esta relación.
 
 <br><br>Resumiendo, debemos separar esta relación en varias (tantas como atributos multivaluados tenga).
-Teléfonos(nombre, teléfono)
-Correos(nombre, correo)
+<br><b>Teléfonos</b>(nombre, teléfono)
+<br><b>Correos</b>(nombre, correo)
 
 <br><br>Ahora en las dos relaciones se cumple la cuarta forma normal.</p>
 
 __QUINTA FORMA NORMAL 5FN__
 
-<p style="text-align: justify;">Existe una quinta forma normal, sirve para eliminar dependencias de proyección o reunión, que raramente se encuentran en las bases de datos vistas con regularidad.</p>
+<p style="text-align: justify;">Existe una quinta forma normal, sirve para <b>eliminar dependencias de proyección</b>, que raramente se encuentran en las bases de datos vistas con regularidad.</p>
 
+__Fuentes de información__
 
+[Modelo Relacional: Normalización](http://valdezesquivel-bd.blogspot.mx/2014/09/actividad-8.html "fuente")
+
+[Normalización de Bases de Datos](https://cvva.wordpress.com/2007/12/04/normalizacion-de-bases-de-datos-las-3-formas-normales/ "fuente")
+
+|  Acerca de: | 
+| :------ | 
+| Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
+| Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
+| <a href="https://basededatostec.github.io/unidadtres/">Actividades Unidad 3</a> |
 
