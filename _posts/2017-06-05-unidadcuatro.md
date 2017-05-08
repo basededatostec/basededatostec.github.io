@@ -63,20 +63,20 @@ Y ahora nuestra nueva tabla:
 
 ### 4.6 FORMA NORMAL BOYCE-CODD
 
-<p style="text-align: justify;">Una relación está en Forma Normal Boyce-Codd si cualquier atributo sólo facilita información sobre claves candidatas, y no sobre atributos que no formen parte de ninguna clave candidata. Esto significa que no deben existir interrelaciones entre atributos fuera de las claves candidatas.
+<p style="text-align: justify;">Una relación está en <b>Forma Normal Boyce-Codd</b> si cualquier atributo sólo facilita información sobre claves candidatas, y no sobre atributos que no formen parte de ninguna clave candidata. Esto significa que no deben existir <b>interrelaciones entre atributos</b> fuera de las claves candidatas.
 
 <br><br>Para ilustrar esta forma normal tomemos como ejemplo lo siguiente. 
 
 <br><br>Las ocupaciones de habitaciones de un hotel.
-<br>Ocupación(No_cliente, Nombre_cliente, No_habitación, fecha_entrada)
-<br>Habitación(No_habitación(PK), precio_noche, tipo_habitación)
+<br><b>Ocupación</b>(No_cliente, Nombre_cliente, No_habitación, fecha_entrada)
+<br><b>Habitación</b>(No_habitación(PK), precio_noche, tipo_habitación)
 
-<br><br>En la primera relación los atributos No_cliente y Nombre_cliente sólo proporcionan información entre ellos mutuamente, pero ninguno de ellos es una clave candidata.
+<br><br>En la primera relación los atributos <b>No_cliente</b> y <b>Nombre_cliente</b> sólo proporcionan información entre ellos mutuamente, pero ninguno de ellos es una clave candidata.
 
-<br><br>Esta estructura puede producir redundancia, sobre todo en el caso de clientes habituales, donde se repetirá la misma información cada vez que el mismo cliente se aloje en el hotel.
+<br><br>Esta estructura puede producir redundancia, sobre todo en el caso de <b>clientes habituales</b>, donde se repetirá la misma información cada vez que el mismo cliente se aloje en el hotel.
 
 <br><br>La solución, como siempre, es simple, y consiste en separar esta relación en dos diferentes:
-<br>Ocupación(No_cliente, No_habitación, fecha_entrada)
-<br>Cliente(No_cliente(PK), Nombre_cliente)</p>
-Habitación(No_habitación(PK), precio_noche, tipo_habitación)</p>
+<br><b>Ocupación</b>(No_cliente, No_habitación, fecha_entrada)
+<br><b>Cliente</b>(No_cliente(PK), Nombre_cliente)</p>
+<b>Habitación</b>(No_habitación(PK), precio_noche, tipo_habitación)</p>
 
