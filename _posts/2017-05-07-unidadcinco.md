@@ -118,13 +118,9 @@ __EJEMPLO__
 
 ### División
 
-<p style="text-align: justify;">Sean R y S dos relaciones con esquemas
+<p style="text-align: justify;">Sean <b>R</b> y <b>S</b> dos relaciones con esquemas (A1, ... ,An;B1, ... ,Bm) y (B1, ... , Bm) respectivamente.</p>
 
-<br><br>(A1, ... ,An;B1, ... ,Bm) y (B1, ... , Bm) respectivamente.</p>
-
-La operación:
-<br>(R ÷ S)
-<br>da como resultado otra relación
+La operación: <B>(R ÷ S)</B> da como resultado otra relación.
 
 - cuyo esquema es (A1, ... ,An)
 - y su contenido son las tuplas tomadas a partir de las de r (R) tales que su valor (a1, ... ,an) está asociado en r (R) con TODOS los valores (b1, ... ,bm) que están en s (S)
