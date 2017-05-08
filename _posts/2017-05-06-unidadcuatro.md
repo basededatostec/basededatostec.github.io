@@ -96,7 +96,7 @@ Y ahora nuestra nueva tabla:
 
 <br><br>Y nombre no es <b>clave candidata</b> de esta relación.
 
-<br><br>Resumiendo, debemos separar esta relación en varias (tantas como atributos multivaluados tenga).
+<br><br>Debemos separar esta relación en varias, tantas como atributos multivaluados tenga.
 <br><b>Teléfonos</b>(nombre, teléfono)
 <br><b>Correos</b>(nombre, correo)
 
@@ -116,5 +116,5 @@ __Fuentes de información__
 | :------ | 
 | Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
 | Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
-| <a href="https://basededatostec.github.io/unidadtres/">Actividades Unidad 3</a> |
+| <a href="https://basededatostec.github.io/unidadcuatro/">Actividades Unidad 4</a> |
 
