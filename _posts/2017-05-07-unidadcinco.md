@@ -69,3 +69,19 @@ Formato: <b> R X S</b>
 __EJEMPLO__
 
 <img src="https://basededatostec.github.io/img/55algebra.png">
+
+### Intersección
+
+<p style="text-align: justify;">Produce el conjunto de todas las tuplas pertenecientes a A y B. Al igual que en teoría de conjuntos el símbolo ∩ representa aquí la intersección entre dos relaciones. Dentro del conjunto de operaciones en el álgebra relacional aparecen estas operaciones que no añaden potencia al algebra, pero simplifican las consultas habituales.</p>
+
+ <br><br>Cada operación re-emplaza un conjunto de operaciones “normales”.
+
+- Intersección de conjuntos
+- Reunión natural
+- División
+
+Formato: <b> R ∩ S = R – (R – S)</b>
+
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/56algebra.png">
