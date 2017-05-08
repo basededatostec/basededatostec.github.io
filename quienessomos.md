@@ -9,5 +9,5 @@ subtitle:
 
 |  | Equipo New Jackers |  
 | :------- | :------ | 
-| <img src="https://www.firebird.es/wp-content/uploads/2017/01/Linux-avatar.jpeg" width="95" height="95" title="Usuario"> | Hernández Salinas Lucio <br><i>Estudiante de Ingeniería en Sistemas Computacionales.</i>  | 
+| <img src="http://cdn.overclock.net/6/6f/6ff6d9fe_1058452Linux-avatar.jpeg" width="95" height="95" title="Usuario"> | Hernández Salinas Lucio <br><i>Estudiante de Ingeniería en Sistemas Computacionales.</i>  | 
 | <img src="https://basededatostec.github.io/img/32user.png" width="95" height="95" title="Usuario">   | Sanchez Casañas Jose Maria <br><i>Estudiante de Ingeniería en Sistemas Computacionales.</i>   | 
