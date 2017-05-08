@@ -18,7 +18,7 @@ tags: [unidad cuatro, resumen, introducción, normalizado]
 
 <br><br><b>2.-</b> Que los hechos distintos se <b>almacenen</b> en sitios distintos.</p>
 
-__4.2 PRIMERA FORMA NORMAL__
+### 4.2 PRIMERA FORMA NORMAL
 
 <p style="text-align: justify;">Esta primera <b>forma normal</b>, nos lleva a no repetir datos en nuestras tablas. Si nuestra tabla de ventas repite una y otra vez, el <b>nombre</b>, el <b>domicilio</b> y otros datos del Cliente, es que no hemos aplicado esta normalizaciòn. Si tenemos una tabla <b>clientes</b>, en la tabla <b>ventas</b>, solo debería figurar el código del <b>cliente</b>, para que el resto de los datos se puedan referenciar automaticamente en el proceso.
 
@@ -26,17 +26,28 @@ __4.2 PRIMERA FORMA NORMAL__
 
 <img src="https://basededatostec.github.io/img/42normalizado.png">
 
-__4.3 DEPENDENCIAS FUNCIONALES Y TRANSITIVAS__
+### 4.3 DEPENDENCIAS FUNCIONALES Y TRANSITIVAS
 
 <p style="text-align: justify;">Intentaremos aclarar este concepto tan teórico con un ejemplo. Si tenemos esta relación:
 
-.<br><br><b>Ciudades</b>(ciudad, población, superficie, renta, país, continente)
+<br><br><b>Ciudades</b>(ciudad, población, superficie, renta, país, continente)
 
-.<br><br>Los atributos como <b>población</b>, <b>superficie</b> o <b>renta</b> tienen dependencia funcional de ciudad, así que de momento no nos preocupan.
+<br><br>Los atributos como <b>población</b>, <b>superficie</b> o <b>renta</b> tienen dependencia funcional de ciudad, así que de momento no nos preocupan.
 
-.<br><br>En esta relación podemos encontrar también las siguientes dependencias:
+<br><br>En esta relación podemos encontrar también las siguientes dependencias:
 ciudad -> país, país -> continente. Además, país -> ciudad. Es decir, <b>cada ciudad pertenece a un país</b> y <b>cada país a un continente</b>, pero en cada país puede haber muchas ciudades. En este caso continente tiene una dependencia funcional transitiva con respecto a ciudad, a través de país. Es decir, cada ciudad está en un país, pero también en un continente.</p>
 
 __4.4 SEGUNDA FORMA NORMAL__
 
 <p style="text-align: justify;">La Segunda Forma Normal nos habla de que cada columna de la tabla debe depender de la clave. Esto significa que todo un registro debe depender únicamente de la clave principal, si tuvieramos alguna columna que se repite a lo largo de todos los registros, dichos datos deberian atomizarse en una nueva tabla. Veamos el siguiente ejemplo para explicarlo a detalle:</p>
+
+<img src="https://basededatostec.github.io/img/43normalizado.png">
+
+<p style="text-align: justify;">Si toda una venta tendrá el mismo numero de Cliente y la misma Fecha. ¿Por que no crear una Tabla de VENTAS y que contenga esos 2 datos ? Es evidente que la columna ClienteVenta y FechaVenta se repetirán por cada venta realizada. Es por ello que proponemos el siguiente esquema:</p>
+
+<img src="https://basededatostec.github.io/img/44normalizado.png">
+
+Y ahora nuestra nueva tabla:
+
+<img src="https://basededatostec.github.io/img/45normalizado.png">
+
