@@ -125,7 +125,7 @@ __EJEMPLO__
 La operación: <B>(R ÷ S)</B> da como resultado otra relación.
 
 - cuyo esquema es (A1, ... ,An)
-- y su contenido son las tuplas tomadas a partir de las de r (R) tales que su valor (a1, ... ,an) está asociado en r (R) con TODOS los valores (b1, ... ,bm) que están en s (S)
+- las tuplas tomadas a partir de las de r (R) tales que su valor (a1, ... ,an) está asociado en r (R) con TODOS los valores (b1, ... ,bm) que están en s (S)
 
 Formato: <b> (R ÷ S)</b>
 
