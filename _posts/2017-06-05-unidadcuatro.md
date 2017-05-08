@@ -68,15 +68,15 @@ Y ahora nuestra nueva tabla:
 <br><br>Para ilustrar esta forma normal tomemos como ejemplo lo siguiente. 
 
 <br><br>Las ocupaciones de habitaciones de un hotel.
-Ocupación(No_cliente, Nombre_cliente, No_habitación, fecha_entrada)
-Habitación(No_habitación(PK), precio_noche, tipo_habitación)
+<br>Ocupación(No_cliente, Nombre_cliente, No_habitación, fecha_entrada)
+<br>Habitación(No_habitación(PK), precio_noche, tipo_habitación)
 
 <br><br>En la primera relación los atributos No_cliente y Nombre_cliente sólo proporcionan información entre ellos mutuamente, pero ninguno de ellos es una clave candidata.
 
 <br><br>Esta estructura puede producir redundancia, sobre todo en el caso de clientes habituales, donde se repetirá la misma información cada vez que el mismo cliente se aloje en el hotel.
 
 <br><br>La solución, como siempre, es simple, y consiste en separar esta relación en dos diferentes:
-Ocupación(No_cliente, No_habitación, fecha_entrada)
-Cliente(No_cliente(PK), Nombre_cliente)
+<br>Ocupación(No_cliente, No_habitación, fecha_entrada)
+<br>Cliente(No_cliente(PK), Nombre_cliente)</p>
 Habitación(No_habitación(PK), precio_noche, tipo_habitación)</p>
 
