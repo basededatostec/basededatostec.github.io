@@ -34,3 +34,18 @@ Formato: <b>π lista de atributos (R)</b>Nombre de la Relación
 __EJEMPLO__
 
 <img src="https://basededatostec.github.io/img/52algebra.png">
+
+### Unión
+
+<p style="text-align: justify;">Produce el conjunto de todas las tuplas que pertenecen ya sea a A o a B o a Ambas. Al igual que en teoría de conjuntos el <b>símbolo ∪</b> representa aquí la <b>unión</b> de dos relaciones.</p>
+
+Al adaptar los operadores de conjuntos a relaciones se debe asegurar que exista compatibilidad entre ellas.
+- Tienen el mismo grado.
+- Los atributos tienen el mismo nombre.
+- El dominio del atributo-i de R es el mismo que el dominio del atributo-i en S, ∀i
+
+Formato: <b>π lista de atributos (R)</b>Nombre de la Relación
+
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/52algebra.png">
