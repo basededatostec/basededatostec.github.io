@@ -14,9 +14,9 @@ tags: [unidad cinco, resumen, introducción, algebra relacional]
 
 <img src="https://basededatostec.github.io/img/50algebra.png">
 
-### Seleccion
+### Selección
 
-<p style="text-align: justify;">El operador de selección opta por tuplas que satisfagan cierto predicado, se utiliza la letra griega sigma minúscula <b>(σ)</b> para señalar la selección. El predicado aparece como <b>subíndice de σ</b>. La Relación que constituye el argumento se da entre paréntesis después de la <b>σ</b>. </p>Formato: σ (condición) (R) Nombre de la Relación
+<p style="text-align: justify;">El operador de selección opta por tuplas que satisfagan cierto predicado, se utiliza la letra griega sigma minúscula <b>(σ)</b> para señalar la selección. El predicado aparece como <b>subíndice de σ</b>. La Relación que constituye el argumento se da entre paréntesis después de la <b>σ</b>. Formato: <b>σ (condición) (R)</b> Nombre de la Relación</p>
 
 __EJEMPLO__
 
@@ -24,4 +24,11 @@ __EJEMPLO__
 
 ### Proyección
 
-<p style="text-align: justify;">La operación de proyección permite quitar ciertos atributos de la relación, esta operación es unaria, copiando su relación base dada como argumento y quitando ciertas columnas, La proyección se señala con la letra griega pi mayúscula (Π). Como subíndice de Π se coloca una lista de todos los atributos que se desea aparezcan en el resultado. La relación argumento se escribe después de Π entre paréntesis.</p>
+<p style="text-align: justify;">La operación de proyección permite <b>quitar ciertos atributos</b> de la relación, esta operación es unaria, copiando su relación base dada como argumento y quitando ciertas columnas, La proyección se señala con la letra griega pi
+mayúscula <b>(Π)</b>. Como subíndice de <b>Π</b> se coloca una <b>lista de todos los atributos</b> que se desea aparezcan en el resultado. La relación argumento se escribe después de <b>Π</b> entre paréntesis.</p>
+
+Formato: <b>π lista de atributos (R)</b>Nombre de la Relación
+
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/52algebra.png">
