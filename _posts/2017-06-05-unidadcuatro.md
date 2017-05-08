@@ -10,7 +10,7 @@ tags: [unidad cuatro, resumen, introducción, normalizado]
 
 <br><br>Los <b>datos redundantes</b> desperdician el espacio de disco y crean problemas de mantenimiento. Si hay que cambiar datos que existen en más de un lugar, se deben cambiar de la misma forma exactamente en todas sus ubicaciones. Un cambio en la dirección de un cliente es mucho más fácil de implementar si los datos sólo se almacenan en la <b>tabla Clientes</b> y no en algún otro lugar de la base de datos. 
 
-<br><br>Uno de los parámetros que mide la calidad de una base de datos es la <b>forma normal</b> en la que se encuentra su diseño. Puede alcanzarse cumpliendo ciertas restricciones que impone cada forma normal al <b>conjunto de atributos</b> de un diseño. El proceso de obligar a los atributos de un diseño a cumplir ciertas formas normales se llama normalización.
+<br><br>Uno de los parámetros que mide la calidad de una base de datos es la <b>forma normal</b> en la que se encuentra su diseño. Puede alcanzarse cumpliendo ciertas restricciones que impone cada forma normal al <b>conjunto de atributos</b> de un diseño. Obligar a los atributos de un diseño a cumplir ciertas formas normales se llama normalización.
 
 <br><br>Las formas normales pretenden alcanzar dos objetivos:
 
@@ -20,6 +20,6 @@ tags: [unidad cuatro, resumen, introducción, normalizado]
 
 __4.2 PRIMERA FORMA NORMAL__
 
-<p style="text-align: justify;">Esta primera Forma Normal, nos lleva a no repetir datos en nuestras tablas. Si nuestra tabla de ventas repite una y otra vez, el nombre, el domicilio y otros datos del Cliente, es que no hemos aplicado esta Normalizaciòn. Si tenemos una tabla clientes, en la tabla ventas, solo debería figurar el código del cliente, para que el resto de los datos se puedan referenciar automaticamente.
+<p style="text-align: justify;">Esta primera <b>forma normal</b>, nos lleva a no repetir datos en nuestras tablas. Si nuestra tabla de ventas repite una y otra vez, el <b>nombre</b>, el <b>domicilio</b> y otros datos del Cliente, es que no hemos aplicado esta normalizaciòn. Si tenemos una tabla <b>clientes</b>, en la tabla <b>ventas</b>, solo debería figurar el código del <b>cliente</b>, para que el resto de los datos se puedan referenciar automaticamente en el proceso referente.
 
-<br><br>Lo mismo ocurriría en una tabla de detalle de ventas, si por cada producto vendido colocamos el detalle del producto, con su descripción , medidas, etc…Tendriamos un desaprovechamiento de espacio y recursos muy grande. Para ello, tendremos nuestra tabla maestra de Productos y con solo grabar el código de dicho producto en nuestra tabla de ventas, será suficiente.</p>
+.<br><br>Lo mismo ocurriría en una tabla de <b>detalle de ventas</b>, si por cada producto vendido colocamos el detalle del producto, con su descripción , medidas, etc. Tendriamos un desaprovechamiento de espacio y recursos muy grande. Para ello, tendremos nuestra tabla maestra de <b>Productos</b> y con solo grabar el código de dicho producto en nuestra tabla de ventas, será suficiente.</p>
