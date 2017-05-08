@@ -75,28 +75,33 @@ Y ahora nuestra nueva tabla:
 
 <br><br>Esta estructura puede producir redundancia, en <b>clientes habituales</b>, donde se repetirá la misma información cada vez que el mismo cliente se aloje en el hotel.
 
-<br><br>La solución es simple, y consiste en separar esta relación en dos:
+<br><br>La solución es simple, y consiste en separar esta relación en dos diferemtes:
 <br><b>Ocupación</b>(No_cliente, No_habitación, fecha_entrada)
 <br><b>Cliente</b>(No_cliente(PK), Nombre_cliente)
-<b>Habitación</b>(No_habitación(PK), precio_noche, tipo_habitación)</p>
+<br><b>Habitación</b>(No_habitación(PK), precio_noche, tipo_habitación)</p>
 
 ### 4.7 OTRAS FORMAS NORMALES
 
 <p style="text-align: justify;">Tomemos por ejemplo la tabla Agenda, pero dejando sólo los atributos multivaluados:
 Agenda(nombre, teléfono, correo)
 
-<br><b>Lo primero que debemos hacer es buscar las claves y las dependencias. Recordemos que las claves candidatas deben identificar de forma unívoca cada tupla. De modo que estamos obligados a usar los tres atributos para formar la clave candidata.
+<br><br>Lo primero que debemos hacer es buscar las claves y las dependencias. Recordemos que las claves candidatas deben identificar de forma unívoca cada tupla. De modo que estamos obligados a usar los tres atributos para formar la clave candidata.
 
-<br><b>Pero las dependencias que tenemos son:
+<br><br>Pero las dependencias que tenemos son:
 nombre ->-> teléfono
 nombre ->-> correo
 
-<br><b>Y nombre no es clave candidata de esta relación.
+<br><br>Y nombre no es clave candidata de esta relación.
 
-<br><b>Resumiendo, debemos separar esta relación en varias (tantas como atributos multivaluados tenga).
+<br><br>Resumiendo, debemos separar esta relación en varias (tantas como atributos multivaluados tenga).
 Teléfonos(nombre, teléfono)
 Correos(nombre, correo)
 
-<br><b>Ahora en las dos relaciones se cumple la cuarta forma normal.</p>
+<br><br>Ahora en las dos relaciones se cumple la cuarta forma normal.</p>
+
+__QUINTA FORMA NORMAL 5FN__
+
+<p style="text-align: justify;">Existe una quinta forma normal, sirve para eliminar dependencias de proyección o reunión, que raramente se encuentran en las bases de datos vistas con regularidad.</p>
+
 
 
