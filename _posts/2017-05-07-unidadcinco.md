@@ -10,10 +10,11 @@ tags: [unidad cinco, resumen, introducción, algebra relacional]
 
 ### 5.1 OPERACIONES FUNDAMENTALES DEL ÁLGEBRA RELACIONAL
 
-Ocho operadores, algunos de ellos son <b>básicos</b> o <b>fundamentales</b> y otros son <b>derivados<bB> o forman parte de los operadores de extensión del álgebra relacional.
+<p style="text-align: justify;">Ocho operadores, algunos de ellos son <b>básicos</b> o <b>fundamentales</b> y otros son <b>derivados</b> o forman parte de los operadores de extensión del álgebra relacional.</p>
 
 <img src="https://basededatostec.github.io/img/50algebra.png">
 
 __Seleccion__
 
-<p style="text-align: justify;">El operador de selección opta por tuplas que satisfagan cierto predicado, se utiliza la letra griega sigma minúscula (σ) para señalar la selección. El predicado aparece como subíndice de σ. La Relación que constituye el argumento se da entre paréntesis después de la σ.
+<p style="text-align: justify;">El operador de selección opta por tuplas que satisfagan cierto predicado, se utiliza la letra griega sigma minúscula <b>(σ)</b> para señalar la selección. El predicado aparece como <b>subíndice de σ</b>. La Relación que constituye el argumento se da entre paréntesis después de la <b>σ</b>. </p>Operadores: (>, <, >=, <=, =, <>, ∧, ∨, ¬)
+
