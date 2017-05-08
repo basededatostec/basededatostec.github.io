@@ -72,9 +72,9 @@ __EJEMPLO__
 
 ### Intersección
 
-<p style="text-align: justify;">Produce el conjunto de todas las tuplas pertenecientes a A y B. Al igual que en teoría de conjuntos el símbolo ∩ representa aquí la intersección entre dos relaciones. Dentro del conjunto de operaciones en el álgebra relacional aparecen estas operaciones que no añaden potencia al algebra, pero simplifican las consultas habituales.</p>
+<p style="text-align: justify;">Produce el conjunto de todas las tuplas <b>pertenecientes</b> a <b>A</b> y <b>B</b>. Al igual que en teoría de conjuntos el símbolo ∩ representa aquí la <b>intersección entre dos relaciones</b>. Dentro del conjunto de operaciones en el álgebra relacional aparecen estas operaciones que no añaden potencia al algebra, pero simplifican las consultas habituales.</p>
 
- <br><br>Cada operación re-emplaza un conjunto de operaciones “normales”.
+Cada operación re-emplaza un conjunto de operaciones “normales”.
 
 - Intersección de conjuntos
 - Reunión natural
@@ -85,3 +85,31 @@ Formato: <b> R ∩ S = R – (R – S)</b>
 __EJEMPLO__
 
 <img src="https://basededatostec.github.io/img/56algebra.png">
+
+### Join
+
+<p style="text-align: justify;">El <b>JOIN Naturral</b> es una operación binaria que permite combinar ciertas selecciones y un producto cartesiano en una sola operación. Se denota por el símbolo: <b>⋈</b> </p>
+
+La reunión natural expresada en operaciones básicas equivale a:
+
+<br><br>R (X1;X2; ... Xm; Y1;Y2; ... ;Yn)
+<br>S (Y1;Y2; ... ;Yn; Z1; Z2; ... ; Zp)
+
+<p style="text-align: justify;">Relación con atributos X, Y, Z y poblado por el conjunto de tuplas que tienen igual valor de Y en R y en S.</p>
+
+π R U S (σ R.Y1=S.Y1 ^ R.Y2=S.Y2 ^...^ R.Yn=S.Yn (R X S))
+
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/57algebra.png">
+
+__Θ - Join__
+
+<p style="text-align: justify;">Equivalente al Join sólo que se permite usar cualquier condición de comparación. θ.</p>
+
+El resultado se construye:
+
+- Toma el R X S
+- Selecciona sólo las tuplas que satisfacen a θ.
+
+Formato: <b> R ⋈θ S</b>
