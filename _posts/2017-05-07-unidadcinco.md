@@ -115,3 +115,24 @@ Formato: <b> R ⋈θ S</b>
 __EJEMPLO__
 
 <img src="https://basededatostec.github.io/img/58algebra.png">
+
+### División
+
+<p style="text-align: justify;">Sean R y S dos relaciones con esquemas
+
+<br><br>(A1, ... ,An;B1, ... ,Bm) y (B1, ... , Bm) respectivamente.</p>
+
+La operación:
+<br>(R ÷ S)
+<br>da como resultado otra relación
+
+- cuyo esquema es (A1, ... ,An)
+- y su contenido son las tuplas tomadas a partir de las de r (R) tales que su valor (a1, ... ,an) está asociado en r (R) con TODOS los valores (b1, ... ,bm) que están en s (S)
+
+Formato: <b> (R ÷ S)</b>
+
+__EJEMPLO__
+
+<img src="https://basededatostec.github.io/img/59algebra.png">
+
+### 5.2 ÁLGEBRA RELACIONAL EXTENDIDA
