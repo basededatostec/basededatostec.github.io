@@ -154,47 +154,47 @@ __EJEMPLO__
 <img src="https://basededatostec.github.io/img/555algebra.png">
 
 
-<p style="text-align: justify;">π num-tarjeta, (limite-credito - credito-disponible) AS credito-utilizado (Tarjeta_credito) la relación o esquema resultante sería a manera de ejemplo claro esta:</p>
+<p style="text-align: justify;"><b>π num-tarjeta</b>, (limite-credito - credito-disponible) <b>AS credito-utilizado</b> (Tarjeta_credito) la relación o esquema resultante sería a manera de ejemplo claro esta:</p>
 
 <img src="https://basededatostec.github.io/img/556algebra.png">
 
-<p style="text-align: justify;"><b>Funciones de agregación</b>
+<p style="text-align: justify;"><b>FUNCIONES DE AGREGACIÓN</b>
 
-<br><br>Este tipo de operaciones se pueden como su nombre lo dice agregar a la operación de proyección, dichas operaciones toman un conjunto de valores y retornan o proyectan un valor ÚNICO. Las operaciones que veremos son:
+<br><br>Este tipo de operaciones se pueden como su nombre lo dice agregar a la <b>operación de proyección</b>, dichas operaciones toman un conjunto de valores y retornan o proyectan un valor <b>ÚNICO</b>. Las operaciones que veremos son:
 
-<br><br>-SUM: retorna la suma de los valores
-<br>-AVG: retorna la media de los valores
-<br>-MIN: retorna el mínimo de los valores
-<br>-MAX: retorna el máximo de los valores
-<br>-COUNT: retorna el número de elementos del conjunto
+<br><br>-<b>SUM</b>: retorna la suma de los valores
+<br>-<b>AVG</b>: retorna la media de los valores
+<br>-<b>MIN</b>: retorna el mínimo de los valores
+<br>-<b>MAX</b>: retorna el máximo de los valores
+<br>-<b>COUNT</b>: retorna el número de elementos del conjunto
 <br><br>La forma general:
-<br><br>g1, g2…gn G f1(a1), f2(a2).. Fm(am)(E)
+<br><br><b>g1, g2…gn G f1(a1), f2(a2).. Fm(am)(E)</b>
 
 <br><br>Donde:
 
-<br><br>g1,g2,…gn constituye la lista de atributos que indica como se realiza la agrupación.
+<br><br><b>g1,g2,…gn</b> constituye la lista de atributos que indica como se realiza la agrupación.
 
-<br><br>i es una función de agregación y ai es un nombre del atributo.
+<br><br><b>fi</b> es una función de agregación y ai es un nombre del atributo.
 
-<br><br>Considere el siguiente esquema Tarjeta-credito:</p>
+<br><br>Considere el siguiente esquema <b>Tarjeta-credito</b>:</p>
 
 <img src="https://basededatostec.github.io/img/557.png">
 
-<p style="text-align: justify;">Ejemplo de SUM
+<p style="text-align: justify;">Ejemplo de <b>SUM</b>
 
 Supongamos que nos interesa conocer el total de credito que se otorga a todos los clientes.
 
-G sum(limite-credito) (Tarjeta-credito)</p>
+<b>G sum</b>(limite-credito) (Tarjeta-credito)</p>
 
 <img src="https://basededatostec.github.io/img/558.png">
 
-<p style="text-align: justify;">Ahora si deseamos conocer el total de los limites de créditos por tipo de tarjeta tendriamos lo siguiente:
+<p style="text-align: justify;">Conocer el total de los limites de créditos por tipo de tarjeta tendriamos lo siguiente:
 
 tipo G tipo, sum(limite-credito) AS total-credito-tipo (Tarjeta-credito)</p>
 
 <img src="https://basededatostec.github.io/img/559.png">
 
-<p style="text-align: justify;">Ejemplo de AVG
+<p style="text-align: justify;">Ejemplo de <b>AVG</b>
 
 Supongase que se desea calcular el promedio de los créditos disponibles.
 
