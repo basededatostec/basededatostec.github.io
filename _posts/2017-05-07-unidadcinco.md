@@ -178,7 +178,7 @@ __EJEMPLO__
 
 <br><br>Considere el siguiente esquema Tarjeta-credito:</p>
 
-<img src="https://basededatostec.github.io/img/557algebra.png">
+<img src="https://basededatostec.github.io/img/557.png">
 
 <p style="text-align: justify;">Ejemplo de SUM
 
@@ -186,13 +186,13 @@ Supongamos que nos interesa conocer el total de credito que se otorga a todos lo
 
 G sum(limite-credito) (Tarjeta-credito)</p>
 
-<img src="https://basededatostec.github.io/img/558algebra.png">
+<img src="https://basededatostec.github.io/img/558.png">
 
 <p style="text-align: justify;">Ahora si deseamos conocer el total de los limites de créditos por tipo de tarjeta tendriamos lo siguiente:
 
 tipo G tipo, sum(limite-credito) AS total-credito-tipo (Tarjeta-credito)</p>
 
-<img src="https://basededatostec.github.io/img/559algebra.png">
+<img src="https://basededatostec.github.io/img/559.png">
 
 <p style="text-align: justify;">Ejemplo de AVG
 
