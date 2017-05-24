@@ -199,3 +199,15 @@ tipo G tipo, sum(limite-credito) AS total-credito-tipo (Tarjeta-credito)</p>
 Supongase que se desea calcular el promedio de los créditos disponibles.
 
 G avg(credito-disponible) (Tarjeta-credito)</p>
+
+__Fuentes de información__
+
+[Base de Datos 1 - Algebra Relacional](https://vilchezcieza.blogspot.mx/2016/05/algebra-relacional.html "fuente")
+
+[Algebra Relacional](http://ict.udlap.mx/people/carlos/is341/bases04.html "fuente")
+
+|  Acerca de: | 
+| :------ | 
+| Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
+| Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
+| <a href="https://basededatostec.github.io/unidadcuatro/">Actividades Unidad 4</a> |
