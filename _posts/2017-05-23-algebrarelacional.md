@@ -15,3 +15,5 @@ tags: [unidad cinco, algebra relacional]
 |  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Aquí les mostramos nuestra actividad: Consultas a través de AR, realizada en Word para la asignatura en curso.  
 
 La actividad realizada por el equipo es la siguiente. Archivo en formato word:
+
+<a title="word" href="http://www.lostejos.com"><img src="https://basededatostec.github.io/img/word.png" alt="word" /></a>
