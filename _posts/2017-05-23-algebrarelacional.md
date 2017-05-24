@@ -14,6 +14,4 @@ tags: [unidad cinco, algebra relacional]
 | :------- | :------ 
 |  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Aquí les mostramos nuestra presentación: Las 11 bases de datos más grandes del mundo, realizada en PowerPoint para la asignatura en curso, Fundamentos de Bases de Datos.  
 
-La presentación realizada por el equipo es la siguiente:
-
-<iframe allowfullscreen="true" frameborder="0" height="549" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/1RahvsZLbRu3a6AErjbU185vLX1Q4rpPaOfLDt2vhbJU/embed?start=false&amp;loop=false&amp;delayms=3000" webkitallowfullscreen="true" width="760"></iframe>
+La actividad realizada por el equipo es la siguiente. Archivo en formato word:
