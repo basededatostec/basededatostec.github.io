@@ -4,7 +4,7 @@ title: Unidad 5
 subtitle: Algebra Relacional
 ---
 
-<p style="text-align: justify;">Durante la cuarta unidad del curso de Fundamentos de Bases de Datos, se desarrollaron actividades que nos ayudaron a introducirnos a la normalización de bases de datos. A continuación se presentan estas actividades:</p>
+<p style="text-align: justify;">Durante la quinta unidad del curso de Fundamentos de Bases de Datos, se desarrollaron actividades que nos ayudaron a introducirnos al álgebra relacional. A continuación se presentan estas actividades:</p>
 
 | Actividad | Consultas a través de AR | 
 | :------ |:--- |
