@@ -8,9 +8,9 @@ tags: [unidad cinco, algebra relacional]
  
 </p>
 
-<p style="text-align: justify;">En esta actividad deberán realizar todos y cada uno de los ejercicios que se indican en el archivo que podrás descargar AQUI, es muy importante que se verifiquen y validen cada una de las respuestas.</p>
+<p style="text-align: justify;">En esta actividad se deberán realizar todos y cada uno de los ejercicios que se indican en el archivo pertinente que ya hemos descargado, es muy importante que se verifiquen y validen cada una de las respuestas.</p>
 
-| Actividad | Presentación en PowerPoint 
+| Actividad | title: Consultas a través de AR 
 | :------- | :------ 
 |  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Aquí les mostramos nuestra presentación: Las 11 bases de datos más grandes del mundo, realizada en PowerPoint para la asignatura en curso, Fundamentos de Bases de Datos.  
 
