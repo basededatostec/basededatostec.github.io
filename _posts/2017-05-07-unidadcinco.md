@@ -139,12 +139,16 @@ __EJEMPLO__
 
 <p style="text-align: justify;">Las operaciones básicas del álgerba relacional se han extendido o ampliado de varias maneras.
 
-1.- Una de las extensiones es permitir operaciones aritméticas como parte de la operación proyección (Proyección Generalizada).
+<br>1.- Una de las extensiones es permitir operaciones aritméticas como parte de la operación proyección (Proyección Generalizada).
 
-2.- Permitir operaciones de agregación.
+<br><br>2.- Permitir operaciones de agregación.
 
-<b>PROYECCIÓN GENERALIZADA</b>
+<br><br><b>PROYECCIÓN GENERALIZADA</b>
 
-Esta función amplía la proyección permitiendo que se utilicen funciones aritméticas en la lista de proyección. La operación proyección generalizada tiene la forma siguiente:
+<br><br>Esta función amplía la proyección permitiendo que se utilicen funciones aritméticas en la lista de proyección. La operación proyección generalizada tiene la forma siguiente:
 
-<b>πF1, F2, ... ,Fn (E)</b></p>
+<br><br><b>πF1, F2, ... ,Fn (E)</b>
+
+<br><br>donde E es cualquier expresión del álgebra relacional y F1, F2, ... ,Fn son expresiones aritméticas que incluyen constantes y atributos pertenecientes al esquema E. Como caso especial la expresión aritmética puede ser simplemente un atributo o una constante. Cuando se hace uso de esta operación generalizada se recomienda dar nombre al atributo o columna generada con la función que se aplique.
+
+<br><br>Ejemplo: Suponga el esquema Tarjeta_credito (num-tarjeta, credito-disponible, limite-credito, vigencia, tipo) y se desea conocer lo gastado.</p>
