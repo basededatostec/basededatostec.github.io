@@ -16,7 +16,7 @@ tags: [unidad cinco, algebra relacional]
 
 La actividad realizada por el equipo es la siguiente. Archivo en formato word:
 
-<a title="word" href="https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYdU9zMV9iS3IzU28"><img height="100" src="https://basededatostec.github.io/img/word.png" alt="word" /></a>
+<a title="word" href="https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYMXNVWkxxNHA4WEU"><img height="100" src="https://basededatostec.github.io/img/word.png" alt="word" /></a>
 
 |  Acerca de: | 
 | :------ | 
