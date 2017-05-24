@@ -152,3 +152,5 @@ __EJEMPLO__
 <br><br>donde E es cualquier expresión del álgebra relacional y F1, F2, ... ,Fn son expresiones aritméticas que incluyen constantes y atributos pertenecientes al esquema E. Como caso especial la expresión aritmética puede ser simplemente un atributo o una constante. Cuando se hace uso de esta operación generalizada se recomienda dar nombre al atributo o columna generada con la función que se aplique.
 
 <br><br>Ejemplo: Suponga el esquema Tarjeta_credito (num-tarjeta, credito-disponible, limite-credito, vigencia, tipo) y se desea conocer lo gastado.</p>
+
+<img src="https://basededatostec.github.io/img/55algebra.png">
