@@ -17,3 +17,9 @@ tags: [unidad cinco, algebra relacional]
 La actividad realizada por el equipo es la siguiente. Archivo en formato word:
 
 <a title="word" href="http://www.lostejos.com"><img height="100" src="https://basededatostec.github.io/img/word.png" alt="word" /></a>
+
+|  Acerca de: | 
+| :------ | 
+| Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
+| Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
+| <a href="https://basededatostec.github.io/unidadcinco/">Actividades Unidad 5</a> |
