@@ -135,3 +135,10 @@ __EJEMPLO__
 
 
 ### 5.2 ÁLGEBRA RELACIONAL EXTENDIDA
+
+
+<p style="text-align: justify;">Las operaciones básicas del álgerba relacional se han extendido o ampliado de varias maneras.
+
+1.- Una de las extensiones es permitir operaciones aritméticas como parte de la operación proyección (Proyección Generalizada).
+
+2.- Permitir operaciones de agregación.</p>
