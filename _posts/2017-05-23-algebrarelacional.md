@@ -16,4 +16,4 @@ tags: [unidad cinco, algebra relacional]
 
 La actividad realizada por el equipo es la siguiente. Archivo en formato word:
 
-<a title="word" href="http://www.lostejos.com"><img src="https://basededatostec.github.io/img/word.png" alt="word" /></a>
+<a title="word" href="http://www.lostejos.com"><img heigth="100" src="https://basededatostec.github.io/img/word.png" alt="word" /></a>
