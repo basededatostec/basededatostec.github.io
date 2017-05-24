@@ -141,4 +141,10 @@ __EJEMPLO__
 
 1.- Una de las extensiones es permitir operaciones aritméticas como parte de la operación proyección (Proyección Generalizada).
 
-2.- Permitir operaciones de agregación.</p>
+2.- Permitir operaciones de agregación.
+
+<b>PROYECCIÓN GENERALIZADA</b>
+
+Esta función amplía la proyección permitiendo que se utilicen funciones aritméticas en la lista de proyección. La operación proyección generalizada tiene la forma siguiente:
+
+<b>πF1, F2, ... ,Fn (E)</b></p>
