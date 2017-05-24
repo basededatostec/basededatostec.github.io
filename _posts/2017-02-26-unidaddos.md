@@ -165,7 +165,9 @@ tags: [unidad dos, resumen, modelo E-R]
 
 <center><img src="https://basededatostec.github.io/img/28modelo.png" alt="uml" title="UML"></center>
 
-Fuentes de Información: <a href="http://tavoberry.com/MER/diagramas_er.html" target="_blank">Modelo entidad relación</a>
+__Fuentes de Información__
+
+<a href="http://tavoberry.com/MER/diagramas_er.html" target="_blank">Modelo entidad relación</a>
 
 |  Acerca de: | 
 | :------ | 
