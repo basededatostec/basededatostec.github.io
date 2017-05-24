@@ -137,20 +137,23 @@ __EJEMPLO__
 ### 5.2 ÁLGEBRA RELACIONAL EXTENDIDA
 
 
-<p style="text-align: justify;">Las operaciones básicas del álgerba relacional se han extendido o ampliado de varias maneras.
+<p style="text-align: justify;"><b>1.-</b> Una de las extensiones es permitir operaciones aritméticas como parte de la operación proyección (Proyección Generalizada).
 
-<br>1.- Una de las extensiones es permitir operaciones aritméticas como parte de la operación proyección (Proyección Generalizada).
-
-<br><br>2.- Permitir operaciones de agregación.
+<br><br><b>2.-</b> Permitir operaciones de agregación.
 
 <br><br><b>PROYECCIÓN GENERALIZADA</b>
 
-<br><br>Esta función amplía la proyección permitiendo que se utilicen funciones aritméticas en la lista de proyección. La operación proyección generalizada tiene la forma siguiente:
+<br><br>Amplía la proyección permitiendo que se utilicen <b>funciones aritméticas</b> en la lista de proyección. La operación proyección generalizada tiene la forma siguiente:
 
 <br><br><b>πF1, F2, ... ,Fn (E)</b>
 
-<br><br>donde E es cualquier expresión del álgebra relacional y F1, F2, ... ,Fn son expresiones aritméticas que incluyen constantes y atributos pertenecientes al esquema E. Como caso especial la expresión aritmética puede ser simplemente un atributo o una constante. Cuando se hace uso de esta operación generalizada se recomienda dar nombre al atributo o columna generada con la función que se aplique.
+<br><br>donde <b>E</b> es cualquier expresión del álgebra relacional y F1, F2, ... ,Fn son expresiones aritméticas que incluyen constantes y atributos pertenecientes al esquema E. Como caso especial la <b>expresión aritmética</b> puede ser simplemente un atributo o una constante. Cuando se hace uso de esta operación generalizada se recomienda dar nombre al atributo o columna generada con la función que se aplique.
 
-<br><br>Ejemplo: Suponga el esquema Tarjeta_credito (num-tarjeta, credito-disponible, limite-credito, vigencia, tipo) y se desea conocer lo gastado.</p>
+<br><br>Ejemplo: Suponga el esquema <b>Tarjeta_credito</b> (num-tarjeta, credito-disponible, limite-credito, vigencia, tipo) y se desea conocer lo gastado.</p>
 
 <img src="https://basededatostec.github.io/img/55algebra.png">
+
+
+<p style="text-align: justify;">π num-tarjeta, (limite-credito - credito-disponible) AS credito-utilizado (Tarjeta_credito) la relación o esquema resultante sería a manera de ejemplo claro esta:</p>
+
+<img src="https://basededatostec.github.io/img/56algebra.png">
