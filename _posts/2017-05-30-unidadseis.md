@@ -29,7 +29,7 @@ tags: [unidad seis, resumen, sql]
 
 ### DROP
 
-<br><br><p style="text-align: justify;">El comando DROP es usado para el barrado de diversos objetos como tablas, indices y la propia base de datos.
+<p style="text-align: justify;">El comando DROP es usado para el barrado de diversos objetos como tablas, indices y la propia base de datos.
 
 <br><br>La sintaxis es muy sencilla y se muestra a continuación:
 
