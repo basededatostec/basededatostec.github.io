@@ -11,7 +11,7 @@ tags: [unidad seis, proyecto]
 | :------- | :------ 
 |  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Aquí no hay ninguna actividad: Esta actividad se realizó en el laboratorio en el horario asignado con puntualidad.  
 
-Proyecto Integrador
+Se debe tener instalado y funcionando correctamente MySQL y tener un modelo con suficientes datos para realizar las consultas a la base de datos.
 
 |  Acerca de: | 
 | :------ | 
