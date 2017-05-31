@@ -94,7 +94,27 @@ alter_specification [, alter_specification]</b>
 
 <img src ="https://basededatostec.github.io/img/borra2.png">
 
+<p style="text-align: justify;">Además de las cláusulas se pueden emplear dentro de las condiciones tanto operadores lógicos como relaciones para poder realizar búsquedas avanzadas o mas precisas.
 
+<br><br>Los operadores a emplear dentro de esta lección son lo siguientes:
+
+<br><br>Operadores lógicos.</p>
+
+<img src ="https://basededatostec.github.io/img/borra3.png">
+
+<p style="text-align: justify;">Operadores Relacionales.</p>
+
+<img src ="https://basededatostec.github.io/img/borra4.png">
+
+__Fuentes de información__
+
+[Fundamentos de Bases de Datos](http://fundamentosbditp.blogspot.mx/p/blog-page_16.html "fuente")
+
+|  Acerca de: | 
+| :------ | 
+| Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
+| Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
+| <a href="https://basededatostec.github.io/unidadseis/">Actividades Unidad 6</a> |
 
 
 
