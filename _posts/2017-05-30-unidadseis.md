@@ -7,13 +7,13 @@ tags: [unidad seis, resumen, sql]
 
 ### 6.1 CARACTERÍSTICAS
 
-<p style="text-align: justify;">En informática, cuando se quiere hacer uso de un <b>lenguaje de programaicón</b> se requiere de una sintáxis para escribir de forma correcta cada una de las instrucciones. Para escribirlas adecuadamente se debe respetar una notación, es decir, las reglas que permiten la construcción de <b>instrucciones válidas</b>, en este caso, instrucciones que el compilador o interprete de comando sea capaz de "entender" y hacer lo que nosotros estamos indicando.
+<p style="text-align: justify;">En informática, cuando se quiere hacer uso de un <b>lenguaje de programaicón</b> se requiere de una sintáxis para escribir de forma correcta cada una de las instrucciones. Para escribirlas adecuadamente se debe respetar una notación, es decir, las reglas que permiten la construcción de <b>instrucciones válidas</b>, en este caso, instrucciones que el compilador o sea capaz de entender.
 
 <br><br>SQL es un lenguaje de consulta estrcuturado (Structured Query Language), se subdivide en otros lenguajes tales como:
 
-<br><br><b>SDDL</b>: Lenguaje de deifinición de datos: crear las estructuras físicas donde se <b>almacenarán los objetos</b> de las bases de datos, crear tablas, índices, vistas, entre otros objetos de la base de datos.
+<br><br><b>SDDL</b>: Lenguaje de deifinición de datos: crear las estructuras físicas donde se <b>almacenarán los objetos</b> de las bases de datos, crear tablas, índices, entre otros..
 
-<br><br><b>SDML</b>: Lenguaje de manipulación de datos: contiene de las funciones para la consulta de información de la base de datos (SELECT), también contiene <b>DELETE</b> para el borrado de datos, <b>UPDATE</b> para actualizar información, <b>INSERT</b> para insertar a la base de datos registros.</p>
+<br><br><b>SDML</b>: Lenguaje de manipulación de datos: contiene de las funciones para la consulta de información <b>SELECT</b>, también contiene <b>DELETE</b> para el borrado de datos, <b>UPDATE</b> para actualizar información, <b>INSERT</b> para insertar a la base de datos registros.</p>
 
 ### 6.2 LENGUAJE DE DEFINICIÓN DE DATOS(DDL)
 
@@ -80,7 +80,7 @@ alter_specification [, alter_specification]</b>
 
 <br><br><b>CREATE DATABASE Libros;</b></p>
 
-### 6.3LENGUAJE DE MANIPULACIÓN DE DATOS (LMD)
+### 6.3 LENGUAJE DE MANIPULACIÓN DE DATOS (LMD)
 
 
 <p style="text-align: justify;">Las sentencias de lenguaje de manipulación de datos (DML) son utilizadas para gestionar datos dentro de los esquemas o relaciones de la base de datos.
