@@ -27,13 +27,13 @@ tags: [unidad seis, resumen, sql]
 
 <br><br><b>ALTER</b> tipo_objeto Nombre Modificación. Modifica la definición de un objeto. Por ejemplo, la sentencia <b>ALTER TABLE</b> Autores <b>DROP COLUMN</b> nacionalidad, elminaría la columna nacionalidad de la tabla Autores.</p>
 
-<br><br>### DROP
+### DROP
 
 <br><br><p style="text-align: justify;">El comando DROP es usado para el barrado de diversos objetos como tablas, indices y la propia base de datos.
 
 <br><br>La sintaxis es muy sencilla y se muestra a continuación:
 
-<br><br><b>DROP {DATABASE | SCHEMA | TABLE} nombre_del_objeto</b>
+<br><br><b>DROP {DATABASE | SCHEMA | TABLE} nombre_del_objeto</b></p>
 
 
 
