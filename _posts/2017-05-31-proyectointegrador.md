@@ -4,12 +4,14 @@ title: Proyecto Integrador
 subtitle: 
 tags: [unidad seis, proyecto]
 ---
-<p style="text-align: justify;"><B>Objetivo</B>: Aquí no deben realizar ninguna actividad, solo he agregado la tarea para poder establecer las calificaciones de la evaluación en el laboratorio.
+<p style="text-align: justify;"><B>Objetivo</B>: Aquí no deben realizar ninguna actividad, sólo he agregado la tarea para poder establecer las calificaciones de la evaluación en el laboratorio.
 </p>
 
 | Actividad | Proyecto Integrador
 | :------- | :------ 
 |  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Aquí no hay ninguna actividad: Esta actividad se realizó en el laboratorio en el horario asignado con puntualidad.  
+
+Proyecto Integrador
 
 |  Acerca de: | 
 | :------ | 
