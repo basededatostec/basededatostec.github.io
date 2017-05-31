@@ -87,6 +87,13 @@ alter_specification [, alter_specification]</b>
 
 <br><br>Existen diversos comandos del sub lenguaje LMD perteneciente al lenguaje SQL, en esta lección veremos los siguientes:</p>
 
+<img src ="https://basededatostec.github.io/img/borra.png">
+
+
+<p style="text-align: justify;">Los comandos para que adquieran mayor potencialidad pueden ser usados con diversas clausulas, las cuales son condiciones de modificación utilizadas para definir los datos que desea seleccionar o manipular.</p>
+
+<img src ="https://basededatostec.github.io/img/borra2.png">
+
 
 
 
