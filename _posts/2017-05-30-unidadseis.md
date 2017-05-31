@@ -56,10 +56,29 @@ alter_specification [, alter_specification]</b>
 <br><br>Veamos algunos ejemplos:
 
 <br><br>Renombrar Tabla: Se utiliza para cambiar el nombre a una tabla la sintaxis es:
-<br><br>ALTER TABLE Libro RENAME TO ejemplares;
+<br><br><b>ALTER TABLE Libro RENAME TO ejemplares;</b>
 
 <br><br>Añadir un campo (ADD COLUMN): Como su nombre lo indica nos permite añadir un campo a una tabla que ya habíamos creado, un ejemplo de su uso:
-<br><br>ALTER TABLE Libro ADD COLUMN year_edición INT(4) NOT NULL;</p>
+<br><br><b>ALTER TABLE Libro ADD COLUMN year_edición INT(4) NOT NULL;</b></p>
+
+### CREATE
+
+<p style="text-align: justify;">Se utiliza para crear una nueva base de datos vacía.
+
+<br><br>Su sintaxis es la siguiente:
+
+<br><br><b>CREATE [OR REPLACE] {DATABASE | SCHEMA} [IF NOT EXISTS] db_name
+[create_specification] </b>
+    
+<br><br>Ejemplos:
+
+<br><br>Si deseamos crear una base de datos llamada Libros escribimos lo siguiente:
+
+<br><br><b>CREATE DATABASE Biblioteca;</b>
+
+
+
+
 
 
 
