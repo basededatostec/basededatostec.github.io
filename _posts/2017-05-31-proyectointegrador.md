@@ -7,18 +7,12 @@ tags: [unidad seis, proyecto]
 <p style="text-align: justify;"><B>Objetivo</B>: Aquí no deben realizar ninguna actividad, solo he agregado la tarea para poder establecer las calificaciones de la evaluación en el laboratorio.
 </p>
 
-<p style="text-align: justify;">En esta actividad se deberán realizar todos y cada uno de los ejercicios que se indican en el archivo pertinente que ya hemos descargado, es muy importante que se verifiquen y validen cada una de las respuestas.</p>
-
-| Actividad | Consultas a través de AR 
+| Actividad | Proyecto Integrador
 | :------- | :------ 
-|  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Aquí les mostramos nuestra actividad: Consultas a través de AR, realizada en Word para la asignatura en curso.  
-
-La actividad realizada por el equipo es la siguiente. Archivo en formato word:
-
-<a title="word" href="https://drive.google.com/uc?export=download&id=0B0tLjk4fF3eYMXNVWkxxNHA4WEU"><img height="100" src="https://basededatostec.github.io/img/word.png" alt="word" /></a>
+|  <img src="https://basededatostec.github.io/img/04presentacion.png" width="85" height="85"> | Aquí no hay ninguna actividad: Esta actividad se realizó en el laboratorio en el horario asignado con puntualidad.  
 
 |  Acerca de: | 
 | :------ | 
 | Éste es un sitio creado por estudiantes del Instituto Tecnológico de Pachuca, para la asignatura en curso; Fundamentos de Bases de Datos. | 
 | Equipo New Jackers: Hernández Salinas Lucio y Sanchez Casañas Jose María |
-| <a href="https://basededatostec.github.io/unidadcinco/">Actividades Unidad 5</a> |
+| <a href="https://basededatostec.github.io/unidadseis/">Actividades Unidad 6</a> |
