@@ -76,6 +76,19 @@ alter_specification [, alter_specification]</b>
 
 <br><br><b>CREATE DATABASE Biblioteca;</b>
 
+<br><br>Si deseamos crear una tabla llamada Libros escribimos lo siguiente:
+
+<br><br><b>CREATE DATABASE Libros;</b></p>
+
+### 6.3 Lenguaje de manipulación de datos (LMD)
+
+
+<p style="text-align: justify;">Las sentencias de lenguaje de manipulación de datos (DML) son utilizadas para gestionar datos dentro de los esquemas o relaciones de la base de datos.
+
+<br><br>Existen diversos comandos del sub lenguaje LMD perteneciente al lenguaje SQL, en esta lección veremos los siguientes:</p>
+
+
+
 
 
 
