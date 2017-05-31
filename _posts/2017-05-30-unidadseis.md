@@ -33,6 +33,8 @@ tags: [unidad seis, resumen, sql]
 
 <br><br>La sintaxis es muy sencilla y se muestra a continuación:
 
+<br><br><b>DROP {DATABASE | SCHEMA | TABLE} nombre_del_objeto</b>
+
 <br><br>Veamos los ejemplos:
 
 <br><br><b>DROP DATABASE Blibioteca:</b>
@@ -41,9 +43,7 @@ tags: [unidad seis, resumen, sql]
 
 <br><br><b>DROP TABLE Libro;</b>
 
-<br><br>Esta instrucción realiza el borrado de la tabla Libro.
-
-<br><br><b>DROP {DATABASE | SCHEMA | TABLE} nombre_del_objeto</b></p>
+<br><br>Esta instrucción realiza el borrado de la tabla Libro.</p>
 
 ### ALTER
 
