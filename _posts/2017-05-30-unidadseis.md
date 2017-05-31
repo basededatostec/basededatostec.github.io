@@ -5,7 +5,7 @@ subtitle: Introducción al lenguaje SQL
 tags: [unidad seis, resumen, sql]
 ---
 
-### 6.1 Características
+### 6.1 CARACTERÍSTICAS
 
 <p style="text-align: justify;">En informática, cuando se quiere hacer uso de un <b>lenguaje de programaicón</b> se requiere de una sintáxis para escribir de forma correcta cada una de las instrucciones. Para escribirlas adecuadamente se debe respetar una notación, es decir, las reglas que permiten la construcción de <b>instrucciones válidas</b>, en este caso, instrucciones que el compilador o interprete de comando sea capaz de "entender" y hacer lo que nosotros estamos indicando.
 
@@ -15,7 +15,7 @@ tags: [unidad seis, resumen, sql]
 
 <br><br><b>SDML</b>: Lenguaje de manipulación de datos: contiene de las funciones para la consulta de información de la base de datos (SELECT), también contiene <b>DELETE</b> para el borrado de datos, <b>UPDATE</b> para actualizar información, <b>INSERT</b> para insertar a la base de datos registros.</p>
 
-### 6.2 Lenguaje de Definición de Datos (DDL)
+### 6.2 LENGUAJE DE DEFINICIÓN DE DATOS(DDL)
 
 <p style="text-align: justify;">Cuando se escriben sentencias SQL se recomienda por estandar que las palabras reservadas del lenguaje ya sea <b>DDL</b> o <b>DML</b> se escriban en mayúsculas.
 
@@ -80,7 +80,7 @@ alter_specification [, alter_specification]</b>
 
 <br><br><b>CREATE DATABASE Libros;</b></p>
 
-### 6.3 Lenguaje de manipulación de datos (LMD)
+### 6.3LENGUAJE DE MANIPULACIÓN DE DATOS (LMD)
 
 
 <p style="text-align: justify;">Las sentencias de lenguaje de manipulación de datos (DML) son utilizadas para gestionar datos dentro de los esquemas o relaciones de la base de datos.
@@ -100,11 +100,11 @@ alter_specification [, alter_specification]</b>
 
 <br><br>Operadores lógicos.</p>
 
-<img src ="https://basededatostec.github.io/img/borra3.png">
+<img src ="https://basededatostec.github.io/img/borrame3.png">
 
 <p style="text-align: justify;">Operadores Relacionales.</p>
 
-<img src ="https://basededatostec.github.io/img/borra4.png">
+<img src ="https://basededatostec.github.io/img/borrame4.png">
 
 __Fuentes de información__
 
