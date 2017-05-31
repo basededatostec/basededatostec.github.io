@@ -67,8 +67,7 @@ alter_specification [, alter_specification]</b>
 
 <br><br>Su sintaxis es la siguiente:
 
-<br><br><b>CREATE [OR REPLACE] {DATABASE | SCHEMA} [IF NOT EXISTS] db_name
-[create_specification] </b>
+<br><br><b>CREATE DATABASE IF NOT EXISTS NOMBREBASEDEDATOS </b>
     
 <br><br>Ejemplos:
 
