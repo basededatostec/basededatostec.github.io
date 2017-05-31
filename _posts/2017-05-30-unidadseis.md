@@ -7,7 +7,7 @@ tags: [unidad seis, resumen, sql]
 
 ### 6.1 CARACTERÍSTICAS
 
-<p style="text-align: justify;">En informática, cuando se quiere hacer uso de un <b>lenguaje de programaicón</b> se requiere de una sintáxis para escribir de forma correcta cada una de las instrucciones. Para escribirlas adecuadamente se debe respetar una notación, es decir, las reglas que permiten la construcción de <b>instrucciones válidas</b>, en este caso, instrucciones que el compilador o sea capaz de entender.
+<p style="text-align: justify;">En informática, cuando se quiere hacer uso de un <b>lenguaje de programaicón</b> se requiere de una sintáxis para escribir de forma correcta cada una de las instrucciones. Para escribirlas adecuadamente se debe respetar una notación, es decir, las reglas que permiten la construcción de <b>instrucciones válidas</b>, en este caso, instrucciones que el compilador o sea capaz de entender y hacer lo que se le indica.
 
 <br><br>SQL es un lenguaje de consulta estrcuturado (Structured Query Language), se subdivide en otros lenguajes tales como:
 
@@ -85,16 +85,16 @@ alter_specification [, alter_specification]</b>
 
 <p style="text-align: justify;">Las sentencias de lenguaje de manipulación de datos (DML) son utilizadas para gestionar datos dentro de los esquemas o relaciones de la base de datos.
 
-<br><br>Existen diversos comandos del sub lenguaje LMD perteneciente al lenguaje SQL, en esta lección veremos los siguientes:</p>
+<br><br>Existen diversos comandos del sub lenguaje <b>LMD</b> perteneciente al lenguaje SQL.</p>
 
 <img src ="https://basededatostec.github.io/img/borra.png">
 
 
-<p style="text-align: justify;">Los comandos para que adquieran mayor potencialidad pueden ser usados con diversas clausulas, las cuales son condiciones de modificación utilizadas para definir los datos que desea seleccionar o manipular.</p>
+<p style="text-align: justify;">Los comandos para que adquieran mayor potencialidad pueden ser usados con diversas clausulas, las cuales son condiciones de modificación utilizadas para definir los datos que desea seleccionar o manipular, estos se muestran a continuación.</p>
 
 <img src ="https://basededatostec.github.io/img/borra2.png">
 
-<p style="text-align: justify;">Además de las cláusulas se pueden emplear dentro de las condiciones tanto operadores lógicos como relaciones para poder realizar búsquedas avanzadas o mas precisas.
+<p style="text-align: justify;">Además de las cláusulas se pueden emplear dentro de las condiciones tanto operadores lógicos como relaciones para poder realizar <b>búsquedas avanzadas</b> o mas precisas.
 
 <br><br>Los operadores a emplear dentro de esta lección son lo siguientes:
 
