@@ -13,7 +13,7 @@ tags: [unidad seis, resumen, sql]
 
 <br><br><b>SDDL</b>: Lenguaje de deifinición de datos: crear las estructuras físicas donde se <b>almacenarán los objetos</b> de las bases de datos, crear tablas, índices, vistas, entre otros objetos de la base de datos.
 
-<br><br><b>SDML</b>: Lenguaje de manipulación de datos: contiene de las funciones para la consulta de información de la base de datos (SELECT), también contiene <b>DELETE</b> para el borrado de datos, </b>UPDATE</b> para actualizar información, <b>INSERT</b> para insertar a la base de datos registros.</p>
+<br><br><b>SDML</b>: Lenguaje de manipulación de datos: contiene de las funciones para la consulta de información de la base de datos (SELECT), también contiene <b>DELETE</b> para el borrado de datos, <b>UPDATE</b> para actualizar información, <b>INSERT</b> para insertar a la base de datos registros.</p>
 
 ### 6.2 Lenguaje de Definición de Datos (DDL)
 
@@ -44,6 +44,22 @@ tags: [unidad seis, resumen, sql]
 <br><br>Esta instrucción realiza el borrado de la tabla Libro.
 
 <br><br><b>DROP {DATABASE | SCHEMA | TABLE} nombre_del_objeto</b></p>
+
+### ALTER
+
+<p style="text-align: justify;">Esta sentencia se utiliza para modificar la estructura de una tabla ya existente, mediante de esta podemos añadir, borrar y modificar los campos de nuestra tabla. 
+
+<br><br>Su sintaxis es:
+
+<br><br><b>ALTER [ONLINE] [IGNORE] TABLE tbl_name
+alter_specification [, alter_specification]</b>
+<br><br>Veamos algunos ejemplos:
+
+<br><br>Renombrar Tabla: Se utiliza para cambiar el nombre a una tabla la sintaxis es:
+<br><br>ALTER TABLE Libro RENAME TO ejemplares;
+
+<br><br>Añadir un campo (ADD COLUMN): Como su nombre lo indica nos permite añadir un campo a una tabla que ya habíamos creado, un ejemplo de su uso:
+<br><br>ALTER TABLE Libro ADD COLUMN year_edición INT(4) NOT NULL;</p>
 
 
 
